@@ -10,6 +10,9 @@ layout: default
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <script type="text/javascript">
+ 	$.backstretch("images/back1.jpg");
+</script>
+<script type="text/javascript">
 <!--
 /**
  * Converts an xs:date or xs:dateTime formatted string into the local timezone
@@ -116,17 +119,22 @@ function listEvents(root, divId) {
     }
 
     var dateString = formatGCalTime(start);
+    var dateSpan = document.createElement('span');
+    dateSpan.setAttribute('class', "event-date");
+    dateSpan.appendChild(document.createTextNode(dateString));
+
     var li = document.createElement('li');
 
     // if we have a link to the event, create an 'a' element
     if (typeof entryLinkHref != 'undefined') {
       entryLink = document.createElement('a');
       entryLink.setAttribute('href', entryLinkHref);
-      entryLink.appendChild(document.createTextNode(title));
+      entryLink.appendChild(document.createTextNode(title + ' '));
       li.appendChild(entryLink);
-      li.appendChild(document.createTextNode(' - ' + dateString));
+      li.appendChild(dateSpan);
     } else {
-      li.appendChild(document.createTextNode(title + ' - ' + dateString));
+      li.appendChild(document.createTextNode(title + ' '));
+      li.appendChild(dateSpan);
     }
 
     // append the list item onto the unordered list
@@ -142,19 +150,37 @@ function listEvents(root, divId) {
  * @param {json} root is the JSON-formatted content from GData
  */
 function insertAgenda(root) {
-  listEvents(root, 'agenda');
+  listEvents(root, 'calendar');
 }
 //-->
 </script>
 
+
+{{content}}
+<section>
 <h3>Upcoming Cogges Events</h3>
-<div id="agenda"><p>Loading...</p></div>
+
+<div id="events-block">
+	<div id="calendar"><p>Loading...</p></div>
+</div>
 
 <script type="text/javascript" src="http://www.google.com/calendar/feeds/events@coggesparish.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=5&singleevents=true&sortorder=ascending&futureevents=true"></script>
 
+
+
+<script type="text/javascript" src="/js/easySlider1.7.js"></script>
 <script type="text/javascript">
- 	$.backstretch("images/back1.jpg");
+    $(document).ready(function(){
+        $("#calendar").easySlider({
+            auto: true,
+            continuous: true,
+            numeric: true,
+            speed: 500,
+            pause: 6000,
+        });
+    });
 </script>
+</section>
 
 <div class="credit">
 Photo Credit: <a href="http://www.flickr.com/photos/40645538@N00/2924328115/">© 2006-2013 Pink Sherbet Photography</a> via <a href="http://compfight.com">Compfight</a> <a href="http://creativecommons.org/licenses/by/2.0/">cc</a>

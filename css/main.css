@@ -56,6 +56,10 @@ table {
   font: 100%;
 }
 
+section {
+  margin-top: 3em;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -89,8 +93,11 @@ ul.posts span {
 .site {
   text-align: justify;
   width: 60em;
-  margin: 3em auto 2em;
+  margin: 0 auto;
   line-height: 1.5em;
+  opacity: 0.85;
+  background-color: #fff;
+  padding: 2em;
 }
 
 .site .header {
@@ -191,3 +198,65 @@ ul.posts span {
 #post pre.terminal code {
   background-color: #333;
 }
+
+/* calendar */
+
+#events-block {
+  overflow: hidden;
+}
+
+#calendar {
+  font-size: 3em;
+}
+#calendar .event-date {
+  font-weight: bold;
+}
+
+#calendar ul, #calendar li{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+#calendar, #calendar li{
+    width:50em;
+    height:2em;
+    overflow:hidden;
+    line-height: 1em;
+
+}
+span#prevBtn{}
+span#nextBtn{}
+
+/* calendar numeric controls */
+
+ol#controls{
+    margin:1em 0;
+    padding: 0;
+    height:11px;
+}
+
+ol#controls li{
+    margin:0 10px 0 0;
+    padding:0;
+    float:left;
+    list-style:none;
+    height:11px;
+    width:11px;
+    background: url('../images/gray-bullet.png') no-repeat;
+}
+
+ol#controls li a{
+    height:10px;
+    position: absolute;
+    left: -1000px;
+    color:#555;
+    padding:0 10px;
+    text-decoration:none;
+}
+ol#controls li.current {
+    background: url('../images/green-bullet.png') no-repeat;
+}
+
+ol#controls li a:focus, #prevBtn a:focus, #nextBtn a:focus{outline:none;}
+
