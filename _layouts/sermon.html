@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div id="post">
+	Series: <span class="series">{{page.series}}</span><br/>
+	<span class="speaker">{{page.speaker}}</span><br/>
+	<span class="passage">
+		<a href="http://www.biblegateway.com/passage/?search={{page.bible_passage}}&amp;version=NIVUK" target="_blank">
+			{{page.bible_passage}}
+		</a>
+	</span><br/>
+
+	<section>
+		<h3>Listen</h3>
+		<audio controls>
+		  <source src="{{page.audio}}" type="audio/mpeg">
+		Your browser does not support the audio element.
+		</audio>
+	</section>
+
+	{% if page.youtube_videos %}
+	<section>
+		<h3>Watch</h3>
+		{% for video in page.youtube_videos %}
+		<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/{{video}}" allowfullscreen frameborder="0">
+		</iframe>
+		{% endfor %}
+	</section>
+	{% endif %}
+
+
+
+	{{content}}
+</div>
+

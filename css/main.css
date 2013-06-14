@@ -76,6 +76,14 @@ footer {
   padding: 2em;
 }
 
+iframe {
+  margin-top: 2em;
+}
+
+audio {
+  margin-top: 2em;
+}
+
 .pull-left {
   float: left;
 }
@@ -106,6 +114,10 @@ ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+}
+
+li.sermon {
+  list-style-image: url("/images/glyphicons_355_bullhorn.png");
 }
 
 /*****************************************************************************/
