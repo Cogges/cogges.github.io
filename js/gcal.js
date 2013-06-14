@@ -88,6 +88,8 @@ function listEvents(root, divId) {
 
   // create a new unordered list
   var ul = document.createElement('ul');
+  var monthNames = [ "", "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+    "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ];
 
   // loop through each event in the feed
   for (var i = 0; i < feed.entry.length; i++) {
@@ -104,23 +106,42 @@ function listEvents(root, divId) {
     }
 
     var dateString = formatGCalTime(start);
-    var dateSpan = document.createElement('span');
-    dateSpan.setAttribute('class', "event-date");
-    dateSpan.appendChild(document.createTextNode(dateString));
+
+    var monthString = monthNames[parseInt(start.substr(5,2),10)];
+    var dayString = start.substr(8,2);
+
+    var monthSpan = document.createElement('span');
+    monthSpan.appendChild(document.createTextNode(monthString));
+
+    var daySpan = document.createElement('p');
+    daySpan.appendChild(document.createTextNode(dayString));
+    daySpan.appendChild(monthSpan);
+
+    var dateDiv = document.createElement('div');
+    dateDiv.setAttribute('class', "date pull-left");
+    dateDiv.appendChild(daySpan);
 
     var li = document.createElement('li');
 
-    // if we have a link to the event, create an 'a' element
-    if (typeof entryLinkHref != 'undefined') {
-      entryLink = document.createElement('a');
-      entryLink.setAttribute('href', entryLinkHref);
-      entryLink.appendChild(document.createTextNode(title + ' '));
-      li.appendChild(entryLink);
-      li.appendChild(dateSpan);
-    } else {
-      li.appendChild(document.createTextNode(title + ' '));
-      li.appendChild(dateSpan);
+    var detailDiv = document.createElement('div');
+    detailDiv.setAttribute('class', "event-title pull-left");
+    detailDiv.appendChild(document.createTextNode(title));
+
+    li.appendChild(dateDiv);
+    li.appendChild(detailDiv);
+
+    if (dateString.search("PM") > 0 || dateString.search("AM") > 0) {
+
+      var timeList = dateString.split(' ').slice(1,3)
+      var timeDiv = document.createElement('div');
+      timeDiv.setAttribute('class', "event-time pull-left");
+      timeDiv.appendChild(document.createTextNode('Starts: ' + timeList[0] + ' ' + timeList[1]));
+      li.appendChild(timeDiv);
     }
+
+
+
+
 
     // append the list item onto the unordered list
     ul.appendChild(li);
