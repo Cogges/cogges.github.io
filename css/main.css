@@ -36,7 +36,7 @@ h1 {
 h2 {
   margin-top: 1em;
   margin-bottom: 0.5em;
-  font-size: 4em;
+  font-size: 3.5em;
 }
 
 
@@ -115,7 +115,7 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  text-align: justify;
+  text-align: left;
   width: 50em;
   min-height: 50em;
   margin: 0 auto;
@@ -157,33 +157,6 @@ ul.posts span {
 
 .site .meta {
   color: #aaa;
-}
-
-.site .footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
-}
-
-.site .footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-.site .footer .contact a {
-  color: #8085C1;
-}
-
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.site .footer .rss img {
-  border: 0;
 }
 
 /*****************************************************************************/

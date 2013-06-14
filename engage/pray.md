@@ -1,25 +1,15 @@
 ---
 layout: page
-title:  "Alpha"
+title:  "Pray"
 ---
 
-* Who is Jesus?
-* How do I pray?
-* Why is there suffering?
-* What about the church?
+##The Gathering
+There is a monthly meeting for prayer, usually on the first Wednesday of the month at 8pm in the Church.
 
-Do these kinds of questions bug you? Then the Alpha course is just for you.
 
-## The Alpha course
+## Thursday prayer
+Meets weekly at 10am in the House at Cogges Church Centre to pray for the work of the parish, for those who are ill or in need and for wider issues. Jane Harper (01993 772443) is the contact, or requests may be made to the Parish Office (01993 779613).
 
-The Alpha course is for those with questions about Christianity, the meaning of life and everything. We are not currently running an Alpha course but expect to run another course in the autumn of 2013.
 
-The Alpha course starts with an introductory supper including music, food and good company.
-
-The Alpha course is then run over 10 weeks. A typical evening starts with a hot meal, and then a short talk on a key aspect of the Christian faith such as, Why did Jesus die? or How can we have faith?, and finally a group session to ask questions.
-
-## Find out more
-
-To register your interest for the next course or simply to request more information please contact St Mary's Cogges church office (01993 779613) or email madleypark.alpha@gmail.com.
-
-If you would prefer a course before September, you may find a course at another church in the area.
+## Blake School
+The Blake School prayer group meets weekly (during term time) on a Wednesday morning from 9.15am to pray specifically for the needs of the Blake School.

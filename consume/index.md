@@ -1,5 +1,5 @@
 ---
 layout: index
 title:  "Consume"
-children: ["sermons"]
+children: ["sermons", "marriage-course", "parenting-course"]
 ---
