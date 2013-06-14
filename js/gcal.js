@@ -82,9 +82,9 @@ function listEvents(root, divId) {
   var feed = root.feed;
   var events = document.getElementById(divId);
 
-  if (events.childNodes.length > 0) {
-    events.removeChild(events.childNodes[0]);
-  }
+  //if (events.childNodes.length > 0) {
+  //  events.removeChild(events.childNodes[0]);
+  //}
 
   // create a new unordered list
   var ul = document.createElement('ul');
@@ -118,13 +118,13 @@ function listEvents(root, divId) {
     daySpan.appendChild(monthSpan);
 
     var dateDiv = document.createElement('div');
-    dateDiv.setAttribute('class', "date pull-left");
+    dateDiv.setAttribute('class', "date");
     dateDiv.appendChild(daySpan);
 
     var li = document.createElement('li');
 
     var detailDiv = document.createElement('div');
-    detailDiv.setAttribute('class', "event-title pull-left");
+    detailDiv.setAttribute('class', "event-title");
     detailDiv.appendChild(document.createTextNode(title));
 
     li.appendChild(dateDiv);
@@ -134,7 +134,7 @@ function listEvents(root, divId) {
 
       var timeList = dateString.split(' ').slice(1,3)
       var timeDiv = document.createElement('div');
-      timeDiv.setAttribute('class', "event-time pull-left");
+      timeDiv.setAttribute('class', "event-time");
       timeDiv.appendChild(document.createTextNode('Starts: ' + timeList[0] + ' ' + timeList[1]));
       li.appendChild(timeDiv);
     }
