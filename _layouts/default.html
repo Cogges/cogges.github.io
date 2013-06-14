@@ -22,15 +22,18 @@
     <body>
 
 
+
         <div class="site">
-          <div class="header">
-            <a class="extra" href="/">home</a>
-            <a class="extra" href="/discover/">discover</a>
-            <a class="extra" href="/connect/">connect</a>
-            <a class="extra" href="/engage/">engage</a>
-            <a class="extra" href="/consume/">consume</a>
+          <div>
+            <div class="nav pull-right">
+              <ul>
+                {% assign pages_list = site.pages %}
+                {% assign group = 'navigation' %}
+                {% include pages_list %}
+              </ul>
+            </div>
+            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
           </div>
-          <h1 class="title"><a href="/">{{ site.name }}</a></h1>
           <section>
               {{ content }}
           </section>

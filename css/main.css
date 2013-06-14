@@ -29,7 +29,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-bottom: 1em;
-  font-size: 5em;
+  font-size: 4.55em;
+  padding-top: 0.5em;
 }
 
 
@@ -74,7 +75,6 @@ footer {
   background-color: #fff;
   padding: 2em;
 }
-
 
 .pull-left {
   float: left;
@@ -125,38 +125,23 @@ ul.posts span {
   padding: 2em;
 }
 
-.site .header {
+.site .nav {
   margin-bottom: 6em;
   text-align: right;
 }
 
-.site .header a {
+.site .nav li {
+  list-style: none;
+}
+
+.site .nav a {
   font-weight: bold;
   text-decoration: none;
   font-size: 1em;
 }
 
-.site .header h1.title {
-  display: inline-block;
-  margin-bottom: 2em;
-}
-
-.site .header h1.title a {
-}
-
-.site .header h1.title a:hover {
-
-}
-
-.site .header a.extra {
-  margin-left: 1em;
-}
-
-.site .header a.extra:hover {
-}
-
-.site .meta {
-  color: #aaa;
+.site .nav a.active {
+  border-bottom: 3px solid rgba(0,0,0,0.8);
 }
 
 /*****************************************************************************/
