@@ -65,6 +65,25 @@ section {
   margin-top: 3em;
 }
 
+footer {
+  text-align: left;
+  width: 50em;
+  margin: 0 auto;
+  line-height: 1.5em;
+  opacity: 0.85;
+  background-color: #fff;
+  padding: 2em;
+}
+
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -98,6 +117,7 @@ ul.posts span {
 .site {
   text-align: justify;
   width: 50em;
+  min-height: 50em;
   margin: 0 auto;
   line-height: 1.5em;
   opacity: 0.85;
@@ -266,3 +286,33 @@ ol#controls li.current {
 
 ol#controls li a:focus, #prevBtn a:focus, #nextBtn a:focus{outline:none;}
 
+footer .credit {
+  font-size: 0.5em;
+}
+
+#meet-us li.person {
+  list-style: none;
+  margin-bottom: 2em;
+  display: inline-block;
+  width: 100%;
+}
+
+li.person .image-holder {
+  width: 200px;
+  margin-top: 1em;
+}
+
+li.person .details {
+  margin-top: 2em;
+}
+
+.circular {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  -webkit-border-radius: 75px;
+  -moz-border-radius: 75px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}

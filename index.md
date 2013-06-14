@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "St Mary's Cogges"
+background: "back1.jpg"
 photo_credit: "© 2006-2013 Pink Sherbet Photography"
 photo_credit_url: "http://www.flickr.com/photos/40645538@N00/2924328115/"
 ---

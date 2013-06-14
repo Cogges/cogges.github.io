@@ -10,31 +10,50 @@
         <link rel="stylesheet" href="/css/main.css">
         <link rel="stylesheet" href="/css/chunkfive.css">
         <link href='http://fonts.googleapis.com/css?family=Neuton|Open+Sans' rel='stylesheet' type='text/css'>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+        <script id="jqueryui" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js" defer async></script>
 
+        <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.3/jquery.backstretch.min.js"></script>
     </head>
     <body>
 
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <a class="extra" href="/">home</a>
-              <a class="extra" href="/discover/">discover</a>
-              <a class="extra" href="/connect/">connect</a>
-              <a class="extra" href="/engage/">engage</a>
-              <a class="extra" href="/consume/">consume</a>
-            </div>
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <section>
-                {{ content }}
-            </section>
+
+        <div class="site">
+          <div class="header">
+            <a class="extra" href="/">home</a>
+            <a class="extra" href="/discover/">discover</a>
+            <a class="extra" href="/connect/">connect</a>
+            <a class="extra" href="/engage/">engage</a>
+            <a class="extra" href="/consume/">consume</a>
           </div>
-        </div> <!-- /container -->
+          <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+          <section>
+              {{ content }}
+          </section>
+        </div>
+
+        {% if page.background %}
+        <script type="text/javascript">
+          $(document).ready(function() {
+            $.backstretch("/images/{{page.background}}", {fade: 10000});
+          });
+          $(window).resize(function() {
+            $.backstretch("/images/{{page.background}}");
+          });
+        </script>
+        {% endif %}
 
     </body>
     <footer>
+      {% if page.photo_credit %}
       <div class="credit">
         Photo Credit: <a href="{{page.photo_credit_url}}">{{page.photo_credit}}</a>
       </div>
+      {% endif %}
     </footer>
 
 </html>

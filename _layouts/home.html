@@ -1,17 +1,7 @@
 ---
 layout: default
 ---
-
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-<script id="jqueryui" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js" defer async></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.3/jquery.backstretch.min.js"></script>
-
-<!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<script type="text/javascript">
- 	$.backstretch("images/back1.jpg");
-</script>
+<script type="text/javascript" src="/js/easySlider1.7.js"></script>
 <script type="text/javascript">
 <!--
 /**
@@ -157,28 +147,26 @@ function insertAgenda(root) {
 
 
 {{content}}
+
 <section>
-<h3>Upcoming Cogges Events</h3>
+	<h3>Upcoming Cogges Events</h3>
 
-<div id="events-block">
-	<div id="calendar"><p>Loading...</p></div>
-</div>
+	<div id="events-block">
+		<div id="calendar"><p>Loading...</p></div>
+	</div>
 
-<script type="text/javascript" src="http://www.google.com/calendar/feeds/events@coggesparish.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=5&singleevents=true&sortorder=ascending&futureevents=true"></script>
+	<script type="text/javascript" src="http://www.google.com/calendar/feeds/events@coggesparish.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=5&singleevents=true&sortorder=ascending&futureevents=true"></script>
 
-
-
-<script type="text/javascript" src="/js/easySlider1.7.js"></script>
-<script type="text/javascript">
-    $(document).ready(function(){
-        $("#calendar").easySlider({
-            auto: true,
-            continuous: true,
-            numeric: true,
-            speed: 500,
-            pause: 6000,
-        });
-    });
-</script>
+	<script type="text/javascript">
+	    $(document).ready(function(){
+	        $("#calendar").easySlider({
+	            auto: true,
+	            continuous: true,
+	            numeric: true,
+	            speed: 500,
+	            pause: 6000,
+	        });
+	    });
+	</script>
 </section>
 
