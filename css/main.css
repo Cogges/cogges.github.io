@@ -84,12 +84,63 @@ audio {
   margin-top: 2em;
 }
 
+blockquote
+{
+    padding-left:2em;
+    padding-right: 3em;
+    clear: left;
+    font-size: 1.5em;
+    line-height: 1.25em;
+    padding-top: 1.5em;
+
+}
+
+blockquote:before {
+    display: block;
+    font-size: 7em;
+    content: "“";
+    height: 1px;
+    margin-left: -0.55em;
+    position:relative;
+    top:0px;
+}
+
+blockquote:after {
+    display: block;
+    font-size: 7em;
+    content: "”";
+    height: 0.3em;
+    position: relative;
+    top: 0.3em;
+    right: -4em;
+}
+
 .pull-left {
   float: left;
 }
 
 .pull-right {
   float: right;
+}
+
+.image-holder {
+  width: 200px;
+  margin-top: 1em;
+}
+
+.image-details {
+  margin-top: 2em;
+}
+
+
+.contact-block {
+  border-bottom: 2px solid rgba(0,0,0,0.8);
+  margin-bottom: 3em;
+  padding-bottom: 2em;
+}
+
+#page {
+  clear: left;
 }
 
 /*****************************************************************************/
@@ -289,15 +340,6 @@ footer .credit {
   margin-bottom: 2em;
   display: inline-block;
   width: 100%;
-}
-
-li.person .image-holder {
-  width: 200px;
-  margin-top: 1em;
-}
-
-li.person .details {
-  margin-top: 2em;
 }
 
 .circular {

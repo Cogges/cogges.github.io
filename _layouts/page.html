@@ -3,6 +3,24 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 
+
+{% if page.contact %}
+<div class="contact-block">
+	<div class="image-holder pull-left">
+		<img class="circular" itemprop="photo" src="{{page.contact_photo}}" alt="{{page.contact}}">
+	</div>
+	<div class="image-details pull-left">
+        <span itemprop="name">{{page.contact}}</span><br/>
+        <span itemprop="title">{{page.contact_role}}</span><br/>
+	    <span itemprop="email">{{page.contact_email}}</span><br/>
+	</div>
+	<blockquote class="quote">
+		{{page.quote}}
+	</blockquote>
+</div>
+
+{% endif %}
+
 <div id="page">
 {{ content }}
 </div>
