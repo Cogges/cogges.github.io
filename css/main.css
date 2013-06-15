@@ -137,6 +137,8 @@ blockquote:after {
   border-bottom: 2px solid rgba(0,0,0,0.8);
   margin-bottom: 3em;
   padding-bottom: 2em;
+  display: inline-block;
+  width: 100%;
 }
 
 #page {

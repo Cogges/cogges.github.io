@@ -11,12 +11,20 @@ layout: default
 	</div>
 	<div class="image-details pull-left">
         <span itemprop="name">{{page.contact}}</span><br/>
+        {% if page.contact_role %}
         <span itemprop="title">{{page.contact_role}}</span><br/>
+        {% endif %}
 	    <span itemprop="email">{{page.contact_email}}</span><br/>
+	    {% if page.contact_phone %}
+	    <span itemprop="telephone">{{page.contact_phone}}</span><br/>
+        {% endif %}
+
 	</div>
+	{% if page.quote %}
 	<blockquote class="quote">
 		{{page.quote}}
 	</blockquote>
+	{% endif %}
 </div>
 
 {% endif %}
