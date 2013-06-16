@@ -66,12 +66,14 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.3/jquery.backstretch.min.js"></script>
     {% if page.background %}
       <script type="text/javascript">
+       if (!( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) )) {
         $(document).ready(function() {
           $.backstretch("/images/{{page.background}}", {fade: 6000});
         });
         $(window).resize(function() {
           $.backstretch("/images/{{page.background}}");
         });
+        }
       </script>
     {% endif %}
   </body>
