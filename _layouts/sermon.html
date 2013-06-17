@@ -8,9 +8,11 @@ layout: default
 	Series: <span class="series">{{page.series}}</span><br/>
 	<span class="speaker">{{page.speaker}}</span><br/>
 	<span class="passage">
-		<a href="http://www.biblegateway.com/passage/?search={{page.bible_passage}}&amp;version=NIVUK" target="_blank">
-			{{page.bible_passage}}
+		{% for passage in page.bible_passages %}
+		<a href="http://www.biblegateway.com/passage/?search={{passage}}&amp;version=NIVUK" target="_blank">
+			{{passage}}
 		</a>
+		{% endfor %}
 	</span><br/>
 
 	<section>

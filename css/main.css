@@ -32,6 +32,7 @@ h1 {
   margin-bottom: 1em;
   font-size: 4.55em;
   letter-spacing: 3px;
+  line-height: 1em;
 }
 
 
@@ -39,6 +40,7 @@ h2 {
   margin-top: 1em;
   margin-bottom: 0.5em;
   font-size: 3.5em;
+  line-height: 1em;
 }
 
 
@@ -46,6 +48,7 @@ h3 {
   margin-bottom: 0;
   font-size: 3em;
   letter-spacing: 3px;
+  line-height: 1em;
 }
 
 
@@ -190,42 +193,13 @@ ul.posts span {
 
 li.sermon {
   list-style-image: url("/images/glyphicons_355_bullhorn.png");
+  border-bottom: 1px solid #eee;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
 }
 
-/*****************************************************************************/
-/*
-/* oldSite
-/*
-/*****************************************************************************/
-
-.oldsite {
-  text-align: left;
-  width: 50em;
-  min-height: 50em;
-  margin: 0 auto;
-  line-height: 1.5em;
-  opacity: 0.85;
-  background-color: #fff;
-  padding: 2em;
-}
-
-.oldsite .nav {
-  margin-bottom: 6em;
-  text-align: right;
-}
-
-.oldsite .nav li {
-  list-style: none;
-}
-
-.oldsite .nav a {
-  font-weight: bold;
-  text-decoration: none;
-  font-size: 1em;
-}
-
-.oldsite .nav a.active {
-  border-bottom: 3px solid rgba(0,0,0,0.8);
+li.sermon:last-child {
+  border-bottom: none;
 }
 
 /*****************************************************************************/
