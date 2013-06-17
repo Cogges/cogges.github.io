@@ -7,6 +7,6 @@ audio: "http://coggesparish.com/sermons/sermon_files/2013-06-02%20Gerald%20March
 video: ""
 slides: ""
 speaker: "Gerald March"
-bible_passage: "Romans 5:1-5"
+bible_passages: ["Romans 5:1-5"]
 ---
 
