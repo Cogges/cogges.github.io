@@ -8,7 +8,7 @@ video: ""
 youtube_videos: ["YKIRY6caqgY"]
 slides: ""
 speaker: "Simon Kirby"
-bible_passage: "Romans 8:28-39"
+bible_passages: ["Romans 8:28-39"]
 ---
 
 
