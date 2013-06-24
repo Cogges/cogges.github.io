@@ -52,13 +52,20 @@ h3 {
 }
 
 
-p { margin: 1em 0; }
+p {
+  margin: 1em 0;
+  line-height: 1.5em;
+}
 
 a {
   text-decoration: none;
   color: #111;
 }
-a:hover   { text-decoration: none; }
+
+a:hover   {
+  text-decoration: none;
+}
+
 a:visited {  }
 
 table {
@@ -126,6 +133,7 @@ blockquote:after {
   opacity: 0.85;
   background-color: #fff;
   padding: 2em;
+  height: 100%
 }
 .container-narrow > hr {
   margin: 30px 0;
