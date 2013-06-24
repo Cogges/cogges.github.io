@@ -1,6 +1,6 @@
 ---
 layout: index
-title:  "Encounter"
+title:  "Grow"
 children: ["sermons", "marriage-course", "parenting-course"]
 group: "navigation"
 ---
