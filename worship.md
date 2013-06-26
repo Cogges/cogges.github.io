@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Worship"
+group: "engage"
 contact: "Rachel Webster"
 contact_photo: "/images/people/rachel.jpg"
 contact_role: "Worship Leader"

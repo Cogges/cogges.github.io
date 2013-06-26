@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Children"
+group: "connect"
 ---
 
 ## Junior Church

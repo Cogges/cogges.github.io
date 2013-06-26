@@ -1,8 +1,12 @@
 ---
 layout: page
 title:  "Men"
+group: "connect"
 background: "back_wild_kids.jpg"
 photo_credit: "Tim Partridge"
+contact: "James Webster"
+contact_email: "james@coggesparish.com"
+
 
 ---
 

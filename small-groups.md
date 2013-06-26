@@ -3,7 +3,7 @@ layout: page
 title:  "Small Groups"
 contact: "Jane Harper"
 contact_phone: "01993 772443"
-
+group: "connect"
 ---
 
 We warmly invite you to join one of our small groups.

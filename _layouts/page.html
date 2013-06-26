@@ -7,7 +7,11 @@ layout: default
 {% if page.contact %}
 <div class="contact-block">
 	<div class="image-holder pull-left">
+		{% if page.contact_photo %}
 		<img class="circular" itemprop="photo" src="{{page.contact_photo}}" alt="{{page.contact}}">
+		{% else %}
+		<img class="circular" itemprop="photo" src="/images/logo.jpg" alt="{{page.contact}}">
+		{% endif %}
 	</div>
 	<div class="image-details pull-left">
         <span itemprop="name">{{page.contact}}</span><br/>

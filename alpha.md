@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Alpha"
+group: "connect"
 ---
 
 * Who is Jesus?

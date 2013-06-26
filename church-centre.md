@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Church Centre"
+group: "discover"
 ---
 
 Cogges Church Centre is available for private hire.

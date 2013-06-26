@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "How to find us"
+group: "discover"
 ---
 
 Cogges parish is on the east side of Witney in West Oxfordshire.

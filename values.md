@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Values"
+group: "discover"
 ---
 
 ## Our Purpose

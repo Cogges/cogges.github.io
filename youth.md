@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Youth"
+group: "connect"
 contact: "Ugo Anagor"
 contact_photo: "/images/people/ugo.jpg"
 contact_role: "Youth Pastor"

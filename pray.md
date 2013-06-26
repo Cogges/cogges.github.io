@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Pray"
+group: "engage"
 contact: "Jane Holloway"
 contact_photo: "/images/people/jane-holloway.jpg"
 contact_email: "jane@janeholloway.co.uk"
