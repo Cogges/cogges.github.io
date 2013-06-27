@@ -3,7 +3,7 @@ layout: sermon
 title:  "Challenged By Life"
 date:   2013-06-02 11:00
 series: "Our Christian Identity"
-audio: "http://coggesparish.com/sermons/sermon_files/2013-06-02%20Gerald%20March.mp3"
+audio: "http://media.coggesparish.com/sermons/2013-06-02%20Gerald%20March.mp3"
 video: ""
 slides: ""
 speaker: "Gerald March"
