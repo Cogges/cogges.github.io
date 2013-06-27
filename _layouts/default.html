@@ -87,7 +87,11 @@
 
       <div class="footer">
         {% if page.photo_credit %}
-          <p>Photo Credit: <a href="{{page.photo_credit_url}}">{{page.photo_credit}}</a></p>
+          {% if page.photo_credit_url %}
+            <p>Photo Credit: <a href="{{page.photo_credit_url}}">{{page.photo_credit}}</a></p>
+          {% else %}
+            <p>Photo Credit: {{page.photo_credit}}</p>
+          {% endif %}
         {% endif %}
         <p><a href="http://glyphicons.com">Glyphicons Free</a> licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</p>
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.

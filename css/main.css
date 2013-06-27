@@ -69,8 +69,11 @@ p > a {
 
 }
 
-p > a:hover   {
+a:hover   {
   text-decoration: none;
+}
+
+p > a:hover   {
   color: #666;
   border-bottom-color: #666;
 }
@@ -178,8 +181,6 @@ blockquote:after {
   font-size: 0.5em;
   margin: 0 auto;
   line-height: 1.5em;
-  opacity: 0.85;
-  background-color: #fff;
   padding: 2em;
 }
 

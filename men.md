@@ -7,6 +7,7 @@ photo_credit: "Tim Partridge, James Webster"
 contact: "James Webster"
 contact_email: "james@coggesparish.com"
 contact_phone: "01993 700910"
+contact_photo: "/images/people/james-webster.jpg"
 
 
 ---
