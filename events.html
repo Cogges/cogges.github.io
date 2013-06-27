@@ -8,6 +8,11 @@ title:  "Events"
 	<div id="calendar-list"></div>
 </div>
 
+<h2>Social Events</h2>
+<div id="social-events-block">
+	<div id="social-calendar-list"></div>
+</div>
+
 <script type="text/javascript">
 	/**
 	 * Callback function for the GData json-in-script call
@@ -19,6 +24,11 @@ title:  "Events"
 	  listEvents(root, 'calendar-list');
 	}
 
+	function insertSocial(root) {
+	  listEvents(root, 'social-calendar-list');
+	}
 
 </script>
-<script type="text/javascript" src="http://www.google.com/calendar/feeds/calendar@coggesparish.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=5&singleevents=true&sortorder=ascending&futureevents=true"></script>
+<script type="text/javascript" src="http://www.google.com/calendar/feeds/calendar@coggesparish.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=15&singleevents=true&sortorder=ascending&futureevents=true"></script>
+
+<script type="text/javascript" src="http://www.google.com/calendar/feeds/events@coggesparish.com/public/full?alt=json-in-script&callback=insertSocial&orderby=starttime&max-results=15&singleevents=true&sortorder=ascending&futureevents=true"></script>
