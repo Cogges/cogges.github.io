@@ -18,9 +18,9 @@ layout: default
         {% if page.contact_role %}
         <span itemprop="title">{{page.contact_role}}</span><br/>
         {% endif %}
-	    <span itemprop="email">{{page.contact_email}}</span><br/>
+	    <span itemprop="email"><a href="mailto:{{page.contact_email}}">{{page.contact_email}}</a></span><br/>
 	    {% if page.contact_phone %}
-	    <span itemprop="telephone">{{page.contact_phone}}</span><br/>
+	    <span itemprop="telephone"><a href="tel:{{page.contact_phone}}">{{page.contact_phone}}</a></span><br/>
         {% endif %}
 
 	</div>

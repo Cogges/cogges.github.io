@@ -39,14 +39,14 @@ h1 {
 h2 {
   margin-top: 1em;
   margin-bottom: 0.5em;
-  font-size: 3.5em;
+  font-size: 2.5em;
   line-height: 1em;
 }
 
 
 h3 {
   margin-bottom: 0;
-  font-size: 3em;
+  font-size: 1.5em;
   letter-spacing: 3px;
   line-height: 1em;
 }
@@ -62,8 +62,17 @@ a {
   color: #111;
 }
 
-a:hover   {
+p > a {
+  color: #d33637;
+  border-bottom: 1px dotted #d33637;
+  -webkit-transition: color .2s ease-in-out;
+
+}
+
+p > a:hover   {
   text-decoration: none;
+  color: #666;
+  border-bottom-color: #666;
 }
 
 a:visited {  }
@@ -130,8 +139,7 @@ blockquote:after {
 .container-narrow {
   margin: 0 auto;
   max-width: 900px;
-  opacity: 0.85;
-  background-color: #fff;
+  background-color: rgba(255,255,255,0.85);
   padding: 2em;
 }
 .container-narrow > hr {
@@ -145,6 +153,11 @@ blockquote:after {
 
 .image-details {
   margin-top: 2em;
+  line-height: 1.3em;
+}
+
+.image-details span[itemprop=name] {
+  font-weight: 700;
 }
 
 .site-name {
@@ -170,8 +183,30 @@ blockquote:after {
   padding: 2em;
 }
 
+.footnotes {
+  margin-top: 10em;
+  font-size: 0.75em;
+}
+
 #page {
   clear: left;
+}
+
+#page img {
+  width: 200px;
+  float: right;
+  margin-bottom: 2em;
+  margin-left: 1em;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+#page h2 {
+  clear: both;
 }
 
 /*****************************************************************************/
