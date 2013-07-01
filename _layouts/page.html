@@ -22,7 +22,9 @@ layout: default
 	    {% if page.contact_phone %}
 	    <span itemprop="telephone"><a href="tel:{{page.contact_phone}}">{{page.contact_phone}}</a></span><br/>
         {% endif %}
-
+		{% if page.contact_twitter %}
+	    <span itemprop="twitter"><a href="http://twitter.com/{{page.contact_twitter}}">@{{page.contact_twitter}}</a></span><br/>
+        {% endif %}
 	</div>
 	{% if page.quote %}
 	<blockquote class="quote">

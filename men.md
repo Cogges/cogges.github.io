@@ -6,8 +6,8 @@ background: "back_wild_kids.jpg"
 photo_credit: "Tim Partridge, James Webster"
 contact: "James Webster"
 contact_email: "james@coggesparish.com"
-contact_phone: "01993 700910"
 contact_photo: "/images/people/james-webster.jpg"
+contact_twitter: "jwebster"
 quote: "I knew it would be great!"
 quote_attribution: "Jacob 5, at Wild Kids Camping"
 ---
@@ -15,8 +15,6 @@ quote_attribution: "Jacob 5, at Wild Kids Camping"
 
 ## Walking Weekend, May
 ![Walking in the Black Mountains 2013](/images/black_mountains.jpg) A walking and camping weekend, usually in the Brecon Beacons. The format is usually a curry on the Friday night, a big walk on the Saturday and a shorter walk on the Sunday interspersed with beer and food from the pub. Walks are typically 7, 11 or 15 miles with ascent and pace for different abilities.
-
-Tickets £35 (inc. car fuel, campsite fees, 2x cooked breakfast and 2x lunches).
 
 
 
@@ -26,7 +24,6 @@ Wild Camping has been running for four years and is usually on a weekend near Fa
 ### 18 hours of fun
 Arrive late Friday afternoon and pitch your tent while the BBQ warms up. There will be a campfire and field games before ending the evening with a midnight[^f2] walk. Awake to the smell of Pete's famous fry-up, more games, pack-up before heading home or through the woods to lunch at the organic farm cafe. The facilities are basic - compost loos, cold water taps, a foot pump shower (heat your own hot water).
 
-Food and Camping Ticket: Adults £10, Children (under 12's) £5 (prices 2013)
 
 [^f1]: we're aiming for primary school aged children but slightly older or younger are welcome.
 [^f2]: more like 9 o'clock
@@ -38,7 +35,6 @@ The formula is simple and unchanged for six years: On a Saturday afternoon in la
 
 We walk along the river path (and back) for about 2 miles at night. You'll need wellies, warm clothes and a torch :) You are responsible for any children that you bring. Sorry - no unaccompanied children allowed.
 
-Just £1 for sausages and hot drinks (prices 2013).
 
 
 ## Monday Beer, 9pm
