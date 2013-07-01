@@ -8,8 +8,8 @@ contact: "James Webster"
 contact_email: "james@coggesparish.com"
 contact_phone: "01993 700910"
 contact_photo: "/images/people/james-webster.jpg"
-
-
+quote: "I knew it would be great!"
+quote_attribution: "Jacob 5, at Wild Kids Camping"
 ---
 
 

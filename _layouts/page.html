@@ -26,7 +26,10 @@ layout: default
 	</div>
 	{% if page.quote %}
 	<blockquote class="quote">
-		{{page.quote}}
+		<p>{{page.quote}}</p>
+		{% if page.quote_attribution %}
+		<footer>— {{page.quote_attribution}}</footer>
+		{% endif %}
 	</blockquote>
 	{% endif %}
 </div>
