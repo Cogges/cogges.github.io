@@ -218,9 +218,10 @@ blockquote > footer {
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
-.page img.circular {
+.page img.profile {
   width: 150px;
   height: 150px;
+  float: left;
   border-radius: 75px;
   -webkit-border-radius: 75px;
   -moz-border-radius: 75px;
