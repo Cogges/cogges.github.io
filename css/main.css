@@ -199,11 +199,11 @@ blockquote > footer {
   font-size: 0.75em;
 }
 
-#page {
+.page {
   clear: left;
 }
 
-#page img {
+.page img {
   width: 200px;
   float: right;
   margin-bottom: 2em;
@@ -216,8 +216,30 @@ blockquote > footer {
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
-#page h2 {
+.page img.circular {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  -webkit-border-radius: 75px;
+  -moz-border-radius: 75px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+.page h2 {
   clear: both;
+}
+
+
+.find_us img {
+  width: 100%;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
 /*****************************************************************************/
@@ -389,6 +411,7 @@ footer .credit {
   display: inline-block;
   width: 100%;
 }
+
 
 .circular {
   width: 150px;

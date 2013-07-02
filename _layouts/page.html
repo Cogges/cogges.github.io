@@ -38,6 +38,6 @@ layout: default
 
 {% endif %}
 
-<div id="page">
+<div class="page {{ page.title | replace:' ','_' | downcase }}">
 {{ content }}
 </div>
