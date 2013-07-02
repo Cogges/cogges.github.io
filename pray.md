@@ -5,7 +5,8 @@ group: "engage"
 contact: "Jane Holloway"
 contact_photo: "/images/people/jane-holloway.jpg"
 contact_email: "jane@janeholloway.co.uk"
-quote: "We pray because the world needs God and so do we. He’s listening (1Pt3:12) and can be found by those who are looking (Mt7:7). Whatever we could ask, think or imagine, God is able to do immeasurably more (Eph3:20). So take a deep breath and try saying ‘hello’."
+quote: "We pray because the world needs God and so do we. He’s listening (1Pt 3:12) and can be found by those who are looking (Mt 7:7). Whatever we could ask, think or imagine, God is able to do immeasurably more (Eph 3:20). So take a deep breath and try saying ‘hello’."
+quote_attribution: "<a href='http://www.24-7prayer.com/prayer'>24-7 Prayer</a>"
 ---
 
 

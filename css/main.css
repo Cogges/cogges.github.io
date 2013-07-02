@@ -105,7 +105,8 @@ blockquote
     padding-right: 3em;
     clear: left;
     padding-top: 1.5em;
-
+    margin-left: 200px;
+    text-align: justify;
 }
 
 blockquote:before {
@@ -113,7 +114,7 @@ blockquote:before {
     font-size: 7em;
     content: "“";
     height: 1px;
-    margin-left: -0.55em;
+    margin-left: 0em;
     position:relative;
     top:0px;
 }
@@ -125,7 +126,7 @@ blockquote:after {
     height: 0.3em;
     position: relative;
     top: 0.3em;
-    right: -4em;
+    right: -4.5em;
 }
 
 blockquote > p {
@@ -137,6 +138,7 @@ blockquote > p {
 blockquote > footer {
   font-size: 0.75em;
   font-style: italic;
+  padding-top: 1em;
 
 }
 
