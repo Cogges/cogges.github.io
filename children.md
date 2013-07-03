@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: hub
 title:  "Children"
-group: "connect"
+group: "engage"
 contact: "Mel Sayles"
 contact_phone: "01993 773221"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Pray"
+title:  "Prayer"
 group: "engage"
 contact: "Jane Holloway"
 contact_photo: "/images/people/jane-holloway.jpg"

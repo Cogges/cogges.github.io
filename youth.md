@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: hub
 title:  "Youth"
-group: "connect"
+group: "engage"
 contact: "Ugo Anagor"
 contact_photo: "/images/people/ugo.jpg"
 contact_role: "Youth Pastor"

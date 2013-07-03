@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Small Groups"
+title:  "Connect Groups"
 contact: "Jane Harper"
 contact_phone: "01993 772443"
 group: "connect"
