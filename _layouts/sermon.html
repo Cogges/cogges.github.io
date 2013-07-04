@@ -5,15 +5,22 @@ layout: default
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div id="post">
+	{% if page.series %}
 	Series: <span class="series">{{page.series}}</span><br/>
+	{% endif %}
 	<span class="speaker">{{page.speaker}}</span><br/>
-	<span class="passage">
-		{% for passage in page.bible_passages %}
-		<a href="http://www.biblegateway.com/passage/?search={{passage}}&amp;version=NIVUK" target="_blank">
-			{{passage}}
-		</a>
-		{% endfor %}
-	</span><br/>
+	<section>
+		<h3>Bible Passage</h3>
+		<span class="passage">
+			<ul>
+			{% for passage in page.bible_passages %}
+			<li><a href="http://www.biblegateway.com/passage/?search={{passage}}&amp;version=NIVUK" target="_blank">
+				{{passage}}
+			</a></li>
+			{% endfor %}
+			</ul>
+		</span><br/>
+	</section>
 
 	<section>
 		<h3>Listen</h3>
@@ -33,7 +40,16 @@ layout: default
 	</section>
 	{% endif %}
 
-
+	{% if page.files %}
+	<section>
+		<h3>Presentation Files & Videos</h3>
+		<ul>
+		{% for f in page.files %}
+		<li><a href="{{f}}">{{f}}</a></li>
+		{% endfor %}
+		</ul>
+	</section>
+	{% endif %}
 
 	{{content}}
 </div>
