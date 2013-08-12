@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Sundays"
-group: "discover"
+group: "connect"
 contact: "Simon Kirby"
 contact_role: "Vicar"
 contact_photo: "/images/people/simon-kirby.jpg"

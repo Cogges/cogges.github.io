@@ -1,7 +1,7 @@
 ---
 layout: hub
 title:  "Discipleship"
-group: "engage"
+group: "grow"
 contact: "Gerald March"
 contact_email: "gerald.march@coggesparish.com"
 ---

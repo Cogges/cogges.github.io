@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Men"
-group: "connect"
+group: "engage"
 background: "back_wild_kids.jpg"
 photo_credit: "Tim Partridge, James Webster"
 contact: "James Webster"
