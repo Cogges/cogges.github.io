@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Give"
-group: "engage"
+group: "fat-footer"
 contact: "Keith Harwood"
 contact_role: "Treasurer"
 contact_email: "pcc.treasurer@coggesparish.com"

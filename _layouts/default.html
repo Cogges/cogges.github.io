@@ -27,11 +27,11 @@
     <![endif]-->
 
     <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="../assets/ico/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="/images/favicon.png">
   </head>
 
   <body>
@@ -92,6 +92,31 @@
       <hr>
 
       <div class="footer">
+        <div id="footer-menu" class="navbar">
+            <div class="navbar-inner">
+              <ul class="nav">
+                {% assign pages_list = site.pages %}
+                {% assign group = 'footer' %}
+                {% include pages_list %}
+              </ul>
+            </div>
+        </div>
+
+        <div id="fat-footer-menu" class="">
+              <ul class="">
+                <li><a href="/">Home</a></li>
+                <li><a href="http://www.oxford.anglican.org/">Oxford Diocese</a></li>
+                <li><a href="http://www.eauk.org/">Evangelical Alliance</a></li>
+                <li><a href="http://www.new-wine.org/">New Wine Network</a></li>
+                <li><a href="http://www.witneychurches.org/">Churches Together in Witney</a></li>
+
+
+                {% assign pages_list = site.pages %}
+                {% assign group = 'fat-footer' %}
+                {% include pages_list %}
+              </ul>
+        </div>
+
         {% if page.photo_credit %}
           {% if page.photo_credit_url %}
             <p>Photo Credit: <a href="{{page.photo_credit_url}}">{{page.photo_credit}}</a></p>
