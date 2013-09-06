@@ -301,6 +301,10 @@ blockquote > footer {
 	text-align: center;
 }
 
+.site-title a {
+	color: #A61D45;
+}
+
 .header {
 	text-align: center;
 }
