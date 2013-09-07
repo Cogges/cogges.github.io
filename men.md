@@ -8,6 +8,8 @@ contact: "James Webster"
 contact_email: "james@coggesparish.com"
 contact_photo: "/images/people/james-webster.jpg"
 contact_twitter: "jwebster"
+contact_involved_with: ["Men's Ministry", "Comms Hub"]
+contact_bio: "Nullam tristique iaculis arcu, sed viverra risus tempor quis. Cras venenatis est eget odio molestie, et bibendum risus tristique. Suspendisse laoreet volutpat diam, at malesuada sem suscipit pulvinar."
 quote: "I knew it would be great!"
 quote_attribution: "Jacob 5, at Wild Kids Camping"
 ---

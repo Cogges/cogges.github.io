@@ -1,153 +1,138 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <meta property="og:title" content="St Mary's Cogges, Witney" />
-    <meta property="og:type" content="church" />
-    <meta property="og:url" content="http://coggesparish.com/" />
-    <!--<meta property="og:image" content="https://sheepcrm.com/static/images/public/logo.png" />-->
-    <meta property="og:description" content="Making Christ known in Word and Deed" />
-
-
-    <!-- Le styles -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/css/chunkfive.css">
-    <link href='http://fonts.googleapis.com/css?family=Neuton|Open+Sans' rel='stylesheet' type='text/css'>
-    <script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
-
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="../assets/js/html5shiv.js"></script>
     <![endif]-->
-
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-57-precomposed.png">
-    <link rel="shortcut icon" href="/images/favicon.png">
+    <link href="css/main.css" rel="stylesheet" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,700,300,800' rel='stylesheet' type='text/css'>
   </head>
+  <body class="home">
 
-  <body>
+    <div class="container-fluid">
 
-    <div class="container-narrow">
-      <div class="masthead">
-        <div class="main-menu">
-          <ul class="nav nav-pills pull-right">
-            <li class="dropdown">
-              <a class="dropdown-toggle" id="drop4" role="button" data-toggle="dropdown" href="#">Discover <b class="caret"></b></a>
-              <ul id="menu1" class="dropdown-menu" role="menu" aria-labelledby="drop4">
-                {% assign pages_list = site.pages %}
-                {% assign group = 'discover' %}
-                {% include pages_list %}
-              </ul>
-            </li>
+      <header>
+        <div class="site-title"><a href="index.html">St Mary's Cogges Witney</a></div>
+      </header>
 
-            <li class="dropdown">
-              <a class="dropdown-toggle" id="drop5" role="button" data-toggle="dropdown" href="#">Connect<b class="caret"></b></a>
-              <ul id="menu3" class="dropdown-menu" role="menu" aria-labelledby="drop5">
-                {% assign pages_list = site.pages %}
-                {% assign group = 'connect' %}
-                {% include pages_list %}
-              </ul>
-            </li>
+      <div class="row-fluid content">
+        <div class="span2"><!-- redundant --></div>
+        <div class="span8">
 
-            <li class="dropdown">
-              <a class="dropdown-toggle" id="drop5" role="button" data-toggle="dropdown" href="#">Engage <b class="caret"></b></a>
-              <ul id="menu2" class="dropdown-menu" role="menu" aria-labelledby="drop5">
-                {% assign pages_list = site.pages %}
-                {% assign group = 'engage' %}
-                {% include pages_list %}
-              </ul>
-            </li>
+          <nav class="main">
+            <ul>
+              <li class="dropdown">
+                <a class="dropdown-toggle one" id="drop4" role="button" data-toggle="dropdown" href="#">Discover <b class="caret"></b></a>
+                <ul id="menu1" class="dropdown-menu" role="menu" aria-labelledby="drop4">
+                  {% assign pages_list = site.pages %}
+                  {% assign group = 'discover' %}
+                  {% include pages_list %}
+                </ul>
+              </li>
 
-            <li class="dropdown">
-              <a class="dropdown-toggle" id="drop4" role="button" data-toggle="dropdown" href="#">Grow <b class="caret"></b></a>
-              <ul id="menu1" class="dropdown-menu" role="menu" aria-labelledby="drop4">
-                {% assign pages_list = site.pages %}
-                {% assign group = 'grow' %}
-                {% include pages_list %}
-              </ul>
-            </li>
+              <li class="dropdown">
+                <a class="dropdown-toggle two" id="drop5" role="button" data-toggle="dropdown" href="#">Connect<b class="caret"></b></a>
+                <ul id="menu3" class="dropdown-menu" role="menu" aria-labelledby="drop5">
+                  {% assign pages_list = site.pages %}
+                  {% assign group = 'connect' %}
+                  {% include pages_list %}
+                </ul>
+              </li>
 
-          </ul>
+              <li class="dropdown">
+                <a class="dropdown-toggle thee" id="drop5" role="button" data-toggle="dropdown" href="#">Engage <b class="caret"></b></a>
+                <ul id="menu2" class="dropdown-menu" role="menu" aria-labelledby="drop5">
+                  {% assign pages_list = site.pages %}
+                  {% assign group = 'engage' %}
+                  {% include pages_list %}
+                </ul>
+              </li>
+
+              <li class="dropdown">
+                <a class="dropdown-toggle four" id="drop4" role="button" data-toggle="dropdown" href="#">Grow <b class="caret"></b></a>
+                <ul id="menu1" class="dropdown-menu" role="menu" aria-labelledby="drop4">
+                  {% assign pages_list = site.pages %}
+                  {% assign group = 'grow' %}
+                  {% include pages_list %}
+                </ul>
+              </li>
+            </ul>
+            <div class="clear"></div>
+          </nav>
         </div>
+        {{ content }}
 
-      </div>
-      <h1 class="site-name"><a href="/">{{ site.name }}</a></h1>
-      <hr>
+    </div><!-- /. container -->
 
-      <div class="row-fluid ">
-          <section>
-              {{ content }}
-          </section>
-      </div>
 
-      <hr>
+    <footer>
 
-      <div class="footer">
-        <div id="footer-menu" class="navbar">
-            <div class="navbar-inner">
-              <ul class="nav">
-                {% assign pages_list = site.pages %}
-                {% assign group = 'footer' %}
-                {% include pages_list %}
-              </ul>
-            </div>
+      <div class="container-fluid top">
+        <div class="row-fluid">
+        <div class="span2 empty"><!-- redundant --></div>
+        <div class="span8">
+          <nav>
+            <ul>
+              <li><a href="#">TERMS OF USE</a></li>
+              <li><a href="#">PRIVACY</a></li>
+              <li><a href="#">CONTACT</a></li>
+              <li><a href="#">CHURCH DIRECTORY</a></li>
+              <li><a href="#">DIARY</a></li>
+              <li><a href="#">C OF E</a></li>
+            </ul>
+          </nav>
         </div>
-
-        <div id="fat-footer-menu" class="">
-              <ul class="">
-                <li><a href="/">Home</a></li>
-                <li><a href="http://www.oxford.anglican.org/">Oxford Diocese</a></li>
-                <li><a href="http://www.eauk.org/">Evangelical Alliance</a></li>
-                <li><a href="http://www.new-wine.org/">New Wine Network</a></li>
-                <li><a href="http://www.witneychurches.org/">Churches Together in Witney</a></li>
+        <div class="span2 empty"><!-- redundant --></div>
+        </div><!-- row-fluid -->
+      </div><!-- container-fluid -->
 
 
-                {% assign pages_list = site.pages %}
-                {% assign group = 'fat-footer' %}
-                {% include pages_list %}
-              </ul>
-        </div>
+      <div class="container-fluid sub">
 
-        {% if page.photo_credit %}
-          {% if page.photo_credit_url %}
-            <p>Photo Credit: <a href="{{page.photo_credit_url}}">{{page.photo_credit}}</a></p>
-          {% else %}
-            <p>Photo Credit: {{page.photo_credit}}</p>
-          {% endif %}
-        {% endif %}
-        <p><a href="http://glyphicons.com">Glyphicons Free</a> licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</p>
-        <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
-      </div>
+        <div class="row-fluid">
+          <div class="span2 empty"></div>
+          <div class="span3">
+            <ul class="sub">
+              <li><a href="#">HOME</a></li>
+              <li><a href="#">OXFORD DIOCESE</a></li>
+              <li><a href="#">GIVING</a></li>
+              <li><a href="#">STAFF TEAM</a></li>
+              <li><a href="#">EVANGELICAL ALLIANCE</a></li>
+              <li><a href="#">NEW WINE NETWORK</a></li>
+            </ul>
+          </div>
+          <div class="span3">
+            <ul class="sub">
+              <li><a href="#">CCLI</a></li>
+              <li><a href="#">UPCOMING EVENTS</a></li>
+              <li><a href="#">HISTORY</a></li>
+              <li><a href="#">COMMUNITY</a></li>
+              <li><a href="#">WELCOMING</a></li>
+              <li><a href="#">FAMILY</a></li>
+              <li><a href="#">JUNIOR CHURCH</a></li>
+            </ul>
+          </div>
+          <div class="span2 contacts">
+            <img src="images/cogges-logo.png" alt="cogges-logo" width="50" height="50"><br />
+            ST MARY'S COGGES<BR />CHURCH LANE<BR />WITNEY<BR />OX28 3LA<br />
+            <p><a href="./find-us.html">FINDING US</a>
+          </div>
+          <div class="span2"><!-- redundant  --></div>
+        </div><!-- /. row-fluid -->
+      </div><!-- container-fluid -->
 
-    </div> <!-- /container -->
+    </footer>
 
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="/js/jquery.backstretch.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    {% if page.background %}
-      <script type="text/javascript">
-       if (!( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) )) {
-        $(document).ready(function() {
-          $.backstretch("/images/{{page.background}}", {fade: 6000});
-        });
-        $(window).resize(function() {
-          $.backstretch("/images/{{page.background}}");
-        });
-        }
-      </script>
-    {% endif %}
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/fittext.js"></script>
+    <script src="js/main.js"></script>
   </body>
 </html>
-
-
