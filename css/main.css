@@ -58,11 +58,11 @@ h2 {
   line-height: 1em;
   color: #A61D45;
 	font-size: 25px;
-	font-weight: 900;	
+	font-weight: 900;
 }
 
 .right_col .bio {
-	font-family: 'Bitter', serif;	
+	font-family: 'Bitter', serif;
 	margin: 20px 0;
 }
 
@@ -81,12 +81,12 @@ h3 {
   line-height: 1em;
   color: #A61D45;
 	font-size: 16px;
-	font-weight: 900;	
+	font-weight: 900;
 }
 
 .right_col h3 {
 	color: #A1B087;
-	font-size: 16px;	
+	font-size: 16px;
 }
 
 .right_col h4 {
@@ -249,6 +249,7 @@ blockquote > footer {
   clear: left;
 }
 
+/*
 .page img {
   width: 200px;
   float: right;
@@ -260,8 +261,9 @@ blockquote > footer {
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-}
+}*/
 
+/*
 .page img.profile {
   width: 150px;
   height: 150px;
@@ -273,6 +275,7 @@ blockquote > footer {
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
+*/
 
 .page h2 {
   clear: both;
@@ -319,7 +322,7 @@ blockquote > footer {
 	min-height: 900px;
 
 }
- 
+
 .right_col {
 	border-left: 2px solid #D88F89;
 	padding-left: 40px;
@@ -616,10 +619,10 @@ footer {
 	padding-top: 10px;
 	color: #fff;
 	font-size: 14px;
-	
+
 	-moz-box-shadow: 0 0 5px 5px #999;
 	-webkit-box-shadow: 0 0 5px 5px#999;
-	box-shadow: 0 0 5px 5px #999;	
+	box-shadow: 0 0 5px 5px #999;
 }
 
 footer .top {
@@ -661,7 +664,7 @@ footer nav li a:hover {
 footer ul.sub a {
 	color: #3F7073;
 	font-size: 14px;
-	margin-bottom: 5px;	
+	margin-bottom: 5px;
 }
 
 footer ul.sub a:hover {
@@ -686,7 +689,7 @@ ul.involved_list li {
 	font-size: 14px;
 }
 
-ul.involved_list li:after { 
+ul.involved_list li:after {
 	content: "//";
 /* 	padding-left: 10px; */
 }
@@ -699,18 +702,18 @@ ul.involved_list li:after {
 		display: none !important;
 	}
 
-	footer nav ul { 
+	footer nav ul {
 		margin-left: 0px;
 	}
-	
+
 	footer ul.sub a, footer .contacts {
 		padding: 0 20px;
 	}
-	
+
 	footer .contacts {
 		margin-top: 20px;
 	}
-	
+
 	.container-fluid.top {
 		padding-top: 5px;
 	}
