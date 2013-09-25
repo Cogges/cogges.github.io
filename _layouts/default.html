@@ -74,6 +74,10 @@
             </ul>
             <div class="clear"></div>
           </nav>
+          {% for p in site.pages %}
+<p>{{p.group}} {{p.title}}</p>
+{% endfor %}
+
           {{ content }}
         </div>
       </div>
