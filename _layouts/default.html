@@ -32,9 +32,11 @@
               <li class="dropdown">
                 <a class="dropdown-toggle one" id="drop1" role="button" data-toggle="dropdown" href="#">Discover</a>
                 <ul id="menu1" class="dropdown-menu" role="menu" aria-labelledby="drop1">
-                  {% assign pages_list = site.pages %}
-                  {% assign group = 'discover' %}
-                  {% include pages_list %}
+                  {% for p in site.pages %}
+                    {% if p.group == 'discover' %}
+                      <li><a href="{{p.url}}">{{p.title}}</a></li>
+                    {% endif %}
+                  {% endfor %}
                 </ul>
               </li>
 
@@ -42,7 +44,9 @@
                 <a class="dropdown-toggle two" id="drop2" role="button" data-toggle="dropdown" href="#">Connect</a>
                 <ul id="menu2" class="dropdown-menu" role="menu" aria-labelledby="drop2">                  
                   {% for p in site.pages %}
-                        <li><a href="{{p.url}}">{{p.title}}</a></li>
+                    {% if p.group == 'connect' %}
+                      <li><a href="{{p.url}}">{{p.title}}</a></li>
+                    {% endif %}
                   {% endfor %}
                 </ul>
               </li>
@@ -50,29 +54,27 @@
               <li class="dropdown">
                 <a class="dropdown-toggle thee" id="drop3" role="button" data-toggle="dropdown" href="#">Engage </a>
                 <ul id="menu3" class="dropdown-menu" role="menu" aria-labelledby="drop3">
-                  {% assign pages_list = site.pages %}
-                  {% assign group = 'engage' %}
-                  {% include pages_list %}
+                  {% for p in site.pages %}
+                    {% if p.group == 'engage' %}
+                      <li><a href="{{p.url}}">{{p.title}}</a></li>
+                    {% endif %}
+                  {% endfor %}
                 </ul>
               </li>
 
               <li class="dropdown">
                 <a class="dropdown-toggle four" id="drop4" role="button" data-toggle="dropdown" href="#">Grow</a>
                 <ul id="menu4" class="dropdown-menu" role="menu" aria-labelledby="drop4">
-                  {% assign pages_list = site.pages %}
-                  {% assign group = 'grow' %}
-                  {% include pages_list %}
+                  {% for p in site.pages %}
+                    {% if p.group == 'grow' %}
+                      <li><a href="{{p.url}}">{{p.title}}</a></li>
+                    {% endif %}
+                  {% endfor %}
                 </ul>
               </li>
             </ul>
             <div class="clear"></div>
           </nav>
-                  {% for p in site.pages %}
-                    
-                        <li><a href="{{p.url}}">{{p.title}} ({{p.group}}</a></li>
-                    
-                  {% endfor %}
-
           {{ content }}
         </div>
       </div>
