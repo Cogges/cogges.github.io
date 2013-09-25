@@ -41,14 +41,8 @@
               <li class="dropdown">
                 <a class="dropdown-toggle two" id="drop2" role="button" data-toggle="dropdown" href="#">Connect</a>
                 <ul id="menu2" class="dropdown-menu" role="menu" aria-labelledby="drop2">                  
-                  {% for node in site.pages | sort:"name" %}
-                    {% if node.group == 'connect' %}
-                      {% if page.url == node.url %}
-                        <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
-                      {% else %}
-                        <li><a href="{{node.url}}">{{node.title}}</a></li>
-                      {% endif %}
-                    {% endif %}
+                  {% for p in site.pages %}
+                    <li><a href="{{p.url}}">{{p.title}}</a></li>
                   {% endfor %}
                 </ul>
               </li>
