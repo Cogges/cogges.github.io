@@ -569,11 +569,11 @@ nav.main {
 	width: intrinsic;
 	padding: 5px;
 	margin-bottom: 40px;
+  height:40px;
 }
 
 nav.main ul {
 	margin: 0 0 0 0;
-	overflow: auto;
 	width: intrinsic;
 }
 
