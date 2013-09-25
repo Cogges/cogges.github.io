@@ -42,9 +42,7 @@
                 <a class="dropdown-toggle two" id="drop2" role="button" data-toggle="dropdown" href="#">Connect</a>
                 <ul id="menu2" class="dropdown-menu" role="menu" aria-labelledby="drop2">                  
                   {% for p in site.pages %}
-                    {% if p.group == 'connect' %}
                         <li><a href="{{p.url}}">{{p.title}}</a></li>
-                    {% endif %}
                   {% endfor %}
                 </ul>
               </li>
@@ -69,6 +67,12 @@
             </ul>
             <div class="clear"></div>
           </nav>
+                  {% for p in site.pages %}
+                    
+                        <li><a href="{{p.url}}">{{p.title}} ({{p.group}}</a></li>
+                    
+                  {% endfor %}
+
           {{ content }}
         </div>
       </div>
