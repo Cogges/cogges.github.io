@@ -1,6 +1,5 @@
 {% assign sorted_pages = site.pages | sort:"name" %}
 {% for node in sorted_pages %}
-<li>{{node.title}}</li>
   {% if group == null or group == node.group %}
     {% if page.url == node.url %}
       <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
