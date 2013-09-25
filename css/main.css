@@ -320,7 +320,8 @@ blockquote > footer {
 /* standard main page contents container */
 .content {
 	min-height: 900px;
-
+  max-height: 1080px;
+  overflow-y: auto;
 }
 
 .right_col {
