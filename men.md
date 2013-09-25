@@ -1,14 +1,14 @@
 ---
 layout: page
 title:  "Men"
-group: "engage"
+group: "connect"
 
 contact: "James Webster"
 contact_email: "james@coggesparish.com"
 contact_photo: "/images/people/james-webster.jpg"
 contact_twitter: "jwebster"
 contact_involved_with: ["Men's Ministry", "Comms Hub", "Church Database", "New Wine"]
-contact_bio: "James has been at Cogges since the late 90's. He is married to Rachel and father to Caleb, Theo and Alicia. He runs Croftsware Ltd helping startups, SMEs, and charities with their technology and business problems"
+contact_bio: "James is married to Rachel and father to Caleb, Theo and Alicia. He runs Croftsware Ltd helping startups, SMEs, and charities with their technology and business problems."
 
 quote: "I knew it would be great!"
 quote_attribution: "Jacob 5, at Wild Kids Camping"
@@ -22,6 +22,8 @@ quote_attribution: "Jacob 5, at Wild Kids Camping"
 
 ### Wild Camping for Kids, June
 Wild Camping has been running for four years and is usually on a weekend near Father's Day. We trek down to the beautiful [Abbey Home Farm](http://www.theorganicfarmshop.co.uk/), 2 miles from Cirencester. Dads - bring your primary school[^f1] aged children for a night in the wild.
+
+
 
 #### 18 hours of fun
 Arrive late Friday afternoon and pitch your tent while the BBQ warms up. There will be a campfire and field games before ending the evening with a midnight[^f2] walk. Awake to the smell of Pete's famous fry-up, more games, pack-up before heading home or through the woods to lunch at the organic farm cafe. The facilities are basic - compost loos, cold water taps, a foot pump shower (heat your own hot water).
