@@ -2,6 +2,11 @@
 layout: page
 title:  "Alpha"
 group: "connect"
+
+contact: "Rich White"
+contact_email: "rich@coggesparish.com"
+contact_involved_with: ["Worship", "Alpha", "New Wine"]
+
 ---
 
 * Who is Jesus?

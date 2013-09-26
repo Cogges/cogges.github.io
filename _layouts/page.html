@@ -25,12 +25,14 @@ layout: default
             </div>
 			{% endif %}
 
-            <h4>{{page.contact|split:" "|first}} is involved with...</h4>
-            <ul class="involved_list">
-            	{% for r in page.contact_involved_with %}
-	            	<li>{{r}}</li>
-	            {% endfor %}
-            </ul>
+			{% if page.contact_involved_with %}
+	            <h4>{{page.contact|split:" "|first}} is involved with...</h4>
+	            <ul class="involved_list">
+	            	{% for r in page.contact_involved_with %}
+		            	<li>{{r}}</li>
+		            {% endfor %}
+	            </ul>
+	        {% endif %}
 
 			{% if page.contact_photo %}
 			<img class="profile" itemprop="photo" src="{{page.contact_photo}}" alt="{{page.contact}}" width="101" height="100">

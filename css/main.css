@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   /*background-color: #FFF;*/
-  background: url(../images/bg.jpg);
+  background: url(/images/bg.jpg);
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
   color: #444;
@@ -471,7 +471,7 @@ ol#controls li{
     list-style:none;
     height:11px;
     width:11px;
-    background: url('../images/gray-bullet.png') no-repeat;
+    background: url('/images/gray-bullet.png') no-repeat;
 }
 
 ol#controls li a{
@@ -483,7 +483,7 @@ ol#controls li a{
     text-decoration:none;
 }
 ol#controls li.current {
-    background: url('../images/green-bullet.png') no-repeat;
+    background: url('/images/green-bullet.png') no-repeat;
 }
 
 ol#controls li a:focus, #prevBtn a:focus, #nextBtn a:focus{outline:none;}
@@ -614,7 +614,7 @@ nav.main li a.four:hover { color: #a61d45; }
 
 footer {
 	background-color: #19474E;
-	background-image: url(../images/footer-bg.png);
+	background-image: url(/images/footer-bg.png);
 	background-repeat: repeat-x;
 	min-height: 317px;
 	padding-top: 10px;
