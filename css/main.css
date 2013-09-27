@@ -292,7 +292,6 @@ blockquote > footer {
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
-
 .container-fluid {
 	max-width: 960px;
 	margin: 0 auto;
@@ -679,7 +678,7 @@ footer ul.sub a:hover {
 
 ul.involved_list {
 	list-style: none;
-	margin: 0 0 20px 0;
+	margin: 0 0 10px 0;
 	overflow: auto;
 }
 
@@ -718,4 +717,30 @@ ul.involved_list li:after {
 	.container-fluid.top {
 		padding-top: 5px;
 	}
+}
+
+/*****************************************************************************/
+/*
+/* Page Contact Section
+/*
+/*****************************************************************************/
+
+div.contact {
+  margin-bottom: 1em;
+}
+
+span.contact {
+  width: 100%;
+  display: block;
+  margin-top: 0.5em;
+}
+
+img.profile {
+  margin-top: 10px;
+}
+
+.page td {
+  text-align: left;
+  padding: 10px;
+  vertical-align: top;
 }

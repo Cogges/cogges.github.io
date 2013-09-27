@@ -45,7 +45,7 @@ layout: default
 				</section>
 				{% endif %}
 
-				{% if page.files %}
+				{% if page.files and page.files|first != "" %}
 				<section>
 					<h3>Presentation Files & Videos</h3>
 					<ul>
