@@ -53,9 +53,9 @@ Tuesday evenings fortnightly. Venue: Church Green. Leaders: Paul & Mari Graves.
 
 ## Wednesday morning
 
-We are a group of women who meet twice a month to pray, support each other and look at the Bible. Mums with their children are welcome.
+We are a group of women who meet weekly during term time to pray, support each other and look at the Bible. Mums with their children are welcome.
 
-2nd and 4th Wednesday of the month - term-time only. 9.30am - 11.30am. Venue: varies. Leaders: Kirsty Morgan & Rachel Webster.
+9.30am - 11.30am. Venue: varies. Leaders: Kirsty Morgan & Rachel Webster.
 
 
 ## Wednesday evening
