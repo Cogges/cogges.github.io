@@ -12,7 +12,7 @@ Small groups meet mid-week in the relaxed atmosphere of members' own homes. Acti
 
 There are currently small groups on Monday, Tuesday, Wednesday and Thursday evenings, usually at 8pm, and also daytime groups on Monday, Wednesday and Thursday.
 
-If you would like to join one of our groups, please contact Jane Harper 01993 772443.
+If you would like to join one of our groups, please contact Jane Harper
 
 ## Monday morning
 
@@ -53,9 +53,7 @@ Tuesday evenings fortnightly. Venue: Church Green. Leaders: Paul & Mari Graves.
 
 ## Wednesday morning
 
-We are a group of women who meet weekly during term time to pray, support each other and look at the Bible. Mums with their children are welcome.
-
-9.30am - 11.30am. Venue: varies. Leaders: Kirsty Morgan & Rachel Webster.
+We are a group of women who meet weekly during term time to pray, support each other and look at the Bible. Mums with their children are welcome. 9.30am - 11.30am. Venue: varies. Leaders: Kirsty Morgan & Rachel Webster.
 
 
 ## Wednesday evening
