@@ -1,6 +1,6 @@
 ---
 layout: hub
-title:  "Global and Local Mission"
+title:  "Mission"
 group: "engage"
 contact: "Hilary Warner"
 contact_email: "hilary.warner@coggesparish.com"
