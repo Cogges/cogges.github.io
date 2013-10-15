@@ -17,7 +17,7 @@ contact_bio: "Rich is married to Catherine and they have two boys, Ben and Joshu
 
 Do these kinds of questions bug you? Then the Alpha course is just for you.
 
-## The Alpha course
+### The Alpha course
 
 The Alpha course is for those with questions about Christianity, the meaning of life and everything. We are not currently running an Alpha course but expect to run another course in the autumn of 2013.
 
