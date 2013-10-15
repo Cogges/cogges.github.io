@@ -212,6 +212,8 @@ blockquote > footer {
 .image-details {
   margin-top: 2em;
   line-height: 1.3em;
+  max-width: 500px;
+  margin-left: 2em;
 }
 
 .image-details span[itemprop=name] {
@@ -640,7 +642,7 @@ img.profile {
   border-bottom: 1px dotted #ddd;
   padding-bottom: 1em;
   width: 100%;
-  height: 4em;  
+  height: 4em;
 }
 
 
@@ -651,7 +653,7 @@ img.profile {
 
 .calendar li > div.event-time {
   padding-top: 10px;
-  
+
 }
 
 .calendar li > div.event-title {
@@ -665,5 +667,5 @@ img.profile {
   line-height: 1em;
   color: #A61D45;
   font-size: 25px;
-  font-weight: 900; 
+  font-weight: 900;
 }
