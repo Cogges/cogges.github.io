@@ -26,7 +26,7 @@ The Alpha course starts with an introductory supper including music, food and go
 
 The Alpha course is then run over 10 weeks. A typical evening starts with a hot meal, and then a short talk on a key aspect of the Christian faith such as, Why did Jesus die? or How can we have faith?, and finally a group session to ask questions.
 
-## Find out more
+### Find out more
 
 To register your interest for the next course or simply to request more information please contact St Mary's Cogges church office (01993 779613) or email madleypark.alpha@gmail.com.
 
