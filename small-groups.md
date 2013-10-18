@@ -10,7 +10,7 @@ group: "connect"
 
 We warmly invite you to join one of our Connect groups.
 
-Connect groups meet mid-week in the relaxed atmosphere of members’ own homes. Activities include worship, Bible study, prayer for each other and the wider world, and also social events. Connect groups offer an environment of friendship and trust where we can support and encourage each other in our wholehearted devotion to Jesus Christ.  We try to look outwards as well as inwards as we seek to put the gospel into practice in our lives.
+Connect groups meet mid-week in the relaxed atmosphere of members' own homes. Activities include worship, Bible study, prayer for each other and the wider world, and also social events. Connect groups offer an environment of friendship and trust where we can support and encourage each other in our wholehearted devotion to Jesus Christ.  We try to look outwards as well as inwards as we seek to put the gospel into practice in our lives.
 
 If you would like to join one of our groups, please contact the group leader or Jane Harper.
 
@@ -24,13 +24,13 @@ Leader: Gill Curwood.    Weekly, 10:30am.    Venue: Newland Mill.
 
 The group currently consists of those who are Christians who value their Anglican heritage. They want to continue exploring their faith through Bible study using challenging materials to promote lively and meaningful discussions.
 
-The members identify with St. Mary’s, Cogges, as a parish church which serves the whole community. They are committed to expressing their Christian life through service to others either in the congregation, the parish or the wider community. The members support each other and others through prayer and offer care support to one another in good times and bad.
+The members identify with St. Mary's, Cogges, as a parish church which serves the whole community. They are committed to expressing their Christian life through service to others either in the congregation, the parish or the wider community. The members support each other and others through prayer and offer care support to one another in good times and bad.
 
-Leader: Barbara Eaton.    Weekly (8pm–10pm).    Venue: Cogges Hill Road.    
+Leader: Barbara Eaton.    Weekly (8pm-10pm).    Venue: Cogges Hill Road.    
 
 ## Tuesday evening
 
-The vision of  the group — apart from being concerned with mutual encouragement and support — is for the Madley Park Estate. This involves taking an interest in and praying for the people of the estate and the institutions on it (Madley Brook and Springfield Schools and Madley Park Care Home). 
+The vision of  the group - apart from being concerned with mutual encouragement and support - is for the Madley Park Estate. This involves taking an interest in and praying for the people of the estate and the institutions on it (Madley Brook and Springfield Schools and Madley Park Care Home). 
 
 Leader: Cyril Tennant.    Fortnightly, 7:30pm.    Venue: Madley Brook Lane.    
 
@@ -62,15 +62,15 @@ Leaders: Paul & Mari Graves.    Fortnightly.    Venue: Church Green.
 
 Our vision is to encourage and support Mums of young and school aged children in their walk with Jesus through bible study, fellowship and prayer.
 
-Leaders: Kirsty Morgan and Rachel Webster.  Weekly (term-time only) 9.30am–11.30am.    Venue varies.
+Leaders: Kirsty Morgan and Rachel Webster.  Weekly (term-time only) 9.30am-11.30am.    Venue varies.
 
 ## Wednesday evening -- central meetings
 
 1st Wednesday each month at 8:00pm:	The Gathering
->	The Gathering is a monthly meeting at St Mary’s Church, Cogges to pray for the nation, the town and the parish
+The Gathering is a monthly meeting at St Mary's Church, Cogges to pray for the nation, the town and the parish
 
 2nd Wednesday each month at 7:30pm:	The Filling Station
->	The Filling Station is a monthly ecumenical celebration service for worship, teaching and prayer ministry at ‘Open Doors’, Range Road, OX29 0YB
+The Filling Station is a monthly ecumenical celebration service for worship, teaching and prayer ministry at 'Open Doors', Range Road, OX29 0YB
 
 ## Wednesday evening
 
@@ -87,7 +87,7 @@ Leaders: Richard & Jen Osman.    Weeks 3, 4 & 5.    Venue: Cherry Tree Way.
 
 Our group aims to provide friendship and fellowship for people in their twenties and thirties and support them through the changes and challenges that this stage of life brings. We aim to be an energetic people, integrated into the church family and representing our age group in both the church and our local community. 
 
-Leaders: Ruth & Dave Cadywould and Emily & Jason Hoyland.  Weekly, 7:30pm–9:30pm.    Venue varies.    
+Leaders: Ruth & Dave Cadywould and Emily & Jason Hoyland.  Weekly, 7:30pm-9:30pm.    Venue varies.    
 
 ## Wednesday evening
 
@@ -99,7 +99,7 @@ Leader: Jen Nutt.    Weeks 3, 4 & 5, 8pm.    Venue varies (Madley Park).
 
 Our group aims to be a place where women enjoy meeting together, where friendships develop and where faith grows.  Our desire is for each member to be a follower of Jesus who loves God and other people.  By meeting regularly we can learn from the Bible and each other, pray together and support one another.
 
-Leaders: Judith Ledden, Deryn Mungall and Gill Pagliuca.  Weeks 2 & 4 (term-time only), 9.15am – 11.30am.   Venue varies.
+Leaders: Judith Ledden, Deryn Mungall and Gill Pagliuca.  Weeks 2 & 4 (term-time only), 9.15am - 11.30am.   Venue varies.
 
 ## Thursday evening
 
@@ -114,11 +114,11 @@ Our aims are:
 *	to pray for one another, for the church and wider issues as needed.
 *	to learn more about the needs of the persecuted church and to pray for our brothers and sisters in these situations.
 
-Leaders: Roger & Jean Howell.  2 or 3 times per month (8pm–10pm).    Venue varies (Burwell area).
+Leaders: Roger & Jean Howell.  2 or 3 times per month (8pm-10pm).    Venue varies (Burwell area).
 
 ## Thursday evening
 
-We are an ecumenical women’s group currently ranging in age from 30 - 70+.  Our first aim is to support each other in our Christian walk through Bible Study, Prayer and Fellowship.  Our secondary aim is to pray for Witney, in whatever way God lays on our hearts.  Women of all ages are welcome and will find a supportive environment where they can safely share their concerns and joys with other women who will pray with them and for them. We are a group who will hold each other accountable as well encourage each other as we are shaped into Christ's image.
+We are an ecumenical women's group currently ranging in age from 30 - 70+.  Our first aim is to support each other in our Christian walk through Bible Study, Prayer and Fellowship.  Our secondary aim is to pray for Witney, in whatever way God lays on our hearts.  Women of all ages are welcome and will find a supportive environment where they can safely share their concerns and joys with other women who will pray with them and for them. We are a group who will hold each other accountable as well encourage each other as we are shaped into Christ's image.
 
 Leader: Jamie Drew.    Weekly.    Venue: Gloucester Place.
 
