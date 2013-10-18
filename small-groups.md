@@ -66,11 +66,9 @@ Leaders: Kirsty Morgan and Rachel Webster.  Weekly (term-time only) 9.30am-11.30
 
 ## Wednesday evening -- central meetings
 
-1st Wednesday each month at 8:00pm:	The Gathering
-The Gathering is a monthly meeting at St Mary's Church, Cogges to pray for the nation, the town and the parish
+1st Wednesday each month at 8:00pm:	The Gathering - a monthly meeting at St Mary's Church, Cogges to pray for the nation, the town and the parish
 
-2nd Wednesday each month at 7:30pm:	The Filling Station
-The Filling Station is a monthly ecumenical celebration service for worship, teaching and prayer ministry at 'Open Doors', Range Road, OX29 0YB
+2nd Wednesday each month at 7:30pm:	The Filling Station - a monthly ecumenical celebration service for worship, teaching and prayer ministry at 'Open Doors', Range Road, OX29 0YB
 
 ## Wednesday evening
 
