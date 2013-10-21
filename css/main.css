@@ -642,13 +642,58 @@ img.profile {
   border-bottom: 1px dotted #ddd;
   padding-bottom: 1em;
   width: 100%;
-  height: 4em;
+  height: 5em;
 }
 
 
 .calendar li > div {
   float: left;
   padding: 5px;
+}
+
+.calendar li > div.date {
+  width: 60px;
+}
+
+span.day {
+  display: inline-block;
+  width: 25px;
+}
+
+span.month {
+  display: inline-block;
+  width: 35px;
+}
+
+span.start {
+  display: inline-block;
+  width: 60px;
+  font-size: 0.74em;
+}
+
+.calendar li > div.event {
+  width: 260px;
+}
+
+span.title {
+  width: 100%;
+  display: inline-block;
+  font-weight: 900;
+}
+
+span.event-content {
+  width: 100%;
+  display: inline-block;
+  font-size: 0.8em;
+  height: 3em;
+  overflow: hidden;
+}
+
+span.event-where {
+  width: 100%;
+  display: inline-block;
+  font-size: 0.8em;
+  text-transform: uppercase;
 }
 
 .calendar li > div.event-time {

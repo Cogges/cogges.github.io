@@ -94,7 +94,10 @@ function listEvents(root, divId) {
   // loop through each event in the feed
   for (var i = 0; i < feed.entry.length; i++) {
     var entry = feed.entry[i];
+    console.log(entry);
     var title = entry.title.$t;
+    var body = entry.content.$t;
+    var where = entry['gd$where'][0].valueString;
     var start = entry['gd$when'][0].startTime;
 
     // get the URL to link to the event
@@ -110,36 +113,50 @@ function listEvents(root, divId) {
     var monthString = monthNames[parseInt(start.substr(5,2),10)];
     var dayString = start.substr(8,2);
 
+
+    var daySpan = document.createElement('span');
+    daySpan.setAttribute('class', "day");
+    daySpan.appendChild(document.createTextNode(dayString));
+
     var monthSpan = document.createElement('span');
+    monthSpan.setAttribute('class', "month");
     monthSpan.appendChild(document.createTextNode(monthString));
 
-    var daySpan = document.createElement('p');
-    daySpan.appendChild(document.createTextNode(dayString));
-    daySpan.appendChild(monthSpan);
+    var startSpan = document.createElement('span');
+    startSpan.setAttribute('class', "start");
+
+    if (dateString.search("PM") > 0 || dateString.search("AM") > 0) {
+      var timeList = dateString.split(' ').slice(1,3)
+      startSpan.appendChild(document.createTextNode(timeList[0] + ' ' + timeList[1]));
+    }
 
     var dateDiv = document.createElement('div');
     dateDiv.setAttribute('class', "date");
     dateDiv.appendChild(daySpan);
+    dateDiv.appendChild(monthSpan);
+    dateDiv.appendChild(startSpan);
+
+    var titleSpan = document.createElement('span');
+    titleSpan.setAttribute('class', "title");
+    titleSpan.appendChild(document.createTextNode(title));
+
+    var contentSpan = document.createElement('span');
+    contentSpan.setAttribute('class', "event-content");
+    contentSpan.appendChild(document.createTextNode(body));
+
+    var whereSpan = document.createElement('span');
+    whereSpan.setAttribute('class', "event-where");
+    whereSpan.appendChild(document.createTextNode(where));
+
+    var eventDiv = document.createElement('div');
+    eventDiv.setAttribute('class', "event");
+    eventDiv.appendChild(titleSpan);
+    eventDiv.appendChild(contentSpan);
+    eventDiv.appendChild(whereSpan);
 
     var li = document.createElement('li');
-
-    var detailDiv = document.createElement('div');
-    detailDiv.setAttribute('class', "event-title");
-    detailDiv.appendChild(document.createTextNode(title));
-
     li.appendChild(dateDiv);
-    li.appendChild(detailDiv);
-
-    if (dateString.search("PM") > 0 || dateString.search("AM") > 0) {
-
-      var timeList = dateString.split(' ').slice(1,3)
-      var timeDiv = document.createElement('div');
-      timeDiv.setAttribute('class', "event-time");
-      timeDiv.appendChild(document.createTextNode('Starts: ' + timeList[0] + ' ' + timeList[1]));
-      li.appendChild(timeDiv);
-    }
-
-
+    li.appendChild(eventDiv);
 
 
 
