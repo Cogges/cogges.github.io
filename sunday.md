@@ -11,10 +11,10 @@ contact_twitter: "sikirby"
 ---
 
 
-If you have newly moved to the Cogges area, or are not connected to any local church, you are warmly invited to join us at any of our Sunday services at St Mary’s Church, Cogges.
+If you have newly moved to the Cogges area, or are not connected to any local church, you are warmly invited to join us at any of our Sunday services at St Mary's Church, Cogges.
 
 ### 8.00AM HOLY COMMUNION
-This is a reflective service of Holy Communion following the Book of Common Prayer. There is a short sermon but no hymns. On the first Sunday each month, the service is followed by “Coffee and Croissants” in the Church Centre.
+This is a reflective service of Holy Communion following the Book of Common Prayer. There is a short sermon but no hymns. On the first Sunday each month, the service is followed by "Coffee and Croissants" in the Church Centre.
 
 ### 9:30AM MORNING WORSHIP(1ST & 3RD SUNDAYS)
 This Service is a slightly shorter version of the 11am Service. Visitors are always welcome and often attend the family service (on the 3rd Sunday each month), which may include a Baptism or a service of Thanksgiving for the birth of a child. Coffee and cake will be served at the end of the family service.
