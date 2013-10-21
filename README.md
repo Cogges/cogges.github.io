@@ -1,6 +1,11 @@
 # Cogges Church Website
 
 
+## Updating this site
+1. Create a github account
+2. Email your login details to [James](james@coggesparish.com)
+3. more to come..
+
 
 ## Cogges Events Policy
 - **a limited policy for scheduling events at Cogges**
