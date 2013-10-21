@@ -694,6 +694,8 @@ span.event-where {
   display: inline-block;
   font-size: 0.8em;
   text-transform: uppercase;
+  height: 1.2em;
+  overflow: hidden;
 }
 
 .calendar li > div.event-time {
