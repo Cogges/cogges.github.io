@@ -3,8 +3,12 @@
 
 ## Updating this site
 1. Create a github account
-2. Email your login details to [James](james@coggesparish.com)
-3. more to come..
+1. Email your login details to [James](james@coggesparish.com)
+1. Come back to this page
+1. Find the page you are looking to edit e.g. alpha.md
+1. Click the edit button ![Edit Button](/images/internal/github-edit.png)
+1. Make your change
+1. Add a comment about your change and then Commit (Save) ![Save](/images/internal/github-save.png)
 
 
 ## Cogges Events Policy
