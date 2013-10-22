@@ -82,6 +82,7 @@ h3 {
   color: #A61D45;
 	font-size: 16px;
 	font-weight: 900;
+  padding-top: 1em;
 }
 
 .right_col h3 {
@@ -321,8 +322,9 @@ blockquote > footer {
 /* standard main page contents container */
 .content {
 	min-height: 900px;
-  max-height: 1080px;
+  max-height: 1030px;
   overflow-y: auto;
+  margin-bottom: 50px;
 }
 
 .right_col {
@@ -614,6 +616,7 @@ span.contact {
 
 img.profile {
   margin-top: 10px;
+  width: 200px;
 }
 
 .page td {
@@ -622,6 +625,16 @@ img.profile {
   vertical-align: top;
 }
 
+/*****************************************************************************/
+/*
+/* Meet Us Section
+/*
+/*****************************************************************************/
+
+#meet-us span[itemprop=bio] {
+  padding-top: 1em;
+  display: inline-block;
+}
 
 /*****************************************************************************/
 /*
@@ -639,12 +652,12 @@ img.profile {
 }
 
 .calendar li {
-  border-bottom: 1px dotted #ddd;
-  padding-bottom: 1em;
+  border-bottom: 1px dotted #aaa;
+  padding-bottom: 2em;
   width: 100%;
+  margin-top: 1em;
   height: 5em;
 }
-
 
 .calendar li > div {
   float: left;

@@ -13,6 +13,8 @@ contact_involved_with: ["Youth"]
 contact_2: "Mel Sayles"
 contact_2_phone: "01993 773221"
 contact_2_involved_with: ["Children", "CYFA"]
+contact_2_bio: "Mel is married to Anthony and they have three lovely children.  Mel loves spending time with her family.  Mel is passionate about children knowing and experiencing God’s love for them."
+
 ---
 
 ## Home Groups

@@ -21,16 +21,12 @@ quote_attribution: "Jacob 5, at Wild Kids Camping"
 
 
 ### Wild Camping for Kids, June
-Wild Camping has been running for four years and is usually on a weekend near Father's Day. We trek down to the beautiful [Abbey Home Farm](http://www.theorganicfarmshop.co.uk/), 2 miles from Cirencester. Dads - bring your primary school[^f1] aged children for a night in the wild.
+Wild Camping has been running for four years and is usually on a weekend near Father's Day. We trek down to the beautiful [Abbey Home Farm](http://www.theorganicfarmshop.co.uk/), 2 miles from Cirencester. Dads - bring your primary school aged children for a night in the wild.
 
-
+*we're aiming for primary school aged children but slightly older or younger are welcome.
 
 #### 18 hours of fun
-Arrive late Friday afternoon and pitch your tent while the BBQ warms up. There will be a campfire and field games before ending the evening with a midnight[^f2] walk. Awake to the smell of Pete's famous fry-up, more games, pack-up before heading home or through the woods to lunch at the organic farm cafe. The facilities are basic - compost loos, cold water taps, a foot pump shower (heat your own hot water).
-
-
-[^f1]: we're aiming for primary school aged children but slightly older or younger are welcome.
-[^f2]: more like 9 o'clock
+Arrive late Friday afternoon and pitch your tent while the BBQ warms up. There will be a campfire and field games before ending the evening with a midnight (more like 9 o'clock) walk. Awake to the smell of Pete's famous fry-up, more games, pack-up before heading home or through the woods to lunch at the organic farm cafe. The facilities are basic - compost loos, cold water taps, a foot pump shower (heat your own hot water).
 
 
 
@@ -43,6 +39,6 @@ We walk along the river path (and back) for about 2 miles at night. You'll need 
 
 ### Monday Beer, 9pm
 
-![Walking in the Black Mountains 2013](/images/beer.jpg) We meet socially every other Monday for a beer at some of the lovely pubs in and around Witney. If you want to get notified about future trips please join our google [group mailing list](https://groups.google.com/forum/?hl=en#!forum/monday-beer).
+We meet socially every other Monday for a beer at some of the lovely pubs in and around Witney. If you want to get notified about future trips please join our google [group mailing list](https://groups.google.com/forum/?hl=en#!forum/monday-beer).
 
 

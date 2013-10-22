@@ -94,11 +94,17 @@ function listEvents(root, divId) {
   // loop through each event in the feed
   for (var i = 0; i < feed.entry.length; i++) {
     var entry = feed.entry[i];
-    console.log(entry);
+    //console.log(entry);
     var title = entry.title.$t;
     var body = entry.content.$t;
     var where = entry['gd$where'][0].valueString;
     var start = entry['gd$when'][0].startTime;
+    var series = false;
+
+    if (entry['gCal$sequence'].value > 0) {
+      series = true;
+    }
+
 
     // get the URL to link to the event
     for (var linki = 0; linki < entry['link'].length; linki++) {
