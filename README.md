@@ -8,7 +8,12 @@
 1. Find the page you are looking to edit e.g. alpha.md
 1. Click the edit button ![Edit Button](/images/internal/github-edit.png)
 1. Make your change
+	* Most files are [Markdown](http://daringfireball.net/projects/markdown/basics) (.md), this is a simple text format.
+	* Take a look at a few other page or refer to the [docs](http://daringfireball.net/projects/markdown/basics) to understand the syntax
+	* The section at the top 'front matter' defines certain fields which the template use.
 1. Add a comment about your change and then Commit (Save) ![Save](/images/internal/github-save.png)
+1. Changes get applied automatically and are usually immediate but can take up to 10 minutes to appear.
+	* Refresh the page a few times to see your changes.
 
 
 ## Cogges Events Policy
