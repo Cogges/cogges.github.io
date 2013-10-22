@@ -26,7 +26,7 @@ contact_2_involved_with: ["Children", "Ladies Connect Group Leader"]
 Children's Church is for children, 0-11yrs, who meet on Sunday mornings at St Mary's during the 9.30am & 11am services.  There are 5 age-specific groups where we teach the children the basics of the Christian faith and encourage them in their own faith, through games, crafts, stories and other fun activities.
 
 ###Toddler Group
-A friendly group for all Mums, Dads and carers of pre-school aged children. Tuesday afternoons from 1.30 – 3pm in the Church Centre, term time only.
+A friendly group for all Mums, Dads and carers of pre-school aged children. Tuesday afternoons from 1.30 - 3pm in the Church Centre, term time only.
 Bring your babies and toddlers to play inside and outside (weather permitting!). We provide snacks and drinks for adults & children, run a craft activity and do some singing.
 We also have a short and fun service for the children in the church on the first Tuesday of every month at 2pm.
 
