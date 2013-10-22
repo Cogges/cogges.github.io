@@ -10,6 +10,7 @@ contact_bio: "Paul and Judith have attended parenting and marriage courses and f
 
 ---
 
+## Getting married?
 If you're like most people you prepare and plan for many things in life: education, career, retirement and holidays. And most couples spend up to 250 hours planning their wedding, but very little time, if any, planning for married life. There are many things you can do to begin building a lifelong, happy marriage. Investing in your relationship before you are married will reap rewards for many years to come.
 
 We offer 2 courses:
@@ -24,3 +25,7 @@ Marriage by Design is a one day course that gives you the opportunity to take so
 
 [http://www.marriagebydesign.org.uk](http://www.marriagebydesign.org.uk)
 
+## Already married?
+The Marriage Course is a very practical course giving any married couple the tools to build a strong and healthy relationship. Over a series of 7 evenings many topics are covered including 'building strong foundations,' 'resolving conflict' and 'love in action'. Each evening includes a talk and time for the couple to discuss the topic together. Coffee, tea and home-made cakes are served during the evening. The setting is relaxed and informal, there is no group discussion and privacy as a couple is always respected.
+
+[http://www.relationshipcentral.org](http://www.relationshipcentral.org)
