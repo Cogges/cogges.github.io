@@ -9,7 +9,7 @@ contact_involved_with: ["Children", "CYFA"]
 contact_bio: "Mel is married to Anthony and they have three lovely children.  Mel loves spending time with her family.  Mel is passionate about children knowing and experiencing God's love for them."
 
 contact_2: "Kirsty Morgan"
-contact_2_involved_with: ["Children"]
+contact_2_involved_with: ["Children", "Ladies Connect Group Leader"]
 
 ---
 
