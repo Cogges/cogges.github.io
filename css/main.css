@@ -110,7 +110,14 @@ p > a {
   color: #d33637;
   border-bottom: 1px dotted #d33637;
   -webkit-transition: color .2s ease-in-out;
+}
 
+div.page li > a {
+  color: #d33637;
+  border-bottom: 1px dotted #d33637;
+  -webkit-transition: color .2s ease-in-out;
+  margin-bottom: 0.5em;
+  display: inline-block;
 }
 
 a:hover   {
