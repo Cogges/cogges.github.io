@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% if page.new_url %}
+<META http-equiv="refresh" content="0;URL={{page.new_url}}">
+{% else %}
+<META http-equiv="refresh" content="5;URL=http://archive.coggesparish.com{{page.url}}">
+<p>
+	The contents you are looking for no longer exist. You will be redirected to the archived location automatically in 5 seconds.</a>
+</p>
+{% endif %}
