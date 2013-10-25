@@ -30,7 +30,10 @@
 
 ####Notes
 * dates should be formatted as YYYY-MM-DD (time is optional)
-* files expects a list of urls with each url in quotes
+* if youtube videos are used then use "youtube_videos" and these will be embedded automatically
+* use slides for downloadable presentations (ideally pdf)
+* files expects a list of urls with each url in quotes (use files for other downloadable content)
+* bible passages is a list of passages used as search terms for bible gateway
 
 * * *
 
