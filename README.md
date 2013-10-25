@@ -1,5 +1,7 @@
 # Cogges Church Website
 
+* This will become a table of contents (this text will be scraped).
+{:toc}
 
 ## Updating this site
 1. Create a github account
