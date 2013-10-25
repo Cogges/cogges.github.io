@@ -1,12 +1,11 @@
 # Cogges Church Website
 
-* This will become a table of contents (this text will be scraped).
-{:toc}
-
-## Updating this site
+## Updating this website
 1. Create a github account
 1. Email your login details to [James](james@coggesparish.com)
 1. Come back to this page
+
+### Updating pages on this site
 1. Find the page you are looking to edit e.g. alpha.md
 1. Click the edit button ![Edit Button](/images/internal/github-edit.png)
 1. Make your change
@@ -17,6 +16,28 @@
 1. Changes get applied automatically and are usually immediate but can take up to 10 minutes to appear.
 	* Refresh the page a few times to see your changes.
 
+* * *
+
+### Adding Sermons
+1. Upload the mp3 file to media.coggesparish.com/sermons/
+1. Open the ['_posts'](https://github.com/Cogges/cogges.github.io/tree/master/_posts) folder
+1. Click the add button ![Add Button](/images/internal/github-add.png)
+1. Fill in the 'front matter' like this example
+```
+	---
+	layout: sermon
+	title: "The Parable of the Sower."
+	date: "2013-10-20 00:00:00"
+	audio: "http://media.coggesparish.com/sermons/2013-10-20 Simon Kirby.mp3"
+	speaker: "Simon Kirby"
+	files: ["http://www.youtube.com/watch?v=V9IOhGPrRvY"]
+	bible_passages: ["Matthew 13:3-9, 18-23"]
+	---
+1. Add a comment about your change and then Commit (Save) ![Save](/images/internal/github-save.png)
+1. Changes get applied automatically and are usually immediate but can take up to 10 minutes to appear.
+	* Refresh the page a few times to see your changes.
+
+* * *
 
 ## Cogges Events Policy
 - **a limited policy for scheduling events at Cogges**
