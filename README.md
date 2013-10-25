@@ -1,5 +1,3 @@
----
----
 
 # Cogges Church Website
 
@@ -25,13 +23,14 @@
 1. Upload the mp3 file to media.coggesparish.com/sermons/
 1. Open the ['_posts'](https://github.com/Cogges/cogges.github.io/tree/master/_posts) folder
 1. Click the add button ![Add Button](/images/internal/github-add.png)
-1. Fill in the 'front matter' like this example:
-
-{% gist 7153746 %}
-
+1. Fill in the 'front matter' like [this example](https://gist.github.com/jwebster/7153746)
 1. Add a comment about your change and then Commit (Save) ![Save](/images/internal/github-save.png)
 1. Changes get applied automatically and are usually immediate but can take up to 10 minutes to appear.
 	* Refresh the page a few times to see your changes.
+
+####Notes
+* dates should be formatted as YYYY-MM-DD (time is optional)
+* files expects a list of urls with each url in quotes
 
 * * *
 

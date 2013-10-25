@@ -364,7 +364,6 @@ ul.posts span {
 }
 
 li.sermon {
-  list-style-image: url("/images/glyphicons_355_bullhorn.png");
   border-bottom: 1px solid #eee;
   margin-bottom: 1em;
   padding-bottom: 1em;

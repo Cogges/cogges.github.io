@@ -45,6 +45,17 @@ layout: default
 				</section>
 				{% endif %}
 
+				{% if page.slides and page.slides|first != "" %}
+				<section>
+					<h3>Slides</h3>
+					<ul>
+					{% for f in page.slides %}
+					<li><a href="{{f}}">{{f}}</a></li>
+					{% endfor %}
+					</ul>
+				</section>
+				{% endif %}
+
 				{% if page.files and page.files|first != "" %}
 				<section>
 					<h3>Presentation Files & Videos</h3>
@@ -88,7 +99,7 @@ layout: default
 			{% endif %}
 
 		    <span itemprop="email"><a href="mailto:{{page.speaker_email}}">{{page.speaker_email}}</a></span><br/>
-		    
+
 		    {% if page.speaker_phone %}
 		    <span itemprop="telephone"><a href="tel:{{page.speaker_phone}}">{{page.speaker_phone}}</a></span><br/>
 	        {% endif %}
