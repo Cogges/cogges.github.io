@@ -14,6 +14,7 @@ layout: default
 				{% if page.series %}
 				Series: <span class="series">{{page.series}}</span><br/>
 				{% endif %}
+
 				<section>
 					<h3>Bible Passage</h3>
 					<span class="passage">
@@ -27,13 +28,14 @@ layout: default
 					</span><br/>
 				</section>
 
+				{% if page.audio %}
 				<section>
 					<h3>Listen</h3>
 					<audio controls>
-					  <source src="{{page.audio}}" type="audio/mpeg">
-					Your browser does not support the audio element.
+					  	<source src="{{page.audio}}" type="audio/mpeg">
 					</audio>
 				</section>
+				{% endif %}
 
 				{% if page.youtube_videos %}
 				<section>
@@ -58,11 +60,14 @@ layout: default
 
 				{% if page.files and page.files|first != "" %}
 				<section>
-					<h3>Presentation Files & Videos</h3>
+					<h3>Downloads</h3>
 					<ul>
 					{% for f in page.files %}
-					<li><a href="{{f}}">{{f}}</a></li>
+					<li><a href="{{f}}">{{f|remove_first:'http://media.coggesparish.com/sermons/'}}</a></li>
 					{% endfor %}
+					{% if page.audio %}
+					<li><a href="{{page.audio}}">{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}</a></li>
+					{% endif %}
 					</ul>
 				</section>
 				{% endif %}
@@ -74,7 +79,7 @@ layout: default
 
 		{% if page.speaker %}
 		<div class="span6 right_col">
-			<h2>Cogges People</h2>
+			<h2>Speaker</h2>
             <h3><span itemprop="name">{{page.speaker}}</span></h3>
 
 			{% if page.speaker_bio %}

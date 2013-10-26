@@ -20,7 +20,7 @@
 * * *
 
 ### Adding Sermons
-1. Upload the mp3 file to media.coggesparish.com/sermons/
+1. Upload the mp3 file to media.coggesparish.com/sermons/ (as before)
 1. Open the ['_posts'](https://github.com/Cogges/cogges.github.io/tree/master/_posts) folder
 1. Click the add button ![Add Button](/images/internal/github-add.png)
 1. Fill in the 'front matter' like [this example](https://gist.github.com/jwebster/7153746)
