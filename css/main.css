@@ -116,8 +116,7 @@ div.page li > a {
   color: #d33637;
   border-bottom: 1px dotted #d33637;
   -webkit-transition: color .2s ease-in-out;
-  margin-bottom: 0.5em;
-  display: inline-block;
+  line-height: 1.5em;
 }
 
 a:hover   {
@@ -137,17 +136,17 @@ table {
 }
 
 section {
-  margin-top: 3em;
+  margin-top: 1em;
 }
 
 
 
 iframe {
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
 audio {
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
 blockquote
@@ -363,54 +362,6 @@ ul.posts span {
   font-size: 80%;
 }
 
-li.sermon {
-  border-bottom: 1px solid #eee;
-  margin-bottom: 1em;
-  padding-bottom: 1em;
-}
-
-li.sermon:last-child {
-  border-bottom: none;
-}
-
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-
-/* standard */
-#post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
-}
-
-#post ul, #post ol {
-  margin-left: 1.35em;
-}
-
-#post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
-}
-
-#post pre code {
-  border: none;
-}
-
-/* terminal */
-#post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-}
-
-#post pre.terminal code {
-  background-color: #333;
-}
-
 footer .credit {
   font-size: 0.5em;
 }
@@ -422,26 +373,29 @@ footer .credit {
   width: 100%;
 }
 
-
-.circular {
-  width: 150px;
-  height: 150px;
-  border-radius: 75px;
-  -webkit-border-radius: 75px;
-  -moz-border-radius: 75px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+ul.sermon-list {
+  margin-left: 20px;
 }
 
-@-moz-document url-prefix() {
-    .date {
-        padding: 16px 0 0 0;
-    }
-    .date p span {
-      padding: 9px 0 3px 0;
-    }
+ul.sermon-related {
+  font-size: 0.75em;
 }
+
+li.sermon {
+  border-bottom: 1px solid #eee;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+}
+
+li.sermon:last-child {
+  border-bottom: none;
+}
+
+li.sermon-short {
+  margin-bottom: 0.2em;
+  padding-bottom: 0.2em;
+}
+
 
 /*****************************************************************************/
 /*

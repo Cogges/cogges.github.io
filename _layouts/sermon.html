@@ -16,7 +16,7 @@ layout: default
 				{% endif %}
 
 				<section>
-					<h3>Bible Passage</h3>
+					<h3>Read</h3>
 					<span class="passage">
 						<ul>
 						{% for passage in page.bible_passages %}
@@ -58,9 +58,8 @@ layout: default
 				</section>
 				{% endif %}
 
-				{% if page.files and page.files|first != "" %}
 				<section>
-					<h3>Downloads</h3>
+					<h3>Download</h3>
 					<ul>
 					{% for f in page.files %}
 					<li><a href="{{f}}">{{f|remove_first:'http://media.coggesparish.com/sermons/'}}</a></li>
@@ -70,9 +69,35 @@ layout: default
 					{% endif %}
 					</ul>
 				</section>
-				{% endif %}
+
 
 				{{content}}
+
+				{% if page.series %}
+				<section>
+					<h3>Also in the {{page.series}} series</h3>
+			        {% assign sermons_empty = true %}
+			        <ul class="sermon-list sermon-related">
+					    {% for post in site.posts limit:500 %}
+						  	{% if post.series == page.series and post.url != page.url %}
+						  		{% assign sermons_empty = false %}
+							    <li class="sermon-short">
+							        {% if post.title != "" %}
+							      		<a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
+							      		({{post.speaker}})
+						        	{% else %}
+							            <a href="{{ post.url }}">{{ post.date | date_to_string }}</a>
+							            ({{post.speaker}})
+							        {% endif %}
+							    </li>
+							{% endif %}
+					    {% endfor %}
+					    {% if sermons_empty %}
+					    	<li>No other sermons by {{page.series}}</li>
+					    {% endif %}
+					</ul>
+				</section>
+				{% endif %}
 			</div>
 		</div>
 
@@ -112,6 +137,27 @@ layout: default
 			{% if page.speaker_twitter %}
 		    <span itemprop="twitter"><a href="http://twitter.com/{{page.speaker_twitter}}">@{{page.speaker_twitter}}</a></span><br/>
 	        {% endif %}
+
+
+	        <h3>Also by {{page.speaker}}</h3>
+	        {% assign sermons_empty = true %}
+	        <ul class="sermon-list sermon-related">
+			    {% for post in site.posts limit:500 %}
+				  	{% if post.speaker == page.speaker and post.url != page.url %}
+				  		{% assign sermons_empty = false %}
+					    <li class="sermon-short">
+					        {% if post.title != "" %}
+					      		<a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
+				        	{% else %}
+					            <a href="{{ post.url }}">{{ post.date | date_to_string }}</a>
+					        {% endif %}
+					    </li>
+					{% endif %}
+			    {% endfor %}
+			    {% if sermons_empty %}
+			    	<li>No other sermons by {{page.speaker}}</li>
+			    {% endif %}
+			</ul>
 
 		</div>
 		{% endif %}

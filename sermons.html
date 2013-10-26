@@ -4,7 +4,7 @@ title:  "Sermons"
 group: "grow"
 ---
 
-<ul>
+<ul class="sermon-list">
   {% for post in site.posts limit:500 %}
     <li class="sermon">
     	{{ post.date | date_to_string }} -

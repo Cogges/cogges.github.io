@@ -1,8 +1,8 @@
 ---
 layout: sermon
-title:  "Who Am I? - Setting Others Free"
+title:  "Setting Others Free"
 date:   2013-05-26 11:00
-series: "Our Christian Identity"
+series: "Our Christian Identity: Who Am I?"
 audio: "http://media.coggesparish.com/sermons/2013-05-26%20Simon%20Kirby.mp3"
 video: ""
 slides: ""

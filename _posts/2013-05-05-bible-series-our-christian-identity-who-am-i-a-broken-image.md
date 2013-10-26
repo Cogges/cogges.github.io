@@ -1,6 +1,7 @@
 ---
 layout: sermon
-title: "Bible Series - Our Christian Identity. - Who Am I? - A Broken Image."
+title: "A Broken Image"
+series: "Our Christian Identity: Who Am I?"
 date: "2013-05-05 00:00:00"
 audio: "http://media.coggesparish.com/sermons/2013-05-05 Simon Kirby.mp3"
 speaker: "Simon Kirby"
