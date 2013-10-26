@@ -13,8 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  /*background-color: #FFF;*/
-  background: url(/images/bg.jpg);
+  background: rgb(230,230,230) url(/images/bg.jpg) no-repeat top left;
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
   color: #444;
@@ -327,9 +326,9 @@ blockquote > footer {
 
 /* standard main page contents container */
 .content {
-	min-height: 900px;
+	/*min-height: 900px;
   max-height: 1030px;
-  overflow-y: auto;
+  overflow-y: auto;*/
   margin-bottom: 50px;
 }
 
