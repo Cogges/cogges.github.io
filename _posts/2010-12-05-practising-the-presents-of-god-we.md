@@ -1,6 +1,7 @@
 ---
 layout: sermon
-title: "Practising the Presents of God - We.."
+series: "Practising the Presents of God"
+title: "What's the use of a gift if you don't use it?"
 date: "2010-12-05 00:00:00"
 audio: "http://media.coggesparish.com/sermons/2010-12-05 Andrew Sweeney.mp3"
 speaker: "Andrew Sweeney"

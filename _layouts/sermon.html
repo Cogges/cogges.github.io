@@ -79,22 +79,18 @@ layout: default
 			        {% assign sermons_empty = true %}
 			        <ul class="sermon-list sermon-related">
 					    {% for post in site.posts limit:500 %}
-						  	{% if post.series == page.series and post.url != page.url %}
+						  	{% if post.series == page.series %}
 						  		{% assign sermons_empty = false %}
-							    <li class="sermon-short">
-							        {% if post.title != "" %}
-							      		<a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
-							      		({{post.speaker}})
+						    	<li class="sermon-short">
+						        	{% if post.url == page.url %}
+						        		<strong>{{ post.date | date_to_string }} - {{ post.title }} ({{post.speaker}})</strong>
 						        	{% else %}
-							            <a href="{{ post.url }}">{{ post.date | date_to_string }}</a>
-							            ({{post.speaker}})
-							        {% endif %}
+						      			<a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
+						      			({{post.speaker}})
+						      		{% endif %}
 							    </li>
 							{% endif %}
 					    {% endfor %}
-					    {% if sermons_empty %}
-					    	<li>No other sermons by {{page.series}}</li>
-					    {% endif %}
 					</ul>
 				</section>
 				{% endif %}

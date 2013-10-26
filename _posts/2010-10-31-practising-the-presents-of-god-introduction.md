@@ -1,6 +1,7 @@
 ---
 layout: sermon
-title: "Practising the Presents of God - Introduction."
+series: "Practising the Presents of God"
+title: "Introduction."
 date: "2010-10-31 00:00:00"
 audio: "http://media.coggesparish.com/sermons/2010-10-31 Harvey Leach.mp3"
 speaker: "Harvey Leach"

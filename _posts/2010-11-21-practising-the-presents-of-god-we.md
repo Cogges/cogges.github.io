@@ -1,6 +1,7 @@
 ---
 layout: sermon
-title: "Practising the Presents of God - We.."
+series: "Practising the Presents of God"
+title: "Safety Instructions for using your gift wisely"
 date: "2010-11-21 00:00:00"
 audio: "http://media.coggesparish.com/sermons/2010-11-21 Miri Keen.mp3"
 speaker: "Miri Keen"
