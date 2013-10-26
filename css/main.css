@@ -374,7 +374,7 @@ footer .credit {
 }
 
 ul.sermon-list {
-  margin-left: 20px;
+  margin-left: 0;
 }
 
 ul.sermon-related {
@@ -385,6 +385,7 @@ li.sermon {
   border-bottom: 1px solid #eee;
   margin-bottom: 1em;
   padding-bottom: 1em;
+  list-style: none;
 }
 
 li.sermon:last-child {
@@ -392,6 +393,7 @@ li.sermon:last-child {
 }
 
 li.sermon-short {
+  list-style: none;
   margin-bottom: 0.2em;
   padding-bottom: 0.2em;
 }

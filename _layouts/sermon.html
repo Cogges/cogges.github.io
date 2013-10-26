@@ -78,7 +78,7 @@ layout: default
 					<h3>Also in the {{page.series}} series</h3>
 			        {% assign sermons_empty = true %}
 			        <ul class="sermon-list sermon-related">
-					    {% for post in site.posts limit:500 %}
+					    {% for post in site.posts reversed %}
 						  	{% if post.series == page.series %}
 						  		{% assign sermons_empty = false %}
 						    	<li class="sermon-short">
