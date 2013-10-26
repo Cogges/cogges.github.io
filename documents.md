@@ -1,11 +1,7 @@
 ---
 layout: page
 title:  "Documents"
-
-contact: "Malcolm Harper"
-contact_email: "pcc.secretary@coggesparish.com"
-contact_phone: "01993 772443"
-contact_involved_with: ["Comms Hub", "Welcome Hub", "PCC"]
+contacts: ["Malcolm Harper"]
 ---
 
 * [Annual Report for 2012](./documents/annual-report-2012.pdf)

@@ -373,8 +373,15 @@ footer .credit {
   width: 100%;
 }
 
+.meetus-bio {
+  width: 75%;
+  margin-left: 1em;
+}
+
+
 ul.sermon-list {
   margin-left: 0;
+  padding-top: 1em;
 }
 
 ul.sermon-related {
@@ -567,7 +574,7 @@ ul.involved_list li:after {
 /*****************************************************************************/
 
 div.contact {
-  margin-bottom: 1em;
+  margin-bottom: 3em;
 }
 
 span.contact {

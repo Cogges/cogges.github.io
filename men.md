@@ -2,16 +2,7 @@
 layout: page
 title:  "Men"
 group: "connect"
-
-contact: "James Webster"
-contact_email: "james@coggesparish.com"
-contact_photo: "/images/people/james-webster.jpg"
-contact_twitter: "jwebster"
-contact_involved_with: ["Men's Ministry", "Comms Hub", "Church Database", "New Wine"]
-contact_bio: "James is married to Rachel and father to Caleb, Theo and Alicia. He runs Croftsware Ltd helping startups, SMEs, and charities with their technology and business problems."
-
-quote: "I knew it would be great!"
-quote_attribution: "Jacob 5, at Wild Kids Camping"
+contacts: ["James Webster", "Pete Moore", "Paul Ledden"]
 ---
 
 

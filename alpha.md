@@ -2,13 +2,7 @@
 layout: page
 title:  "Alpha"
 group: "connect"
-
-contact: "Rich White"
-contact_email: "rich@coggesparish.com"
-contact_phone: "01993 779613"
-contact_photo: "/images/people/rich-white.jpg"
-contact_involved_with: ["Worship", "Alpha", "New Wine"]
-contact_bio: "Rich is married to Catherine and they have two boys, Ben and Joshua. Rich is training for Ordained ministry in the Church of England and spends part of his time here at St Mary's and also at St Mellitus College, London. Rich loves fishing (when he gets the chance) and is not ashamed to be a Downton Abbey fan!"
+contacts: ["Rich White"]
 ---
 
 * Who is Jesus?
@@ -28,15 +22,15 @@ talk on a key aspect of the Christian faith such as "Why did Jesus
 die?" or "How can we have faith?", and finally a group session to ask
 questions.
 
-Our current Alpha course started on 1st October (after an introductory 
-supper on Friday 20th September) and meets on Tuesday evenings.   
+Our current Alpha course started on 1st October (after an introductory
+supper on Friday 20th September) and meets on Tuesday evenings.
 
 ### Find out more
 
-We expect to run further Alpha courses in 2014.   
+We expect to run further Alpha courses in 2014.
 To register your interest for the next course or simply to request
-more information please contact St Mary's Cogges church office 
-by email 
-(<a href="mailto:office@coggesparish.com?subject=Alpha">office@coggesparish.com</a>) 
+more information please contact St Mary's Cogges church office
+by email
+(<a href="mailto:office@coggesparish.com?subject=Alpha">office@coggesparish.com</a>)
 or phone (01993 779613).
 

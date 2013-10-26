@@ -2,19 +2,7 @@
 layout: hub
 title:  "Youth"
 group: "engage"
-contact: "Ugo Anagor"
-contact_photo: "/images/people/ugo.jpg"
-contact_role: "Youth Pastor"
-contact_email: "ugoanagor@yahoo.com"
-contact_phone: "07872 069834"
-contact_twitter: "ugonator"
-contact_involved_with: ["Youth"]
-
-contact_2: "Mel Sayles"
-contact_2_phone: "01993 773221"
-contact_2_involved_with: ["Children", "CYFA"]
-contact_2_bio: "Mel is married to Anthony and they have three lovely children.  Mel loves spending time with her family.  Mel is passionate about children knowing and experiencing God’s love for them."
-
+contacts: ["Ugo Anagor",  "Mel Sayles"]
 ---
 
 ## Home Groups

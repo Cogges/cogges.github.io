@@ -2,102 +2,67 @@
 layout: one_column_page
 title:  "Meet Us"
 group: "discover"
+staff: ["Simon Kirby", "Ugo Anagor", "Rich White", "Elaine Beechey", "Mo McKay", "Miri Keen", "Nick Pike"]
 ---
 
-<ul id="meet-us">
-	<li class="person">
-		<div class="image-holder pull-left">
-			<img class="profile" itemprop="photo" src="/images/people/simon-kirby.jpg" alt="Rev Simon Kirby">
-		</div>
-		<div class="image-details pull-left">
-	        <span itemprop="name">Rev Simon Kirby</span><br/>
-	        <span itemprop="title">Vicar</span><br/>
-		    <span itemprop="telephone">01993 779613</span><br/>
-		    <span itemprop="email"><a href="mailto:simon@coggesparish.com">simon@coggesparish.com</a></span><br/>
-		    <span itemprop="twitter"><a href="http://twitter.com/sikirby">@sikirby</a></span><br/>
-		    <span itemprop="bio">Simon Kirby has been Vicar of Cogges, North Leigh & South Leigh since January 2013. He is married to Sue and has two sons Thomas & Luke. Before moving to Cogges the family lived in North London for 15 years where Simon worked among other things as a Youth Worker, Church planter, School Chaplain and School Rugby Coach. Simon can often be seen around Cogges shouting for his errant dog Odo to return.</span>
+{% for contact in page.staff %}
+	{% assign speaker = false %}
 
-		</div>
-    </li>
+    {% for person in site.pages %}
+	  	{% if person.contact == contact %}
+	  		{% assign speaker = person %}
+		{% endif %}
+    {% endfor %}
 
-	<li class="person">
-		<div class="image-holder pull-left">
-			<img class="profile" itemprop="photo" src="/images/people/ugo.jpg" alt="Ugo Anagor">
-		</div>
-		<div class="image-details pull-left">
-	        <span itemprop="name">Ugo Anagor</span><br/>
-	        <span itemprop="title">Youth Pastor</span><br/>
-		    <span itemprop="telephone">07872 069834</span><br/>
-		    <span itemprop="email">ugoanagor@yahoo.com</span><br/>
-		    <span itemprop="twitter"><a href="http://twitter.com/ugonator">@ugonator</a></span><br/>
-		</div>
-    </li>
+   	{% if speaker != false %}
+	   	<div class="contact">
+            <h2><span itemprop="name">{{speaker.contact}}</span></h2>
+            <div>
+				{% if speaker.contact_photo %}
+					<img class="profile pull-left" itemprop="photo" src="{{speaker.contact_photo}}" alt="{{speaker.contact}}" width="101" height="100">
+				{% else %}
+					<img class="profile pull-left" itemprop="photo" src="/images/logo.jpg" alt="{{page.contact}}" width="101" height="100">
+				{% endif %}
 
-	<li class="person">
-		<div class="image-holder pull-left">
-			<img class="profile" itemprop="photo" src="/images/people/rich-white.jpg" alt="Rich White">
-		</div>
-		<div class="image-details pull-left">
-	        <span itemprop="name">Rich White</span><br/>
-	        <span itemprop="title">Minister in Training</span><br/>
-		    <span itemprop="telephone">01993 779613</span><br/>
-		    <span itemprop="email">rich@coggesparish.com</span><br/>
-		    <span itemprop="bio">Rich is married to Catherine and they have two boys, Ben and Joshua. Rich is training for Ordained ministry in the Church of England and spends part of his time here at St Mary's and also at St Mellitus College, London. Rich loves fishing (when he gets the chance) and is not ashamed to be a Downton Abbey fan!</span>
-		</div>
-    </li>
+				{% if speaker.contact_bio %}
+	            <div class="meetus-bio bio pull-left">
+		            <img src="/images/quote-begin.png" alt="quote-begin" width="23" height="13">
+		            <p>{{speaker.contact_bio}}</p>
+		            <img src="/images/quote-end.png" alt="quote-end" class="end" width="22" height="13">
+	            </div>
+				{% endif %}
+			</div>
 
-	<li class="person">
-		<div class="image-holder pull-left">
-			<img class="profile" itemprop="photo" src="/images/logo.jpg" alt="Elaine Beechey">
-		</div>
-		<div class="image-details pull-left">
-	        <span itemprop="name">Elaine Beechey</span><br/>
-	        <span itemprop="title">Parish Administrator</span><br/>
-		    <span itemprop="telephone">01993 779613</span><br/>
-		    <span itemprop="email">office@coggesparish.com</span><br/>
-		</div>
-    </li>
+			<div style="clear:both;">&nbsp;</div>
 
-	<li class="person">
-		<div class="image-holder pull-left">
-			<img class="profile" itemprop="photo" src="/images/logo.jpg" alt="Mo McKay">
-		</div>
-		<div class="image-details pull-left">
-	        <span itemprop="name">Mo McKay</span><br/>
-	        <span itemprop="title">Parish Administrator</span><br/>
-		    <span itemprop="telephone">01993 779613</span><br/>
-		    <span itemprop="email">office@coggesparish.com</span><br/>
-		    <span itemprop="bio">Mo and Elaine have shared the job of Parish Administrator since 2008.
-		    As well as working in the church office Mo works as a Training and Development Consultant
-		    for the NHS.  She loves the theatre and music and sings with two choirs.</span>
-		</div>
-    </li>
-
-	<li class="person">
-		<div class="image-holder pull-left">
-			<img class="profile" itemprop="photo" src="/images/people/miri-keen.jpg" alt="Rev Miri Keen">
-		</div>
-		<div class="image-details pull-left">
-	        <span itemprop="name">Rev Miri Keen</span><br/>
-	        <span itemprop="title">Associate Minister</span> (<span itemprop="affiliation">North Leigh</span>)<br/>
-		    <span itemprop="telephone">01993 880095</span><br/>
-		    <span itemprop="email">miri@northleighparish.com</span><br/>
-		</div>
-    </li>
-
-	<li class="person">
-		<div class="image-holder pull-left">
-			<img class="profile" itemprop="photo" src="/images/people/nick-pike.jpg" alt="Rev Nick Pike">
-		</div>
-		<div class="image-details pull-left">
-	        <span itemprop="name">Rev Nick Pike</span><br/>
-	        <span itemprop="title">Curate</span> (<span itemprop="affiliation">South Leigh</span>)<br/>
-		    <span itemprop="telephone">01993 200843</span><br/>
-		    <span itemprop="email">nick.pike@northleighparish.com</span><br/>
-		    <span class="note">Part-time: normal working days Sunday, Monday, Tuesday.</span><br/>
-		</div>
-    </li>
+			{% if speaker.contact_involved_with %}
+            <h4>{{speaker.contact|split:" "|first}} is involved with...</h4>
+            <ul class="involved_list">
+            	{% for r in speaker.contact_involved_with %}
+	            	<li>{{r}}</li>
+	            {% endfor %}
+            </ul>
+            {% endif %}
 
 
 
-</ul>
+			{% if speaker.contact_email %}
+			    <span class="contact" itemprop="email">
+			    	<a href="mailto:{{speaker.contact_email}}">{{speaker.contact_email}}</a>
+			    </span>
+			{% endif %}
+
+			{% if speaker.contact_phone %}
+			    <span class="contact" itemprop="telephone">
+			    	<a href="tel:{{speaker.contact_phone}}">{{speaker.contact_phone}}</a>
+			    </span>
+		    {% endif %}
+
+			{% if speaker.contact_twitter %}
+		    <span itemprop="twitter"><a href="http://twitter.com/{{speaker.contact_twitter}}">@{{speaker.contact_twitter}}</a></span><br/>
+	        {% endif %}
+
+     	</div>
+	{% endif %}
+{% endfor %}
+

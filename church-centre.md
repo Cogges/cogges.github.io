@@ -1,10 +1,7 @@
 ---
 layout: page
 title:  "Church Centre"
-
-
-contact: "Stella Johnson"
-contact_phone: "01993 775953"
+contacts: ["Stella Johnson"]
 ---
 
 Cogges Church Centre is available for private hire.

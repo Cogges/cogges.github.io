@@ -103,35 +103,53 @@ layout: default
 			<h2>Speaker</h2>
             <h3><span itemprop="name">{{page.speaker}}</span></h3>
 
-			{% if page.speaker_bio %}
-            <div class="bio">
-	            <img src="images/quote-begin.png" alt="quote-begin" width="23" height="13">
-	            <p>{{page.speaker_bio}}</p>
-	            <img src="images/quote-end.png" alt="quote-end" class="end" width="22" height="13">
-            </div>
-			{% endif %}
 
-			{% if page.contact_involved_with %}
-            <h4>{{page.speaker|split:" "|first}} is involved with...</h4>
-            <ul class="involved_list">
-            	{% for r in page.contact_involved_with %}
-	            	<li>{{r}}</li>
-	            {% endfor %}
-            </ul>
-            {% endif %}
+	        {% assign speaker = false %}
+		    {% for person in site.pages%}
+			  	{% if person.contact == page.speaker %}
+			  		{% assign speaker = person %}
+				{% endif %}
+		    {% endfor %}
 
-			{% if page.speaker_photo %}
-				<img class="profile" itemprop="photo" src="{{page.speaker_photo}}" alt="{{page.speaker}}" width="101" height="100">
-			{% endif %}
+		   	{% if speaker != false %}
+				{% if speaker.contact_bio %}
+	            <div class="bio">
+		            <img src="/images/quote-begin.png" alt="quote-begin" width="23" height="13">
+		            <p>{{speaker.contact_bio}}</p>
+		            <img src="/images/quote-end.png" alt="quote-end" class="end" width="22" height="13">
+	            </div>
+				{% endif %}
 
-		    <span itemprop="email"><a href="mailto:{{page.speaker_email}}">{{page.speaker_email}}</a></span><br/>
+				{% if speaker.contact_involved_with %}
+	            <h4>{{speaker.contact|split:" "|first}} is involved with...</h4>
+	            <ul class="involved_list">
+	            	{% for r in speaker.contact_involved_with %}
+		            	<li>{{r}}</li>
+		            {% endfor %}
+	            </ul>
+	            {% endif %}
 
-		    {% if page.speaker_phone %}
-		    <span itemprop="telephone"><a href="tel:{{page.speaker_phone}}">{{page.speaker_phone}}</a></span><br/>
-	        {% endif %}
+				{% if speaker.contact_photo %}
+					<img class="profile" itemprop="photo" src="{{speaker.contact_photo}}" alt="{{speaker.contact}}" width="101" height="100">
+				{% else %}
+					<img class="profile" itemprop="photo" src="/images/logo.jpg" alt="{{page.contact}}" width="101" height="100">
+				{% endif %}
 
-			{% if page.speaker_twitter %}
-		    <span itemprop="twitter"><a href="http://twitter.com/{{page.speaker_twitter}}">@{{page.speaker_twitter}}</a></span><br/>
+				{% if speaker.contact_email %}
+				    <span class="contact" itemprop="email">
+				    	<a href="mailto:{{speaker.contact_email}}">{{speaker.contact_email}}</a>
+				    </span>
+				{% endif %}
+
+				{% if speaker.contact_phone %}
+				    <span class="contact" itemprop="telephone">
+				    	<a href="tel:{{speaker.contact_phone}}">{{speaker.contact_phone}}</a>
+				    </span>
+			    {% endif %}
+
+				{% if speaker.contact_twitter %}
+			    <span itemprop="twitter"><a href="http://twitter.com/{{speaker.contact_twitter}}">@{{speaker.contact_twitter}}</a></span><br/>
+		        {% endif %}
 	        {% endif %}
 
 
