@@ -32,13 +32,13 @@
               <li class="dropdown">
                 <a class="dropdown-toggle one" id="drop1" role="button" data-toggle="dropdown" href="#">Discover</a>
                 <ul id="menu1" class="dropdown-menu" role="menu" aria-labelledby="drop1">
-                  <li><a href="./sunday.html">Sundays</a></li>
+                  <li><a href="/sunday.html">Sundays</a></li>
                   {% for p in site.pages|sort %}
                     {% if p.group == 'discover' %}
                       <li><a href="{{p.url}}">{{p.title}}</a></li>
                     {% endif %}
                   {% endfor %}
-                  <li><a href="./church-centre.html">Church Centre</a></li>
+                  <li><a href="/church-centre.html">Church Centre</a></li>
                 </ul>
               </li>
 
