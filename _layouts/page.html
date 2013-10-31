@@ -24,7 +24,7 @@ layout: default
 			    {% endfor %}
 
 			   	{% if speaker != false %}
-				   	<div class="contact">
+				   	<div class="contact" itemscope itemtype="http://schema.org/Person">
 			            <h3><span itemprop="name">{{speaker.contact}}</span></h3>
 
 						{% if speaker.contact_bio %}
@@ -52,18 +52,20 @@ layout: default
 
 						{% if speaker.contact_email %}
 						    <span class="contact" itemprop="email">
-						    	<a href="mailto:{{speaker.contact_email}}">{{speaker.contact_email}}</a>
+						    	<a href="mailto:{{speaker.contact_email}}" title="{{speaker.contact_email}}">{{speaker.contact_email}}</a>
 						    </span>
 						{% endif %}
 
 						{% if speaker.contact_phone %}
 						    <span class="contact" itemprop="telephone">
-						    	<a href="tel:{{speaker.contact_phone}}">{{speaker.contact_phone}}</a>
+						    	<a href="tel:{{speaker.contact_phone|escape}}" title="{{speaker.contact_phone}}">{{speaker.contact_phone}}</a>
 						    </span>
 					    {% endif %}
 
 						{% if speaker.contact_twitter %}
-					    <span itemprop="twitter"><a href="http://twitter.com/{{speaker.contact_twitter}}">@{{speaker.contact_twitter}}</a></span><br/>
+					    <span itemprop="twitter">
+					    	<a href="http://twitter.com/{{speaker.contact_twitter}}" title="@{{speaker.contact_twitter}}">@{{speaker.contact_twitter}}</a>
+					    </span><br/>
 				        {% endif %}
 
 			     	</div>

@@ -15,7 +15,7 @@ staff: ["Simon Kirby", "Ugo Anagor", "Rich White", "Elaine Beechey", "Mo McKay",
     {% endfor %}
 
    	{% if speaker != false %}
-	   	<div class="contact">
+	   	<div class="contact" itemscope itemtype="http://schema.org/Person">
             <h2><span itemprop="name">{{speaker.contact}}</span></h2>
             <div>
 				{% if speaker.contact_photo %}
@@ -54,7 +54,7 @@ staff: ["Simon Kirby", "Ugo Anagor", "Rich White", "Elaine Beechey", "Mo McKay",
 
 			{% if speaker.contact_phone %}
 			    <span class="contact" itemprop="telephone">
-			    	<a href="tel:{{speaker.contact_phone}}">{{speaker.contact_phone}}</a>
+			    	<a href="tel:{{speaker.contact_phone|escape}}">{{speaker.contact_phone}}</a>
 			    </span>
 		    {% endif %}
 

@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <title>{{ page.title }}</title>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.7">
     <meta name="description"
           content="St Mary's Church Cogges is an evangelical parish church on the east side of Witney in Oxfordshire.">
@@ -30,7 +31,7 @@
 
       <header>
         <div class="site-title">
-          <a href="/">St Mary's Cogges Witney</a>
+          <a href="/" title="home">St Mary's Cogges Witney</a>
         </div>
       </header>
 
@@ -46,7 +47,7 @@
                   <li><a href="/sunday.html">Sundays</a></li>
                   {% for p in site.pages|sort %}
                     {% if p.group == 'discover' %}
-                      <li><a href="{{p.url}}">{{p.title}}</a></li>
+                      <li><a href="{{p.url}}" title="{{p.title}}">{{p.title}}</a></li>
                     {% endif %}
                   {% endfor %}
                   <li><a href="/church-centre.html">Church Centre</a></li>
@@ -58,7 +59,7 @@
                 <ul id="menu2" class="dropdown-menu" role="menu" aria-labelledby="drop2">
                   {% for p in site.pages|sort%}
                     {% if p.group == 'connect' %}
-                      <li><a href="{{p.url}}">{{p.title}}</a></li>
+                      <li><a href="{{p.url}}" title="{{p.title}}">{{p.title}}</a></li>
                     {% endif %}
                   {% endfor %}
                 </ul>
@@ -69,7 +70,7 @@
                 <ul id="menu3" class="dropdown-menu" role="menu" aria-labelledby="drop3">
                   {% for p in site.pages|sort %}
                     {% if p.group == 'engage' %}
-                      <li><a href="{{p.url}}">{{p.title}}</a></li>
+                      <li><a href="{{p.url}}" title="{{p.title}}">{{p.title}}</a></li>
                     {% endif %}
                   {% endfor %}
                 </ul>
@@ -80,7 +81,7 @@
                 <ul id="menu4" class="dropdown-menu" role="menu" aria-labelledby="drop4">
                   {% for p in site.pages|sort %}
                     {% if p.group == 'grow' %}
-                      <li><a href="{{p.url}}">{{p.title}}</a></li>
+                      <li><a href="{{p.url}}" title="{{p.title}}">{{p.title}}</a></li>
                     {% endif %}
                   {% endfor %}
                 </ul>
@@ -104,13 +105,13 @@
           <div class="span8">
             <nav>
               <ul>
-                <li><a href="/">HOME</a></li>
-                <li><a href="/contact.html">CONTACT</a></li>
-                <li><a href="/events.html">DIARY</a></li>
-                <li><a href="/giving.html">GIVING</a></li>
-                <li><a href="https://sheepcrm.com/cogges/">DIRECTORY</a></li>
-                <li><a href="/terms.html">TERMS OF USE</a></li>
-                <li><a href="/privacy.html">PRIVACY</a></li>
+                <li><a href="/" title="home">HOME</a></li>
+                <li><a href="/contact.html" title="contact">CONTACT</a></li>
+                <li><a href="/events.html" title="diary" >DIARY</a></li>
+                <li><a href="/giving.html" title="giving">GIVING</a></li>
+                <li><a href="https://sheepcrm.com/cogges/" title="directory">DIRECTORY</a></li>
+                <li><a href="/terms.html" title="terms of use">TERMS OF USE</a></li>
+                <li><a href="/privacy.html" title="privacy">PRIVACY</a></li>
               </ul>
             </nav>
           </div>
@@ -125,25 +126,25 @@
           <div class="span2 empty"></div>
           <div class="span3">
             <ul class="sub">
-              <li><a href="http://archive.coggesparish.com/">ARCHIVE</a></li>
-              <li><a href="http://www.ccli.co.uk/">CCLI</a></li>
-              <li><a href="http://www.oxford.anglican.org/">OXFORD DIOCESE</a></li>
-              <li><a href="http://www.eauk.org">EVANGELICAL ALLIANCE</a></li>
-              <li><a href="http://www.new-wine.org">NEW WINE NETWORK</a></li>
-              <li><a href="http://www.churchofengland.org/">C OF E</a></li>
+              <li><a href="http://archive.coggesparish.com/" title="archive">ARCHIVE</a></li>
+              <li><a href="http://www.ccli.co.uk/" title="ccli">CCLI</a></li>
+              <li><a href="http://www.oxford.anglican.org/" title="Oxford Diocese">OXFORD DIOCESE</a></li>
+              <li><a href="http://www.eauk.org" title="evangelical Alliance">EVANGELICAL ALLIANCE</a></li>
+              <li><a href="http://www.new-wine.org" title="new wine">NEW WINE NETWORK</a></li>
+              <li><a href="http://www.churchofengland.org/" title="church of england">C OF E</a></li>
             </ul>
           </div>
           <div class="span3">
             <ul class="sub">
-              <li><a href="./documents.html">MEMBER DOCUMENTS</a></li>
-              <li><a href="/inscrip/">MEMORIAL INSCRIPTIONS</a></li>
-              <li><a href="/southleigh/inscrip/">SOUTH LEIGH INSCRIPTIONS</a></li>
+              <li><a href="./documents.html" title="member documents">MEMBER DOCUMENTS</a></li>
+              <li><a href="/inscrip/" title="memorial inscriptions">MEMORIAL INSCRIPTIONS</a></li>
+              <li><a href="/southleigh/inscrip/" title="south leigh inscriptions">SOUTH LEIGH INSCRIPTIONS</a></li>
             </ul>
           </div>
           <div class="span2 contacts">
             <img src="/images/cogges-logo.png" alt="cogges-logo" width="50" height="50"><br />
             ST MARY'S COGGES<BR />CHURCH LANE<BR />WITNEY<BR />OX28 3LA<br />
-            <p><a href="./find-us.html">FINDING US</a>
+            <p><a href="./find-us.html" title="find us">FINDING US</a>
           </div>
           <div class="span2"><!-- redundant  --></div>
         </div><!-- /. row-fluid -->
