@@ -98,7 +98,7 @@ layout: default
 
 
 		{% if page.speaker %}
-		<div class="span6 right_col">
+		<div class="span6 right_col" itemscope itemtype="http://schema.org/Person">
 			<h2>Speaker</h2>
             <h3><span itemprop="name">{{page.speaker}}</span></h3>
 
@@ -111,6 +111,7 @@ layout: default
 		    {% endfor %}
 
 		   	{% if speaker != false %}
+
 				{% if speaker.contact_bio %}
 	            <div class="bio">
 		            <img src="/images/quote-begin.png" alt="quote-begin" width="23" height="13">
@@ -136,19 +137,22 @@ layout: default
 
 				{% if speaker.contact_email %}
 				    <span class="contact" itemprop="email">
-				    	<a href="mailto:{{speaker.contact_email}}">{{speaker.contact_email}}</a>
+				    	<a href="mailto:{{speaker.contact_email}}" title="{{speaker.contact_email}}">{{speaker.contact_email}}</a>
 				    </span>
 				{% endif %}
 
 				{% if speaker.contact_phone %}
 				    <span class="contact" itemprop="telephone">
-				    	<a href="tel:{{speaker.contact_phone}}">{{speaker.contact_phone}}</a>
+				    	<a href="tel:{{speaker.contact_phone|remove:" "}}" title="{{speaker.contact_phone}}">{{speaker.contact_phone}}</a>
 				    </span>
 			    {% endif %}
 
 				{% if speaker.contact_twitter %}
-			    <span itemprop="twitter"><a href="http://twitter.com/{{speaker.contact_twitter}}">@{{speaker.contact_twitter}}</a></span><br/>
+			    <span itemprop="twitter">
+			    	<a href="http://twitter.com/{{speaker.contact_twitter}}" title="@{{speaker.contact_twitter}}">@{{speaker.contact_twitter}}</a>
+			    </span><br/>
 		        {% endif %}
+
 	        {% endif %}
 
 
@@ -160,9 +164,9 @@ layout: default
 				  		{% assign sermons_empty = false %}
 					    <li class="sermon-short">
 					        {% if post.title != "" %}
-					      		<a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
+					      		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
 				        	{% else %}
-					            <a href="{{ post.url }}">{{ post.date | date_to_string }}</a>
+					            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.date | date_to_string }}</a>
 					        {% endif %}
 					    </li>
 					{% endif %}

@@ -54,7 +54,7 @@ staff: ["Simon Kirby", "Ugo Anagor", "Rich White", "Elaine Beechey", "Mo McKay",
 
 			{% if speaker.contact_phone %}
 			    <span class="contact" itemprop="telephone">
-			    	<a href="tel:{{speaker.contact_phone|escape}}">{{speaker.contact_phone}}</a>
+			    	<a href="tel:{{speaker.contact_phone|remove:" "}}">{{speaker.contact_phone}}</a>
 			    </span>
 		    {% endif %}
 

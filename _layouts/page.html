@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
 
 <div class="page {{ page.title | replace:' ','_' | downcase }}">
 
@@ -58,7 +57,7 @@ layout: default
 
 						{% if speaker.contact_phone %}
 						    <span class="contact" itemprop="telephone">
-						    	<a href="tel:{{speaker.contact_phone|escape}}" title="{{speaker.contact_phone}}">{{speaker.contact_phone}}</a>
+						    	<a href="tel:{{speaker.contact_phone|remove:" "}}" title="{{speaker.contact_phone}}">{{speaker.contact_phone}}</a>
 						    </span>
 					    {% endif %}
 
