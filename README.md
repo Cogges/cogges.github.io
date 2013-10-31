@@ -23,6 +23,8 @@
 1. Upload the mp3 file to media.coggesparish.com/sermons/ (as before)
 1. Open the ['_posts'](https://github.com/Cogges/cogges.github.io/tree/master/_posts) folder
 1. Click the add button ![Add Button](/images/internal/github-add.png)
+1. Name your file with the date YYYY-MM-DD and a [slugified][http://blog.tersmitten.nl/slugify/] title and finally dot md (md is for markdown format)
+	* e.g. 2013-08-04-money-and-our-attitudes-towards-it.md
 1. Fill in the 'front matter' like [this example](https://gist.github.com/jwebster/7153746)
 1. Add a comment about your change and then Commit (Save) ![Save](/images/internal/github-save.png)
 1. Changes get applied automatically and are usually immediate but can take up to 10 minutes to appear.
