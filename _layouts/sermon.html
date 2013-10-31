@@ -19,7 +19,7 @@ layout: default
 					<div class="passage">
 						<ul>
 						{% for passage in page.bible_passages %}
-						<li><a href="http://www.biblegateway.com/passage/?search={{passage}}&amp;version=NIVUK" target="_blank">
+						<li><a href="http://www.biblegateway.com/passage/?search={{passage|replace:" ","%20"}}&amp;version=NIVUK" target="_blank">
 							{{passage}}
 						</a></li>
 						{% endfor %}
