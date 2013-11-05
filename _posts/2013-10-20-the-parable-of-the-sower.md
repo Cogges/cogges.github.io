@@ -1,7 +1,7 @@
 ---
 layout: sermon
 title: "The Parable of the Sower."
-date: "2013-10-20 00:00:00"
+date: "2013-10-20 11:00:00"
 audio: "http://media.coggesparish.com/sermons/2013-10-20 Simon Kirby.mp3"
 speaker: "Simon Kirby"
 youtube_videos: ["V9IOhGPrRvY"]
