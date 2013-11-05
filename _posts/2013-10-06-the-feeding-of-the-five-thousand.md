@@ -7,3 +7,5 @@ audio: "http://media.coggesparish.com/sermons/2013-10-06 Simon Kirby.mp3"
 speaker: "Simon Kirby"
 bible_passages: ["John 6:1-15"]
 ---
+
+Sorry for the very poor recording of the Bible reading and sermon.
