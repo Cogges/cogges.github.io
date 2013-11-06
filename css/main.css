@@ -399,11 +399,14 @@ li.sermon:last-child {
 }
 
 li.sermon-short {
-  list-style: none;
+
   margin-bottom: 0.2em;
   padding-bottom: 0.2em;
 }
 
+ul > li.sermon-short {
+  list-style: none;
+}
 
 /*****************************************************************************/
 /*
