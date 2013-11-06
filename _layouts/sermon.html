@@ -76,7 +76,7 @@ layout: default
 				<section>
 					<h3>Also in the {{page.series}} series</h3>
 			        {% assign sermons_empty = true %}
-			        <ul class="sermon-list sermon-related">
+			        <ol class="sermon-list sermon-related">
 					    {% for post in site.posts reversed %}
 						  	{% if post.series == page.series %}
 						  		{% assign sermons_empty = false %}
@@ -90,7 +90,7 @@ layout: default
 							    </li>
 							{% endif %}
 					    {% endfor %}
-					</ul>
+					</ol>
 				</section>
 				{% endif %}
 			</div>
