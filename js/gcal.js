@@ -101,6 +101,14 @@ function listEvents(root, divId) {
     var start = entry['gd$when'][0].startTime;
     var series = false;
 
+    if (title.search('Funeral') != -1) {
+      continue;
+    }
+
+    if (title.search('Wedding') != -1) {
+      continue;
+    }
+
     if (entry['gCal$sequence'].value > 0) {
       series = true;
     }

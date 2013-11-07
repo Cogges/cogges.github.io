@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Men"
+title:  "Men's Activities"
 group: "connect"
 contacts: ["James Webster", "Pete Moore", "Paul Ledden"]
 ---
