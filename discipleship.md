@@ -1,5 +1,5 @@
 ---
-layout: hub
+layout: page
 title:  "Discipleship"
 group: "grow"
 contacts: ["Gerald March"]

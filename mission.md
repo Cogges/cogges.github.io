@@ -1,5 +1,5 @@
 ---
-layout: hub
+layout: page
 title:  "Mission"
 group: "engage"
 contacts: ["Hilary Warner"]

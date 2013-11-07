@@ -1,5 +1,5 @@
 ---
-layout: hub
+layout: page
 title:  "Youth"
 group: "engage"
 contacts: ["Ugo Anagor",  "Mel Sayles"]

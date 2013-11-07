@@ -1,8 +1,7 @@
 ---
-layout: hub
+layout: page
 title:  "Children"
 group: "engage"
-
 contacts: ["Mel Sayles", "Kirsty Morgan"]
 ---
 
