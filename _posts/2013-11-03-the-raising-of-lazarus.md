@@ -7,4 +7,5 @@ audio: "http://media.coggesparish.com/sermons/2013-11-03 Gerald March.mp3"
 speaker: "Gerald March"
 files: ["http://media.coggesparish.com/sermons/2013-11-03 Gerald March.pdf"]
 bible_passages: ["John 11:1-46"]
+duration: "25:07"
 ---

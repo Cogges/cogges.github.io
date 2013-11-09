@@ -64,7 +64,11 @@ layout: default
 					<li><a href="{{f|replace:" ","%20"}}" title="download for {{page.title}}">{{f|remove_first:'http://media.coggesparish.com/sermons/'}}</a></li>
 					{% endfor %}
 					{% if page.audio %}
-					<li><a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}</a></li>
+					<li><a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}</a>
+						{% if page.duration %}
+							{{page.duration}} minutes
+						{% endif %}
+					</li>
 					{% endif %}
 					</ul>
 				</section>
