@@ -1,5 +1,5 @@
 ---
-contact: "Ugochukwu Anagor (a.k.a Ugo)"
+contact: "Ugo Anagor"
 contact_photo: "/images/people/ugo.jpg"
 contact_role: "Youth Pastor"
 contact_email: "ugoanagor@yahoo.com"
