@@ -46,7 +46,7 @@ layout: default
 				</section>
 				{% endif %}
 
-				{% if page.youtube_videos and page.youtube_videos != "" %}
+				{% if page.youtube_videos and page.youtube_videos|first != "" %}
 				<section>
 					<h3>Watch</h3>
 					{% for video in page.youtube_videos %}
@@ -72,11 +72,21 @@ layout: default
 				<section>
 					<h3>Download</h3>
 					<ul>
-					{% for f in page.files %}
-					<li><a href="{{f|replace:" ","%20"}}" title="download for {{page.title}}">{{f|remove_first:'http://media.coggesparish.com/sermons/'}}</a></li>
+					{% for f in page.files and page.files|first != ""%}
+						{% if f != "" %}
+						<li>
+							<a href="{{f|replace:" ","%20"}}" title="download for {{page.title}}">
+							{{f|remove_first:'http://media.coggesparish.com/sermons/'}}
+							</a>
+						</li>
+						{% endif %}
 					{% endfor %}
+
 					{% if page.audio %}
-					<li><a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}</a>
+					<li>
+						<a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">
+							{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}
+						</a>
 						{% if page.duration %}
 							{{page.duration}} minutes
 						{% endif %}
