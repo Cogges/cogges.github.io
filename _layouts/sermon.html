@@ -50,8 +50,10 @@ layout: default
 				<section>
 					<h3>Watch</h3>
 					{% for video in page.youtube_videos %}
-					<iframe class="youtube-player" type="text/html" width="460" height="259" src="http://www.youtube.com/embed/{{video}}" allowfullscreen frameborder="0">
-					</iframe>
+						{% if video != "" %}
+						<iframe class="youtube-player" type="text/html" width="460" height="259" src="http://www.youtube.com/embed/{{video}}" allowfullscreen frameborder="0">
+						</iframe>
+						{% endif %}
 					{% endfor %}
 				</section>
 				{% endif %}
