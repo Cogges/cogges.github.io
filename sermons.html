@@ -8,7 +8,7 @@ group: "grow"
   {% for post in site.posts limit:500 %}
     <li class="sermon">
     	{{ post.date | date_to_string }} -
-    	{% if post.series %}
+    	{% if post.series and post.series != "" %}
       		<a href="{{ post.url }}" title="{{ post.series }} : {{ post.title }}">{{ post.series }} : {{ post.title }}</a>
       	{% else %}
           {% if post.title != "" %}

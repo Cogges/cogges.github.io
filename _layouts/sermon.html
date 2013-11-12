@@ -10,7 +10,7 @@ layout: default
         	<p class="meta">{{ page.date | date_to_string }}</p>
 
 			<div id="post">
-				{% if page.series %}
+				{% if page.series and page.series != "" %}
 				Series: <span class="series">{{page.series}}</span><br/>
 				{% endif %}
 
@@ -36,7 +36,7 @@ layout: default
 				</section>
 				{% endif %}
 
-				{% if page.youtube_videos %}
+				{% if page.youtube_videos and page.youtube_videos != "" %}
 				<section>
 					<h3>Watch</h3>
 					{% for video in page.youtube_videos %}
@@ -76,9 +76,9 @@ layout: default
 
 				{{content}}
 
-				{% if page.series %}
+				{% if page.series and page.series != "" %}
 				<section>
-					<h3>Also in the {{page.series}} series</h3>
+					<h3>Also in the '{{page.series}}' series</h3>
 			        {% assign sermons_empty = true %}
 			        <ol class="sermon-list sermon-related">
 					    {% for post in site.posts reversed %}
