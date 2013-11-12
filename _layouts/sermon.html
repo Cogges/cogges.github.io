@@ -14,6 +14,7 @@ layout: default
 				Series: <span class="series">{{page.series}}</span><br/>
 				{% endif %}
 
+				{% if page.bible_passages and page.bible_passages|first != "" %}
 				<section>
 					<h3>Read</h3>
 					<div class="passage">
@@ -36,8 +37,9 @@ layout: default
 						</ul>
 					</div><br/>
 				</section>
+				{% endif %}
 
-				{% if page.audio %}
+				{% if page.audio and page.audio != "" %}
 				<section>
 					<h3>Listen</h3>
 					<audio controls>
@@ -82,12 +84,12 @@ layout: default
 						{% endif %}
 					{% endfor %}
 
-					{% if page.audio %}
+					{% if page.audio and page.audio != "" %}
 					<li>
 						<a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">
 							{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}
 						</a>
-						{% if page.duration %}
+						{% if page.duration and page.duration !="" %}
 							{{page.duration}} minutes
 						{% endif %}
 					</li>
