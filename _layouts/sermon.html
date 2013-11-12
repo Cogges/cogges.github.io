@@ -18,11 +18,21 @@ layout: default
 					<h3>Read</h3>
 					<div class="passage">
 						<ul>
-						{% for passage in page.bible_passages %}
-						<li><a href="http://www.biblegateway.com/passage/?search={{passage|replace:" ","%20"}}&amp;version=NIVUK" target="_blank">
-							{{passage}}
-						</a></li>
-						{% endfor %}
+							{% if page.bible_passages and page.bible_links %}
+								{% for passage in page.bible_passages %}
+								<li><a href="http://www.biblegateway.com/passage/?search={{page.bible_links[forloop.index0]|replace:" ","%20"}}" target="_blank">
+									{{passage}}
+								</a></li>
+								{% endfor %}
+
+
+							{% else %}
+								{% for passage in page.bible_passages %}
+								<li><a href="http://www.biblegateway.com/passage/?search={{passage|replace:" ","%20"}}&amp;version=NIVUK" target="_blank">
+									{{passage}}
+								</a></li>
+								{% endfor %}
+							{% endif %}
 						</ul>
 					</div><br/>
 				</section>
