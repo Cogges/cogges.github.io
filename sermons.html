@@ -10,16 +10,16 @@ group: "grow"
     	{{ post.date | date_to_string }} -
     	{% if post.series and post.series != "" %}
       		<a href="{{ post.url }}" title="{{ post.series }} : {{ post.title }}">{{ post.series }} : {{ post.title }}</a>
-      	{% else %}
+      {% else %}
           {% if post.title != "" %}
       		  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
           {% else %}
             <a href="{{ post.url }}" title="Sermon">Sermon</a>
           {% endif %}
-      	{% endif %}
-      	({{post.speaker}})
+      {% endif %}
+    	{% if post.speaker and post.speaker != "" %}
+          ({{post.speaker}})
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
-
-
