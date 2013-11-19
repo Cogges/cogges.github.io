@@ -16,12 +16,12 @@ layout: default
 
 				{% if page.bible_passages and page.bible_passages|first != "" %}
 				<section>
-					<h3>Read</h3>
+					<h3>Scripture - read</h3>
 					<div class="passage">
 						<ul>
 							{% if page.bible_passages and page.bible_links %}
 								{% for passage in page.bible_passages %}
-								<li><a href="http://www.biblegateway.com/passage/?search={{page.bible_links[forloop.index0]|replace:" ","%20"}}" target="_blank">
+								<li><a href="http://www.biblegateway.com/passage/?search={{page.bible_links[forloop.index0]|replace:" ","%20"}}" title="Opens a new link to www.biblegateway.com for the Bible reading {{passage}}" target="_blank">
 									{{passage}}
 								</a></li>
 								{% endfor %}
@@ -29,11 +29,25 @@ layout: default
 
 							{% else %}
 								{% for passage in page.bible_passages %}
-								<li><a href="http://www.biblegateway.com/passage/?search={{passage|replace:" ","%20"}}&amp;version=NIVUK" target="_blank">
+								<li><a href="http://www.biblegateway.com/passage/?search={{passage|replace:" ","%20"}}&amp;version=NIVUK" title="Opens a new link to www.biblegateway.com for the Bible reading {{passage}}" target="_blank">
 									{{passage}}
 								</a></li>
 								{% endfor %}
 							{% endif %}
+						</ul>
+					</div><br/>
+				</section>
+				{% endif %}
+
+				{% if page.bible_videos and page.bible_videos|first != "" %}
+				<section>
+					<h3>Scripture - watch</h3>
+					<div class="passage">
+						<ul>
+							{% for passage in page.bible_videos %}
+							<li><a href="{{page.bible_videos_links[forloop.index0]|replace:" ","%20"}}" title="Bible reading video for {{page.title}}" target="_blank">
+								{{passage}}
+							</a></li>
 						</ul>
 					</div><br/>
 				</section>
