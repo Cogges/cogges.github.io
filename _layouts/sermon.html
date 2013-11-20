@@ -78,7 +78,9 @@ layout: default
 					<h3>Slides</h3>
 					<ul>
 					{% for f in page.slides %}
-					<li><a href="{{f|replace:" ","%20"}}" title="slides for {{page.title}}">{{f}}</a></li>
+						<li><a href="{{f|replace:" ","%20"}}" title="slides for {{page.title}}">
+						{{f|remove_first:'http://media.coggesparish.com/sermons/'}}
+						</a></li>
 					{% endfor %}
 					</ul>
 				</section>
