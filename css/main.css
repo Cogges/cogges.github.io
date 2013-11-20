@@ -720,5 +720,6 @@ span.event-where {
 .alert.alert-info {
   background-color: #A1B087;
   color: #19474E;
-  border-color: #19474E;
+  border-color: #A1B087;
+  text-shadow: none;
 }
