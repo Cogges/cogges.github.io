@@ -14,7 +14,7 @@ layout: default
 				Series: <span class="series">{{page.series}}</span><br/>
 				{% endif %}
 
-				{% if page.bible_passages and page.bible_passages | first != "" %}
+				{% if page.bible_passages and page.bible_passages[0] != "" %}
 				<section>
 					<h3>Scripture - read</h3>
 					<div class="passage">
@@ -25,8 +25,6 @@ layout: default
 									{{passage}}
 								</a></li>
 								{% endfor %}
-
-
 							{% else %}
 								{% for passage in page.bible_passages %}
 								<li><a href="http://www.biblegateway.com/passage/?search={{passage|replace:" ","%20"}}&amp;version=NIVUK" title="Opens a new link to www.biblegateway.com for the Bible reading {{passage}}" target="_blank">
@@ -63,7 +61,7 @@ layout: default
 				</section>
 				{% endif %}
 
-				{% if page.youtube_videos and page.youtube_videos|first != "" %}
+				{% if page.youtube_videos and page.youtube_videos[0] != "" %}
 				<section>
 					<h3>Watch</h3>
 					{% for video in page.youtube_videos %}
@@ -75,7 +73,7 @@ layout: default
 				</section>
 				{% endif %}
 
-				{% if page.slides and page.slides | first != null %}
+				{% if page.slides and page.slides[0] != "" %}
 				<section>
 					<h3>Slides</h3>
 					<ul>
@@ -89,7 +87,7 @@ layout: default
 				<section>
 					<h3>Download</h3>
 					<ul>
-					{% for f in page.files and page.files|first != ""%}
+					{% for f in page.files and page.files[0] != ""%}
 						{% if f != "" %}
 						<li>
 							<a href="{{f|replace:" ","%20"}}" title="download for {{page.title}}">
