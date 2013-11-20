@@ -12,7 +12,7 @@ contacts: ["Rich White"]
 
 Do these kinds of questions bug you? Then the Alpha course is just for you.
 
-## The Alpha course
+### The Alpha course
 
 The Alpha course is for those with questions about Christianity, the
 meaning of life and everything.  It starts with an introductory supper
