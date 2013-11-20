@@ -60,6 +60,7 @@ h2 {
   color: #A61D45;
   font-size: 25px;
   font-weight: 900;
+  margin-top: 58px;
 }
 
 .right_col .bio {
@@ -89,18 +90,19 @@ h3 {
 }
 
 .right_col h3 {
-	color: #A1B087;
-	font-size: 16px;
+  color: #A1B087;
+  font-size: 16px;
+  padding-top: 0px;
 }
 
 .right_col h4 {
   color: #A61D45;
-	font-size: 15px;
+  font-size: 15px;
 }
 
 p {
   margin: 0.1em 0;
-	margin-bottom: 1em;
+  margin-bottom: 1em;
   line-height: 1.5em;
 }
 
@@ -422,8 +424,8 @@ nav.main {
 	border-right: 6px solid #A1B087;
 	width: intrinsic;
 	padding: 5px;
-	margin-bottom: 40px;
-  	height:40px;
+	margin-bottom: 60px;
+  	height: 40px;
 }
 
 nav.main ul {
