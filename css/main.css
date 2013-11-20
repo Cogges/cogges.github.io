@@ -39,7 +39,7 @@ h1 {
 }
 
 /* home page large "hello" style */
-.home h1 {
+h1.hello {
   font-size: 4.55em;
   font-weight: 900;
   letter-spacing: 0;
