@@ -716,3 +716,9 @@ span.event-where {
   font-size: 25px;
   font-weight: 900;
 }
+
+.alert.alert-info {
+  background-color: #A1B087;
+  color: #19474E;
+  border-color: #19474E;
+}
