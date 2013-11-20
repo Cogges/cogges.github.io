@@ -35,20 +35,21 @@ h1 {
 /*   margin-bottom: 1em; */
   line-height: 1em;
   color: #A61D45;
+  font-size: 2em;
 }
 
 /* home page large "hello" style */
 .home h1 {
   font-size: 4.55em;
-	font-weight: 900;
-	letter-spacing: 0;
+  font-weight: 900;
+  letter-spacing: 0;
 }
 
 
 h2 {
-	font-size: 40px;
+  font-size: 40px;
   color: #13444B;
-	font-weight: 900;
+  font-weight: 900;
 }
 
 .right_col h2 {
@@ -56,13 +57,13 @@ h2 {
   letter-spacing: 3px;
   line-height: 1em;
   color: #A61D45;
-	font-size: 25px;
-	font-weight: 900;
+  font-size: 25px;
+  font-weight: 900;
 }
 
 .right_col .bio {
-	font-family: 'Bitter', serif;
-	margin: 20px 0;
+  font-family: 'Bitter', serif;
+  margin: 20px 0;
 }
 
 .right_col .bio p {
@@ -75,13 +76,14 @@ h2 {
 }
 
 h3 {
-  font-size: 1.5em;
+  font-size: 1.6em;
   letter-spacing: 3px;
-  line-height: 1em;
-  color: #A61D45;
-	font-size: 16px;
-	font-weight: 900;
+  color: #19474E;
+  font-size: 16px;
+  font-weight: 900;
   padding-top: 1em;
+  padding-bottom: 5px;
+  line-height: 1.5;
 }
 
 .right_col h3 {
