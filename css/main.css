@@ -68,8 +68,9 @@ h2 {
 }
 
 .right_col .bio p {
-	padding: 0px;
-	margin: 0;
+  padding: 0px;
+  margin: 0;
+  color: #19474E;
 }
 
 .right_col .bio img.end {
