@@ -14,7 +14,7 @@ layout: default
 				Series: <span class="series">{{page.series}}</span><br/>
 				{% endif %}
 
-				{% if page.bible_passages and page.bible_passages|first != "" %}
+				{% if page.bible_passages and page.bible_passages | first != "" %}
 				<section>
 					<h3>Scripture - read</h3>
 					<div class="passage">
@@ -39,7 +39,7 @@ layout: default
 				</section>
 				{% endif %}
 
-				{% if page.bible_videos and page.bible_videos|first != empty %}
+				{% if page.bible_videos and page.bible_videos | first != empty %}
 				<section>
 					<h3>Scripture - watch</h3>
 					<div class="passage">
@@ -75,7 +75,7 @@ layout: default
 				</section>
 				{% endif %}
 
-				{% if page.slides and page.slides|first != null %}
+				{% if page.slides and page.slides | first != null %}
 				<section>
 					<h3>Slides</h3>
 					<ul>
