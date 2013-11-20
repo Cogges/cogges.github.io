@@ -454,6 +454,12 @@ nav.main li a.four:hover { color: #a61d45; }
 
 
 /* Sub Navigation Modifications */
+.dropdown-menu {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
 .dropdown-menu > li {
   padding: 5px inherit !important;
   font-size: 15px;
