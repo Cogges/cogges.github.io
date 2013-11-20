@@ -5,16 +5,16 @@ group: "engage"
 contacts: ["Ugo Anagor",  "Mel Sayles"]
 ---
 
-## Home Groups
+### Home Groups
 
 * For young people in year 9: Ugo Anagor
 * For young people in year 11: Ugo Anagor
 * For young people aged 18+: Ali Laithwaite 01993 773615
 
-## CYFA
+### CYFA
 CYFA is for young people aged 14+ who meet on Sundays evenings for food and discussion, and monthly on Sunday afternoons for extra fun. Contact Anthony or Mel Sayles.
 
-## Sundays
+### Sundays
 |         |         |         |         |
 |---------|---------|---------|---------|
 | 11.30am | 12.30pm | Pathfinder Bible class  | every Sunday except Family Service (3rd Sunday) |
