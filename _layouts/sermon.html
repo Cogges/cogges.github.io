@@ -58,7 +58,6 @@ layout: default
 					<h3>Listen</h3>
 					<a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">
 						{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}
-						{{page.audio|remove_first:'.mp3'}}
 					</a>
 					{% if page.duration and page.duration !="" %}
 						{{page.duration}} minutes
