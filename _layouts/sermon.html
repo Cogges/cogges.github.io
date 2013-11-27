@@ -53,22 +53,6 @@ layout: default
 				{% endif %}
 
 				{% if page.audio and page.audio != "" %}
-<!--[if lte IE 8]>
-				<section>
-					<h3>Listen</h3>
-					<ul>
-					<li>
-					<a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">
-						{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}
-					</a>
-					{% if page.duration and page.duration !="" %}
-						({{page.duration}} minutes)
-					{% endif %}
-					</li>
-					</ul>
-				</section>
-<![endif]-->
-<!--[if gt IE 8]>
 				<section>
 					<h3>Listen</h3>
 					<audio controls>
@@ -78,18 +62,6 @@ layout: default
 						({{page.duration}} minutes)
 					{% endif %}
 				</section>
-<![endif]-->
-<!--[if !IE]> -->
-				<section>
-					<h3>Listen</h3>
-					<audio controls>
-					  	<source src="{{page.audio|replace:" ","%20"}}" type="audio/mpeg">
-					</audio>
-					{% if page.duration and page.duration !="" %}
-						({{page.duration}} minutes)
-					{% endif %}
-				</section>
-<!-- <![endif]-->
 				{% endif %}
 
 				{% if page.youtube_videos and page.youtube_videos[0] != "" %}
