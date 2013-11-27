@@ -53,12 +53,40 @@ layout: default
 				{% endif %}
 
 				{% if page.audio and page.audio != "" %}
+<!--[if lte IE 8]>
+				<section>
+					<h3>Listen</h3>
+					<a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">
+						{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}
+						{{page.audio|remove_first:'.mp3'}}
+					</a>
+					{% if page.duration and page.duration !="" %}
+						{{page.duration}} minutes
+					{% endif %}
+				</section>
+<![endif]-->
+<!--[if gt IE 8]>
 				<section>
 					<h3>Listen</h3>
 					<audio controls>
 					  	<source src="{{page.audio|replace:" ","%20"}}" type="audio/mpeg">
 					</audio>
+					{% if page.duration and page.duration !="" %}
+						{{page.duration}} minutes
+					{% endif %}
 				</section>
+<![endif]-->
+<!--[if !IE]> -->
+				<section>
+					<h3>Listen</h3>
+					<audio controls>
+					  	<source src="{{page.audio|replace:" ","%20"}}" type="audio/mpeg">
+					</audio>
+					{% if page.duration and page.duration !="" %}
+						{{page.duration}} minutes
+					{% endif %}
+				</section>
+<!-- <![endif]-->
 				{% endif %}
 
 				{% if page.youtube_videos and page.youtube_videos[0] != "" %}
@@ -140,7 +168,7 @@ layout: default
 		</div>
 
 
-		{% if page.speaker %}
+		{% if page.speaker % and page.speaker != ""}
 		<div class="span6 right_col" itemscope itemtype="http://schema.org/Person">
 			<h2>Speaker</h2>
             <h3><span itemprop="name">{{page.speaker}}</span></h3>
