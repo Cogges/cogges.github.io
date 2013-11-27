@@ -56,14 +56,14 @@ layout: default
 <!--[if lte IE 8]>
 				<section>
 					<h3>Listen</h3>
-					<audio preload="none" src="{{page.audio|replace:" ","%20"}}" type="audio/mpeg"></audio>
-					<br>
+					<li>
 					<a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">
 						{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}
 					</a>
 					{% if page.duration and page.duration !="" %}
 						({{page.duration}} minutes)
 					{% endif %}
+					</li>
 				</section>
 <![endif]-->
 <!--[if gt IE 8]>
