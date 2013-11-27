@@ -56,6 +56,8 @@ layout: default
 <!--[if lte IE 8]>
 				<section>
 					<h3>Listen</h3>
+					<audio id="talk-audio" preload="none" src="{{page.audio|replace:" ","%20"}}" type="audio/mpeg"></audio>
+					<br>
 					<a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">
 						{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}
 					</a>
