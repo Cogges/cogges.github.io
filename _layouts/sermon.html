@@ -55,8 +55,7 @@ layout: default
 				{% if page.audio and page.audio != "" %}
 				<section>
 					<h3>Listen</h3>
-					<audio controls>
-					  	<source src="{{page.audio|replace:" ","%20"}}" type="audio/mpeg">
+					<audio src="{{page.audio|replace:" ","%20"}}" type="audio/mpeg">
 					</audio>
 					{% if page.duration and page.duration !="" %}
 						({{page.duration}} minutes)
