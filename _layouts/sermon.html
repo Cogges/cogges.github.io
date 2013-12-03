@@ -43,7 +43,7 @@ layout: default
 					<div class="passage">
 						<ul>
 							{% for passage in page.bible_videos %}
-							<li><a href="{{page.bible_videos_links[forloop.index0]|replace:" ","%20"}}" title="Bible reading video for {{page.title}}" target="_blank">
+							<li><a href="{{page.bible_videos_links[forloop.index0]|replace:" ","%20"}}" title="Bible reading video for '{{page.title}}'" target="_blank">
 								{{passage}}
 							</a></li>
 							{% endfor %}
@@ -57,7 +57,7 @@ layout: default
 					<h3>Listen</h3>
 					<audio src="{{page.audio|replace:" ","%20"}}" type="audio/mpeg">
 					</audio>
-					{% if page.duration and page.duration !="" %}
+					{% if page.duration and page.duration != "" %}
 						({{page.duration}} minutes)
 					{% endif %}
 				</section>
@@ -80,7 +80,7 @@ layout: default
 					<h3>Slides</h3>
 					<ul>
 					{% for f in page.slides %}
-						<li><a href="{{f|replace:" ","%20"}}" title="slides for {{page.title}}" target="_blank">
+						<li><a href="{{f|replace:" ","%20"}}" title="slides for '{{page.title}}'" target="_blank">
 						{{f|remove_first:'http://media.coggesparish.com/sermons/'}}
 						</a></li>
 					{% endfor %}
@@ -94,7 +94,7 @@ layout: default
 					{% for f in page.files and page.files[0] != ""%}
 						{% if f != "" %}
 						<li>
-							<a href="{{f|replace:" ","%20"}}" title="download for {{page.title}}">
+							<a href="{{f|replace:" ","%20"}}" title="download for '{{page.title}}'">
 							{{f|remove_first:'http://media.coggesparish.com/sermons/'}}
 							</a>
 						</li>
@@ -103,10 +103,10 @@ layout: default
 
 					{% if page.audio and page.audio != "" %}
 					<li>
-						<a href="{{page.audio|replace:" ","%20"}}" title="audio for {{page.title}}">
+						<a href="{{page.audio|replace:" ","%20"}}" title="audio for '{{page.title}}'">
 							{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}
 						</a>
-						{% if page.duration and page.duration !="" %}
+						{% if page.duration and page.duration != "" %}
 							{{page.duration}} minutes
 						{% endif %}
 					</li>
@@ -147,6 +147,9 @@ layout: default
 			<h2>Speaker</h2>
             <h3><span itemprop="name">{{page.speaker}}</span></h3>
 
+		{% if page.speaker_info and page.speaker_info != "" %}
+			{{page.speaker_info}}
+		{% endif %}
 
 	        {% assign speaker = false %}
 		    {% for person in site.pages%}
