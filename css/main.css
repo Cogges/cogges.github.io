@@ -464,7 +464,7 @@ nav.main li a.four:hover { color: #a61d45; }
   padding: 5px inherit !important;
   font-size: 15px;
 }
-    	
+
 .dropdown-menu > li > a:hover {
   background: none;
   color: #A61D45;
@@ -732,3 +732,17 @@ span.event-where {
   border-color: #A1B087;
   text-shadow: none;
 }
+
+.slot {
+  background-color: #A61D45;
+  color: rgb(235,235,336);
+  padding: 2em;
+  margin-top: 20px;
+  line-height: 1em;
+  height: 16em;
+}
+
+.slot h2 {
+  color: rgb(235,235,336);
+}
+
