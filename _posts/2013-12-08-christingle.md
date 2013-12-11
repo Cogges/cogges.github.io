@@ -11,7 +11,7 @@ youtube_videos: [""]
 slides: ["http://media.coggesparish.com/sermons/2013-12-08 Simon Kirby.pdf"]
 files: [""]
 bible_passages: ["Isaiah 9:2 and 6"]
-bible_links: ["Isaiah 9:2,6&amp;version=NIVUK"]
+bible_links: ["Isaiah 9:2;6&amp;version=NIVUK"]
 bible_videos: [""]
 bible_videos_links: [""]
 ---
