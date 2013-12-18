@@ -1,6 +1,6 @@
 ---
 layout: sermon
-series: "Celebration"
+series: "Celebration Services"
 title: "Speaking about his trip to Bethel Church in America."
 date: "2013-09-22 19:00:00"
 audio: "http://media.coggesparish.com/sermons/2013-09-22 John Valentine.mp3"
