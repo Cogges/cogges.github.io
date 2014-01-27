@@ -1,13 +1,17 @@
 ---
 layout: page
-title:  "Men's Activities"
-group: "connect"
-contacts: ["James Webster", "Pete Moore", "Paul Ledden"]
+title: "Men's Activities"
+group: connect
+contacts: 
+  - James Webster
+  - Pete Moore
+  - Paul Ledden
+published: true
 ---
 
-
-### Walking Weekend, May
+### Walking Weekend, May 9th 2014
 ![Walking in the Black Mountains 2013](/images/black_mountains.jpg) A walking and camping weekend, often in the Brecon Beacons. The format is usually a curry on the Friday night, a big walk on the Saturday and a shorter walk on the Sunday interspersed with beer and food from the pub. Walks are typically 7, 11 or 15 miles with ascent and pace for different abilities.
+Booking open [Booking for 2014 open](http://bit.ly/cogges-men-walking "Booking")
 
 
 
@@ -31,5 +35,3 @@ We walk along the river path (and back) for about 2 miles at night. You'll need 
 ### Monday Beer, 9pm
 
 We meet socially every other Monday for a beer at some of the lovely pubs in and around Witney. If you want to get notified about future trips please join our google [group mailing list](https://groups.google.com/forum/?hl=en#!forum/monday-beer).
-
-
