@@ -75,6 +75,17 @@ layout: default
 				</section>
 				{% endif %}
 
+				{% if page.vimeo_videos and page.vimeo_videos[0] != "" %}
+				<section>
+					<h3>Watch</h3>
+					{% for video in page.vimeo_videos %}
+						{% if video != "" %}
+						<iframe src="//player.vimeo.com/video/{{video}}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+						{% endif %}
+					{% endfor %}
+				</section>
+				{% endif %}
+
 				{% if page.slides and page.slides[0] != "" %}
 				<section>
 					<h3>Slides</h3>
