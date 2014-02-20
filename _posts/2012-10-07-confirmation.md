@@ -1,6 +1,6 @@
 ---
 layout: sermon
-series: "Confirmation Service"
+series: "Confirmation Services"
 title: "Children."
 date: "2012-10-07 19:00:00"
 audio: "http://media.coggesparish.com/sermons/2012-10-07 Bishop Colin Fletcher.mp3"
