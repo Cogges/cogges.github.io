@@ -10,7 +10,7 @@ duration: "8"
 youtube_videos: [""]
 slides: [""]
 files: [""]
-bible_passages: ["Malachi 3:6-18 (related to Keith's talk)]
+bible_passages: ["Malachi 3:6-18 (related to Keith's talk)"]
 bible_links: ["Malachi 3:6-18&amp;version=NIVUK"]
 bible_videos: [""]
 bible_videos_links: [""]
