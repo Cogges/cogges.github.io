@@ -1,6 +1,6 @@
 ---
 layout: sermon
-series: "Celebration"
+series: "Celebration Services"
 title: "The Persecuted Church."
 date: "2011-11-13 20:00:00"
 audio: "http://media.coggesparish.com/sermons/2011-11-13 Baroness Cox.mp3"
