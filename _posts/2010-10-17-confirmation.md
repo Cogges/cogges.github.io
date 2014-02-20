@@ -1,6 +1,6 @@
 ---
 layout: sermon
-series: "Confirmation Service"
+series: "Confirmation Services"
 title: "Sermon."
 date: "2010-10-17 19:00:00"
 audio: "http://media.coggesparish.com/sermons/2010-10-17 Bishop Colin Fletcher.mp3"
