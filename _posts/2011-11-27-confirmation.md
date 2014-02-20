@@ -1,6 +1,6 @@
 ---
 layout: sermon
-series: "Confirmation Service"
+series: "Confirmation Services"
 title: "Watch and Wait."
 date: "2011-11-27 19:00:00"
 audio: "http://media.coggesparish.com/sermons/2011-11-27 Bishop Colin Fletcher.mp3"
