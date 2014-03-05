@@ -36,14 +36,15 @@ in St Mary's Church, Cogges.
 
 ###Worship, followed by presentations and discussion: 
 1. Ministry Hubs:<br>
- 1. Children's Hub<br>
- 2. Social Activities & Special Events Hub<br>
- 3. Outreach & Evangelism Hub
+ a. Children's Hub<br>
+ b. Social Activities & Special Events Hub<br>
+ c. Outreach & Evangelism Hub
 
 2. The Vicar, Rev Simon Kirby
 Simon will be reminding us of some of the exciting developments in the life of Cogges in the last year.<br>
 He will also unveil the plans for the extension of the Church Centre and speak about how we hope to extend our ministry into the wider community. 
 
 ###The meeting will be followed by an opportunity to chat informally over drinks and nibbles. 
-Additional reports, for information
+Additional reports, for information<br>
+ - none
 
