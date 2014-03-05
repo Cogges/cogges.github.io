@@ -35,10 +35,10 @@ in St Mary's Church, Cogges.
 11. Commissioning of the new PCC 
 
 ###Worship, followed by presentations and discussion: 
-1. Ministry Hubs:
- 1.1. Children's Hub
- 1.2. Social Activities & Special Events Hub
- 1.3. Outreach & Evangelism Hub
+1. Ministry Hubs:<br>
+ 1. Children's Hub<br>
+ 2. Social Activities & Special Events Hub<br>
+ 3. Outreach & Evangelism Hub
 
 2. The Vicar, Rev Simon Kirby
 Simon will be reminding us of some of the exciting developments in the life of Cogges in the last year.<br>
