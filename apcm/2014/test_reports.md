@@ -33,7 +33,7 @@ The above includes:<br>
 
 ###Presentations:
 1. Ministry Hubs:<br>
-&nbsp;a. Children's Hub by Mel Sayles (8 minutes):
+a. Children's Hub by Mel Sayles (8 minutes):
 - listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Children'sHub.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
 - [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Children'sHub.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Children'sHub.mp3' audio file.")
 - [Presentation Slides]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Children'sHub.pdf"|replace:" ","%20"}} "Opens link to the '2014-02-27 APCM - Children's Hub' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">
@@ -47,8 +47,9 @@ The above includes:<br>
 - listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Outreach_and_EvangelismHub.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
 - [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Outreach_and_EvangelismHub.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Outreach_and_EvangelismHub.mp3' audio file.")
 - [Presentation Slides]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Outreach_and_Evangelism.pdf"|replace:" ","%20"}} "Opens link to the '2014-02-27 APCM - Outreach_and_Evangelism' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">
- 
-2. The Vicar's Report by Rev Simon Kirby (36 minutes):
+
+
+2 - The Vicar's Report by Rev Simon Kirby (36 minutes):
 - listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Vicar'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
 - [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Vicar'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Vicar'sReport.mp3' audio file.")
 - [Presentation Slides]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Simon'sPresentation.pdf"|replace:" ","%20"}} "Opens link to the '2014-02-27 APCM - Simon'sPresentation' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">
