@@ -33,7 +33,7 @@ The above includes:<br>
 
 ###Presentations:
 1 - Ministry Hubs:<br>
- a. Children's Hub by Mel Sayles (8 minutes):
+&nbsp;&nbsp;a. Children's Hub by Mel Sayles (8 minutes):
 - listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Children'sHub.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
 - [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Children'sHub.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Children'sHub.mp3' audio file.")
 - [Presentation Slides]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Children'sHub.pdf"|replace:" ","%20"}} "Opens link to the '2014-02-27 APCM - Children's Hub' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">
@@ -53,4 +53,4 @@ The above includes:<br>
 - [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Vicar'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Vicar'sReport.mp3' audio file.")
 - [Presentation Slides]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Simon'sPresentation.pdf"|replace:" ","%20"}} "Opens link to the '2014-02-27 APCM - Simon'sPresentation' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">
 
-Updated 6th March 2014.
+<br>Updated 6th March 2014.
