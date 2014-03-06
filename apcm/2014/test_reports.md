@@ -22,18 +22,18 @@ Full recording of the meeting (23 minutes):
 - [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Meeting.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Meeting.mp3' audio file.")
 
 The above includes:<br>
-&nbsp;a. Annual Report and Financial Statements by Keith Harwood (6 minutes):
+&nbsp;&nbsp;a. Annual Report and Financial Statements by Keith Harwood (6 minutes):
 - listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Treasurer'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
 - [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Treasurer'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Treasurer'sReport.mp3' audio file.")
 - [Presentation Slides]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - FinancialStatements.pdf"|replace:" ","%20"}} "Opens link to the '2014-02-27 APCM - FinancialStatements' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">
 
-&nbsp;b. Churchwardens’ Report on fabric etc. by Heather McCulloch and Richard Osman (4 minutes):
+&nbsp;&nbsp;b. Churchwardens’ Report on fabric etc. by Heather McCulloch and Richard Osman (4 minutes):
 - listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - ChurchWarden'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
 - [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - ChurchWarden'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - ChurchWarden'sReport.mp3' audio file.")
 
 ###Presentations:
 1 - Ministry Hubs:<br>
-a. Children's Hub by Mel Sayles (8 minutes):
+ a. Children's Hub by Mel Sayles (8 minutes):
 - listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Children'sHub.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
 - [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Children'sHub.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Children'sHub.mp3' audio file.")
 - [Presentation Slides]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Children'sHub.pdf"|replace:" ","%20"}} "Opens link to the '2014-02-27 APCM - Children's Hub' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">
