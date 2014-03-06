@@ -17,18 +17,19 @@ from the original [Agenda and papers for APCM 2014]("test_agenda.html" "Opens li
 Agenda ([enclosed]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Agenda.pdf"|replace:" ","%20"}} "Opens link to the 'APCM - Agenda' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">)
 
 The meeting was recorded and the following audio clips and presentation slides are available:<br>
-- Full recording of the meeting (23 minutes):<br>
--- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Meeting.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
--- [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Meeting.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Meeting.mp3' audio file.")
+Full recording of the meeting (23 minutes):<br>
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Meeting.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Meeting.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Meeting.mp3' audio file.")
 
 The above includes:<br>
-- Annual Report and Financial Statements (6 minutes)
--- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Treasurer'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
--- [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Treasurer'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Treasurer'sReport.mp3' audio file.")
+Annual Report and Financial Statements (6 minutes)
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Treasurer'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Treasurer'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Treasurer'sReport.mp3' audio file.")
+- [Presentation Slides]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Agenda.pdf"|replace:" ","%20"}} "Opens link to the 'APCM - Agenda' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">
 
-- Churchwardens’ report on fabric etc (4 minutes)
--- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - ChurchWarden'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
--- [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - ChurchWarden'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - ChurchWarden'sReport.mp3' audio file.")
+Churchwardens’ report on fabric etc (4 minutes)
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - ChurchWarden'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - ChurchWarden'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - ChurchWarden'sReport.mp3' audio file.")
 
 
 ###Presentations:
