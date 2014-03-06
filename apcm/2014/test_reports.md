@@ -17,10 +17,16 @@ from the original ['Agenda and papers for APCM 2014'](test_agenda.html) for the 
 Agenda<br>
 ([enclosed]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Agenda.pdf"|replace:" ","%20"}} "Opens link to the 'APCM - Agenda' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">)
 
-The meeting was recorded and the following audio clips and presentation slides are available:
-* Full recording of the meeting.
+The meeting was recorded and the following audio clips and presentation slides are available:<br>
+- Full recording of the meeting:<br>
+ - listen: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Meeting.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+ - [download: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Meeting.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Meeting.mp3' audio file.")
+
+
+
 The above includes:
 - Annual Report and Financial Statements
+
 - Churchwardens’ report on fabric etc
 
 ###Presentations:
@@ -30,3 +36,4 @@ The above includes:
  c. Outreach & Evangelism Hub
 
 2. The Vicar, Rev Simon Kirby
+
