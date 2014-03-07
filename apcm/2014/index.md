@@ -10,7 +10,7 @@ in St Mary's Church, Cogges.
 
 ###Agenda and papers for APCM 2014 
 Full details of the meeting of parishioners and the Annual Parochial Church Meeting, together with various written reports, can be found
-from the original [Agenda and papers for APCM 2014](test_agenda.html "Opens link to the 'Agenda and papers for APCM 2014' page") for the meeting.
+from the original [Agenda and papers for APCM 2014](agenda.html "Opens link to the 'Agenda and papers for APCM 2014' page") for the meeting.
 
 ##Meeting Report
 ###The formal meeting:
