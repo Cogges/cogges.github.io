@@ -60,4 +60,5 @@ The above includes:<br>
 - [download audio file ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Vicar'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Vicar'sReport.mp3' audio file.")
 - [Presentation Slides]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Simon'sPresentation.pdf"|replace:" ","%20"}} "Opens link to the '2014-02-27 APCM - Simon'sPresentation' pdf document." target="_blank") ![PDF](/images/pdficon_large.png)
 
-<br>Updated 7th March 2014.
+<br>
+<span>Updated 7th March 2014.</span>

@@ -8,7 +8,7 @@ The Annual Parochial Church Meeting was held<br>
 on Thursday, 27th February 2014<br>
 in St Mary's Church, Cogges.
 
-###Agenda and papers for APCM 2014 
+###Agenda and papers for APCM 2014
 Full details of the meeting of parishioners and the Annual Parochial Church Meeting, together with various written reports, can be found
 from the original [Agenda](test_agenda.html "Opens link to the 'Agenda and papers for APCM 2014' page") for the meeting.
 
@@ -59,4 +59,4 @@ The above includes:<br>
 - [download audio file: ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Vicar'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - Vicar'sReport.mp3' audio file.")
 - [Presentation Slides]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Simon'sPresentation.pdf"|replace:" ","%20"}} "Opens link to the '2014-02-27 APCM - Simon'sPresentation' pdf document." target="_blank") <img src="http://media.coggesparish.com/img/pdf.gif" alt="pdf document">
 
-<br>Updated 7th March 2014.
+<span>Updated 7th March 2014.</span>
