@@ -750,3 +750,6 @@ span.event-where {
   color: rgb(235,235,336);
 }
 
+h2.events {
+  margin-top: 0;
+}
