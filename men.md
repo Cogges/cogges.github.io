@@ -2,7 +2,7 @@
 layout: page
 title: "Men's Activities"
 group: connect
-contacts: 
+contacts:
   - James Webster
   - Pete Moore
   - Paul Ledden
@@ -15,7 +15,7 @@ Booking open [Booking for 2014 open](http://bit.ly/cogges-men-walking "Booking")
 
 
 
-### Wild Camping for Kids, June
+### Wild Camping for Kids, 13th June 2014
 Wild Camping has been running for four years and is usually on a weekend near Father's Day. We trek down to the beautiful [Abbey Home Farm](http://www.theorganicfarmshop.co.uk/), 2 miles from Cirencester. Dads - bring your primary school aged children for a night in the wild.
 
 *we're aiming for primary school aged children but slightly older or younger are welcome.*
@@ -34,4 +34,4 @@ We walk along the river path (and back) for about 2 miles at night. You'll need 
 
 ### Monday Beer, 9pm
 
-We meet socially every other Monday for a beer at some of the lovely pubs in and around Witney. If you want to get notified about future trips please join our google [group mailing list](https://groups.google.com/forum/?hl=en#!forum/monday-beer).
+We meet socially on occasional Mondays for a beer at some of the lovely pubs in and around Witney. If you want to get notified about future trips please join our google [group mailing list](https://groups.google.com/forum/?hl=en#!forum/monday-beer).
