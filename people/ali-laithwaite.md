@@ -1,4 +1,4 @@
 ---
 contact: "Ali Laithwaite"
-contact_email: "laithwaites@witney46.freeserve.co.uk"
+contact_email: "ali.laithwaites@coggesparish.com"
 ---
