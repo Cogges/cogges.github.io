@@ -46,7 +46,7 @@ Friday mornings, 9.15am - 11am (generally) in term time.
 
 The time is spent in sharing what God has done, planning Besom events and activities and in prayer.  Everyone is welcome.
 
-*Contact:* contact@witneybesom.org or Judith Ledden
+*Contact:* contact@witneybesom.org or 07549 842789
 
 ### The Gathering
 The first Wed evening of the month at 8pm
