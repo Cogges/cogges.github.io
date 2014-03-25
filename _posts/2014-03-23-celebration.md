@@ -5,7 +5,7 @@ title: "God has a Good and Perfect Plan for your Life - Hope and a Future."
 date: "2014-03-23 19:00:00"
 audio: "http://media.coggesparish.com/sermons/2014-03-23 Paul Cowley.mp3"
 speaker: "Paul Cowley"
-speaker_info: "Member of the Clergy at Holy Trinity Brompton. Paul is founder of 'Caring For Ex-offenders', the Director of the 'William Wilberforce Trust' and was recently awarded a lifetime achievement award by the 'Longford Trust' for his work transforming the lives of those in prison."
+speaker_info: "Member of the Clergy at Holy Trinity Brompton."
 duration: "52"
 youtube_videos: [""]
 vimeo_videos: [""]
@@ -16,6 +16,8 @@ bible_links: ["Jeremiah 29:11-14&amp;version=NIVUK","Romans 5:1-5&amp;version=NI
 bible_videos: [""]
 bible_videos_links: [""]
 ---
+
+Paul is the founder of 'Caring For Ex-offenders', the Director of the 'William Wilberforce Trust' and was recently awarded a lifetime achievement award by the 'Longford Trust' for his work transforming the lives of those in prison.
 
 Link to the ['Holy Trinity Brompton'](http://www.htb.org.uk/ "Opens a link to the 'Holy Trinity Brompton' website.") website.<br>
 Link to the ['Caring for Ex-offenders'](http://www.caringforexoffenders.org/ "Opens a link to the 'Caring for Ex-offenders' website.") website.<br>
