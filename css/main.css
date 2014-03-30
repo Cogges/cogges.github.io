@@ -751,6 +751,7 @@ span.event-where {
 
 .slot a {
   color: rgb(235,235,336);
+  border-bottom: 1px dotted rgb(235,235,336);
 }
 
 h2.events {
