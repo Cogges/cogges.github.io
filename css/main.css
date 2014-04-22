@@ -757,3 +757,8 @@ span.event-where {
 h2.events {
   margin-top: 0;
 }
+
+p.welcome {
+  width:460px;
+  text-align: justify;
+}
