@@ -759,6 +759,6 @@ h2.events {
 }
 
 p.welcome {
-  width:460px;
+  max-width:460px;
   text-align: justify;
 }
