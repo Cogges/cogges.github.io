@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<div class="page {{ page.title | replace:' ','_' | downcase }}">
+
+	<div class="row-fluid content">
+        <div class="span8 left_col">
+        	<h1>{{ page.title }}</h1>
+        	<p class="meta">{{ page.date | date_to_string }}</p>
+			{{ content }}
+
+
+			{% for photo in page.photos %}
+				<a href="/images/news/{{photo}}">
+					<img class="news-photo" src="/images/news/{{photo}}" >
+				</a>
+			{% endfor %}
+		</div>
+
+		<div class="span4 right_col">
+			<h2>Cogges People</h2>
+
+			{% for contact in page.contacts %}
+				{% assign speaker = false %}
+
+			    {% for person in site.pages %}
+				  	{% if person.contact == contact %}
+				  		{% assign speaker = person %}
+					{% endif %}
+			    {% endfor %}
+
+			   	{% if speaker != false %}
+				   	<div class="contact" itemscope itemtype="http://schema.org/Person">
+			            <h3><span itemprop="name">{{speaker.contact}}</span></h3>
+
+						{% if speaker.contact_bio %}
+			            <div class="bio">
+				            <img src="/images/quote-begin.png" alt="quote-begin" width="23" height="13">
+				            <p>{{speaker.contact_bio}}</p>
+				            <img src="/images/quote-end.png" alt="quote-end" class="end" width="22" height="13">
+			            </div>
+						{% endif %}
+
+						{% if speaker.contact_involved_with %}
+			            <h4>{{speaker.contact|split:" "|first}} is involved with...</h4>
+			            <ul class="involved_list">
+			            	{% for r in speaker.contact_involved_with %}
+				            	<li>{{r}}</li>
+				            {% endfor %}
+			            </ul>
+			            {% endif %}
+
+						{% if speaker.contact_photo %}
+							<img class="profile" itemprop="photo" src="{{speaker.contact_photo}}" alt="{{speaker.contact}}" width="101" height="100">
+						{% else %}
+							<img class="profile" itemprop="photo" src="/images/logo.jpg" alt="{{page.contact}}" width="101" height="100">
+						{% endif %}
+
+						{% if speaker.contact_email %}
+						    <span class="contact" itemprop="email">
+						    	<a href="mailto:{{speaker.contact_email}}" title="{{speaker.contact_email}}">{{speaker.contact_email}}</a>
+						    </span>
+						{% endif %}
+
+						{% if speaker.contact_phone %}
+						    <span class="contact" itemprop="telephone">
+						    	<a href="tel:{{speaker.contact_phone|remove:" "}}" title="{{speaker.contact_phone}}">{{speaker.contact_phone}}</a>
+						    </span>
+					    {% endif %}
+
+						{% if speaker.contact_twitter %}
+					    <span itemprop="twitter">
+					    	<a href="http://twitter.com/{{speaker.contact_twitter}}" title="@{{speaker.contact_twitter}}">@{{speaker.contact_twitter}}</a>
+					    </span><br/>
+				        {% endif %}
+
+			     	</div>
+				{% endif %}
+			{% endfor %}
+
+		</div>
+
+	</div>
+</div>

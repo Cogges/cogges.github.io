@@ -6,20 +6,22 @@ group: "grow"
 
 <ul class="sermon-list">
   {% for post in site.posts limit:500 %}
-    <li class="sermon">
-    	{{ post.date | date_to_string }} -
-    	{% if post.series and post.series != "" %}
-      		<a href="{{ post.url }}" title="{{ post.series }} : {{ post.title }}">{{ post.series }} : {{ post.title }}</a>
-      {% else %}
-          {% if post.title != "" %}
-      		  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-          {% else %}
-            <a href="{{ post.url }}" title="Sermon">Sermon</a>
-          {% endif %}
-      {% endif %}
-    	{% if post.speaker and post.speaker != "" %}
-          ({{post.speaker}})
-      {% endif %}
-    </li>
+    {% if post.type != "news" %}
+      <li class="sermon">
+      	{{ post.date | date_to_string }} -
+      	{% if post.series and post.series != "" %}
+        		<a href="{{ post.url }}" title="{{ post.series }} : {{ post.title }}">{{ post.series }} : {{ post.title }}</a>
+        {% else %}
+            {% if post.title != "" %}
+        		  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            {% else %}
+              <a href="{{ post.url }}" title="Sermon">Sermon</a>
+            {% endif %}
+        {% endif %}
+      	{% if post.speaker and post.speaker != "" %}
+            ({{post.speaker}})
+        {% endif %}
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>

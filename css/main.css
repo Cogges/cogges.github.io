@@ -762,3 +762,24 @@ p.welcome {
   max-width:460px;
   text-align: justify;
 }
+
+.news-photo {
+  max-width: 200px;
+  max-height: 300px;
+}
+
+ul.news-list {
+  margin-left: 0;
+  padding-top: 1em;
+}
+
+li.news {
+  border-bottom: 1px solid #eee;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  list-style: none;
+}
+
+li.news:last-child {
+  border-bottom: none;
+}
