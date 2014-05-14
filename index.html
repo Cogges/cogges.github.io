@@ -4,17 +4,20 @@ title: "St Mary's Cogges"
 photo_credit: "Tim Partridge"
 
 
-slot1_line1: "Celebration on Sunday night"
-slot1_line2: "Sunday 18th, 7pm"
-slot1_line3: '<a href="https://twitter.com/revgareth">Gareth Dickinson</a> from <a href="http://trinitycheltenham.com">Trinity Cheltenham</a>'
+slot1_headline: "Celebration"
+slot1_when: "Sunday 18th, 7.00pm"
+slot1_where: "Cogges Church"
+slot1_description: '<a href="https://twitter.com/revgareth">Gareth Dickinson</a> from <a href="http://trinitycheltenham.com">Trinity Cheltenham</a>'
 
-slot2_line1: "Men's inter Church Aunt Sally Competition"
-slot2_line2: "The Griffen, Monday 19th, 7.30pm"
-slot2_line3: 'Join us for an evening playing <a href="http://en.wikipedia.org/wiki/Aunt_Sally">Aunt Sally</a>. (contact Ian Smith)'
+slot2_headline: "Men's Aunt Sally Competition"
+slot2_when: "Monday 19th, 7.30pm"
+slot2_where: "The Griffen, Oxford Hill, Witney"
+slot2_description: 'Contact Ian Smith to join the team for an inter-church competition.'
 
-slot3_line1: "Welcome Supper"
-slot3_line2: "Priory on Wednesday 21st May at 7.30pm"
-slot3_line3: 'If you are new to Cogges please contact the <a href="/contact.html">Office</a> for more details'
+slot3_headline: "Welcome Supper"
+slot3_when: "Wednesday 21st May at 7.30pm"
+slot3_where: "Cogges Priory"
+slot3_description: 'If you are new to Cogges please contact the <a href="/contact.html">Office</a> for more details'
 
 ---
 <div id="homepage">
@@ -30,29 +33,45 @@ slot3_line3: 'If you are new to Cogges please contact the <a href="/contact.html
     <img src="images/simon.png" alt="simon" width="194" height="93">
     <p class="indent">Rev Simon Kirby<br/><em>Vicar of Cogges, North and South Leigh</em></p>
 
-    <div class="row-fluid">
-      <div class="slot span12">
-        <h2>{{page.slot1_line1}}</h2>
-        <p>{{page.slot1_line2}}<br/>
-           {{page.slot1_line3}}<br/>
-           {{page.slot1_line4}}</p>
+    <div class="indent">
+      <h2 class="homepage">Upcoming Events:</h2>
+      <div class="slot">
+        <h2>{{page.slot1_headline}}</h2>
+        <p>{{page.slot1_when}}<br/>
+           {{page.slot1_where}}<br/>
+           {{page.slot1_description}}<br/>
+         </p>
+
       </div>
+      <div class="slot">
+        <h2>{{page.slot2_headline}}</h2>
+        <p>{{page.slot2_when}}<br/>
+           {{page.slot2_where}}<br/>
+           {{page.slot2_description}}<br/>
+         </p>
+
+      </div>
+      <div class="slot">
+        <h2>{{page.slot3_headline}}</h2>
+        <p>{{page.slot3_when}}<br/>
+           {{page.slot3_where}}<br/>
+           {{page.slot3_description}}<br/>
+         </p>
+      </div>
+
+      <h2 class="sermon-colour">Latest Sermons:</h2>
+      {% for post in site.categories.sermon limit:2 %}
+      <div class="slot sermon-slot">
+        <h2><a class="sermon-colour" href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>
+            {{ post.speaker }}</br>
+            {{ post.date | date_to_string }}<br/>
+        </p>
+      </div>
+      {% endfor %}
+
     </div>
 
-    <div class="row-fluid">
-      <div class="slot span6">
-        <h2>{{page.slot2_line1}}</h2>
-        <p>{{page.slot2_line2}}<br/>
-           {{page.slot2_line3}}<br/>
-           {{page.slot2_line4}}</p>
-      </div>
-      <div class="slot span6">
-        <h2>{{page.slot3_line1}}</h2>
-        <p>{{page.slot3_line2}}<br/>
-           {{page.slot3_line3}}<br/>
-           {{page.slot3_line4}}</p>
-      </div>
-    </div>
 
   </div>
 </div>

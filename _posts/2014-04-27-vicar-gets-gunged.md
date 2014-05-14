@@ -2,7 +2,7 @@
 layout: news
 title: "Vicar Gets Gunged for a Good Cause"
 date: "2014-04-27 13:00:00"
-type: "news"
+category: "news"
 contacts: ["Simon Kirby"]
 photos: ["simon-gunge-1.jpg", "simon-gunge-2.jpg"]
 ---

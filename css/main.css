@@ -737,21 +737,44 @@ span.event-where {
 }
 
 .slot {
-  background-color: #A61D45;
-  color: rgb(235,235,336);
-  padding: 1em;
+  border-left: 5px solid #A61D45;
+  border-left-width: 5px;
+  border-left-style: solid;
+  padding-left: 1em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
   margin-top: 20px;
   line-height: 1em;
-  height: 16em;
+}
+
+.sermon-colour {
+  color: #A1B087;
+}
+
+a.sermon-colour {
+  border-bottom: 1px dotted #A1B087;
+}
+
+a.sermon-colour:hover, a.sermon-colour:focus {
+  color: #A1B087;
+}
+
+.sermon-slot {
+  border-left: 5px solid #A1B087;
 }
 
 .slot h2 {
-  color: rgb(235,235,336);
+  font-size: 2em;
 }
 
-.slot a {
-  color: rgb(235,235,336);
-  border-bottom: 1px dotted rgb(235,235,336);
+h2.homepage {
+  color: #A61D45;
+}
+
+.homepage a {
+  color: #d33637;
+  border-bottom: 1px dotted #d33637;
+  -webkit-transition: color .2s ease-in-out;
 }
 
 h2.events {

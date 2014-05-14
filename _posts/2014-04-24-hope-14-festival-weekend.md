@@ -2,7 +2,7 @@
 layout: news
 title: "HOPE 14 weekend festival"
 date: "2014-04-24"
-type: "news"
+category: "news"
 contacts: ["Allen Moxham"]
 ---
 
