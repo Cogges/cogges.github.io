@@ -763,11 +763,15 @@ a.sermon-colour:hover, a.sermon-colour:focus {
   border-left: 5px solid #A1B087;
 }
 
-.slot h2 {
-  font-size: 2em;
+.slot h3 {
+  padding: 0;
 }
 
-h2.homepage {
+#homepage h2 {
+  margin-top: 1em;
+}
+
+h3.homepage {
   color: #A61D45;
 }
 

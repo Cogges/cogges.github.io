@@ -36,7 +36,7 @@ slot3_description: 'If you are new to Cogges please contact the <a href="/contac
     <div class="indent">
       <h2 class="homepage">Upcoming Events:</h2>
       <div class="slot">
-        <h2>{{page.slot1_headline}}</h2>
+        <h3>{{page.slot1_headline}}</h3>
         <p>{{page.slot1_when}}<br/>
            {{page.slot1_where}}<br/>
            {{page.slot1_description}}<br/>
@@ -44,7 +44,7 @@ slot3_description: 'If you are new to Cogges please contact the <a href="/contac
 
       </div>
       <div class="slot">
-        <h2>{{page.slot2_headline}}</h2>
+        <h3>{{page.slot2_headline}}</h3>
         <p>{{page.slot2_when}}<br/>
            {{page.slot2_where}}<br/>
            {{page.slot2_description}}<br/>
@@ -52,7 +52,7 @@ slot3_description: 'If you are new to Cogges please contact the <a href="/contac
 
       </div>
       <div class="slot">
-        <h2>{{page.slot3_headline}}</h2>
+        <h3>{{page.slot3_headline}}</h3>
         <p>{{page.slot3_when}}<br/>
            {{page.slot3_where}}<br/>
            {{page.slot3_description}}<br/>
@@ -62,10 +62,9 @@ slot3_description: 'If you are new to Cogges please contact the <a href="/contac
       <h2 class="sermon-colour">Latest Sermons:</h2>
       {% for post in site.categories.sermon limit:2 %}
       <div class="slot sermon-slot">
-        <h2><a class="sermon-colour" href="{{ post.url }}">{{ post.title }}</a></h2>
+        <h3><a class="sermon-colour" href="{{ post.url }}">{{ post.title }}</a></h3>
         <p>
-            {{ post.speaker }}</br>
-            {{ post.date | date_to_string }}<br/>
+            {{ post.speaker }} - {{ post.date | date_to_string }}<br/>
         </p>
       </div>
       {% endfor %}
