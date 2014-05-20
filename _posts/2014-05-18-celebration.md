@@ -17,3 +17,5 @@ bible_links: ["Matthew 9:35-10:10, 10:37-39&amp;version=NIVUK"]
 bible_videos: [""]
 bible_videos_links: [""]
 ---
+
+Link to the ['Trinity Church Cheltenham'](http://trinitycheltenham.com "Opens a link to the 'Trinity Church Cheltenham' website.") website.
