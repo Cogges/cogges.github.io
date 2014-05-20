@@ -62,7 +62,7 @@ slot3_description: 'If you are new to Cogges please contact the <a href="/contac
       <h2 class="sermon-colour">Latest Sermons:</h2>
       {% for post in site.categories.sermon limit:2 %}
       <div class="slot sermon-slot">
-        <h3><a class="sermon-colour" href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h3><a class="sermon-colour" href="{{ post.url }}">{{ post.series }} : {{ post.title }}</a></h3>
         <p>
             {{ post.speaker }} - {{ post.date | date_to_string }}<br/>
         </p>
