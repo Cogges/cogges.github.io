@@ -6,7 +6,7 @@ group: "grow"
 
 <ul class="sermon-list">
   {% for post in site.posts limit:500 %}
-    {% if post.type != "news" %}
+    {% if post.category != "news" %}
       <li class="sermon">
       	{{ post.date | date_to_string }} -
       	{% if post.series and post.series != "" %}
