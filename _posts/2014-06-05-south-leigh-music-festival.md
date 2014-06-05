@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "South Leigh Music Festival"
+title: "South Leigh Music Festival 4th-6th July"
 date: "2014-06-05 16:00:00"
 category: "news"
 contacts: ["Lianne Poyser"]
