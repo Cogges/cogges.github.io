@@ -12,7 +12,7 @@ The Gothic church of St James the Great in South Leigh is set to host its first 
 St James the Great is a 12th century church whose walls are adorned with wonderful medieval biblical murals and a Jacobean pulpit where John Wesley preached his first sermon in 1771.
 
 The Friday night opens with New College School Choral Society’s performance of Vivaldi’s Gloria and a selection of summer music to set the scene. 
-Saturday’s performance brings a touch of Andalucia to South Leigh with the moving flamenco guitarist [www.flamencoguitarist.com](Rafael).  His unique yet instantly recognizable sound moves flamenco into a new exciting era combining gypsy soul and energy with the earthiness of Andalucian chant.  He will be joined by percussionist Demi Garcia and dancer Jesus Olmedo.
+Saturday’s performance brings a touch of Andalucia to South Leigh with the moving flamenco guitarist [Rafael](www.flamencoguitarist.com).  His unique yet instantly recognizable sound moves flamenco into a new exciting era combining gypsy soul and energy with the earthiness of Andalucian chant.  He will be joined by percussionist Demi Garcia and dancer Jesus Olmedo.
 
 The weekend’s festivities end with a Festival Evensong led by Revd Dr Erica Longfellow, Chaplain of New College Oxford.
 
