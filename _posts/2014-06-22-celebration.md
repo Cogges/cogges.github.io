@@ -17,7 +17,7 @@ bible_links: ["Isaiah 61:1-8&amp;version=NIVUK"]
 bible_videos: [""]
 bible_videos_links: [""]
 ---
-
+<br><br>
 ['Unseen UK'](www.unseenuk.org "Opens a link to the 'Unseen UK' website.") is a charity established to disrupt and challenge human trafficking at all levels.
 <br>
 Article in the ['Bristol Post' newspaper](www.bristolpost.co.uk%2FBristol-ant-slavery-charity-Unseen-open-children%2Fstory-20472029-detail%2Fstory.html "Opens a link to the 'Bristol Post' newspaper website.") (posted on 21 Jan 2014) about Unseen UK.
