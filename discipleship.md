@@ -21,4 +21,6 @@ You’ll need to find your own accommodation locally. We may be able to offer ac
 
 Fees are £980 per person, payable at the start of the course.
 
-For more info call Tim and Abi Partridge: 07786 240963
+For more info call Tim and Abi Partridge: 07786 240963 or email on tim@modeseven.co.uk
+
+
