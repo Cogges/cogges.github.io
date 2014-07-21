@@ -21,7 +21,7 @@ You’ll need to find your own accommodation locally. We may be able to offer ac
 
 Fees are £980 per person, payable at the start of the course.
 
-For more info call Tim and Abi Partridge: 07786 240963 or email on mailto:tim@modeseven.co.uk
+For more info call Tim and Abi Partridge: 07786 240963 or email us here mailto:tim@modeseven.co.uk
 
 <iframe src="//player.vimeo.com/video/83751977" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/83751977">NewWine Worship Conferences 2014</a> from <a href="http://vimeo.com/newinkfilms">New Ink Films</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
