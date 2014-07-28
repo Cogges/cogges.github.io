@@ -23,4 +23,4 @@ Fees are £980 per person, payable at the start of the course.
 
 For more info call Tim and Abi Partridge: 07786 240963 or email us here tim@modeseven.co.uk
 
-<iframe src="//player.vimeo.com/video/101523122?color=c41440" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/101523122">Discipleship Year Promo 2014</a>
+<iframe src="//player.vimeo.com/video/101523122?title=0&amp;byline=0&amp;portrait=0&amp;color=c41440" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/101523122">Discipleship Year Promo 2014</a>
