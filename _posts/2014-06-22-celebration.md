@@ -21,7 +21,7 @@ bible_videos_links: [""]
 <br>
 ['Unseen UK'](http://www.unseenuk.org "Opens a link to the 'Unseen UK' website.") is a charity established to disrupt and challenge human trafficking at all levels.
 <br>
-Article in the ['Bristol Post' newspaper](http://www.bristolpost.co.uk%2FBristol-ant-slavery-charity-Unseen-open-children%2Fstory-20472029-detail%2Fstory.html "Opens a link to the 'Bristol Post' newspaper website.") (posted on 21 Jan 2014) about Unseen UK.
+Article in the ['Bristol Post' newspaper](http://www.bristolpost.co.uk/Bristol-ant-slavery-charity-Unseen-open-children/story-20472029-detail/story.html "Opens a link to the 'Bristol Post' newspaper website.") (posted on 21 Jan 2014) about Unseen UK.
 <br>
 <b>NOTE :</b><br>This edited version includes the introduction, the word of knowledge and closing prayers.<br>
 Andrew's talk is not included.<br>
