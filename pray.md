@@ -8,8 +8,24 @@ contacts:
   - Ali Laithwaite
   - Jane Harper
   - Mari Graves
+  - Roger Howell
 published: true
 ---
+
+## Pursuit
+Each term there will be different opportunities to worship, seek God and pray together.
+
+*Venue:* St Mary’s Church, Cogges
+
+* Wednesday **September 3rd**  8.00-9.30pm (7.45pm for tea/coffee): Pursuit evening
+* Friday **October 3rd** 6pm to Saturday 4th October 6pm:  Pursuit 24 hour prayer watch at St Mary’s Cogges with the church open for prayer & worship. 
+[Sign up for a prayer slot](https://docs.google.com/forms/d/1MgWW-233PmtShLDFt28wjgLkNKMyEPi4r1xfWu-RJ9Y/viewform)
+
+*Contact:* Jane Holloway
+
+---
+
+## More Opportunities to Pray:
 
 ### Prayer for Wood Green School
 Monday mornings, 8.30am-9.30am in term time.
@@ -48,18 +64,7 @@ The time is spent in sharing what God has done, planning Besom events and activi
 
 *Contact:* contact@witneybesom.org or 07549 842789
 
-### The Gathering
-The first Wed evening of the month at 8pm
-
-*Venue:* St Mary’s Church, Cogges
-
-An opportunity for all to gather in prayer for the church and for Witney
-
-*Contact:* Jane Holloway
-
 ### Adventure Plus
-Dates: April 30th, June 5th
-
 *Venue:* (and times) on request
 
 We pray for the day to day work and the plans for the Adventure Base.  It is open to all comers and we would be thrilled if anyone else would like to join in regularly or on a one off basis.
@@ -67,4 +72,10 @@ We pray for the day to day work and the plans for the Adventure Base.  It is ope
 *Contact:* Mari Graves
 
 ### Prayer for the Persecuted Church
-A new prayer group for this is planned. Further details will be issued when available
+Termly (see calendar)
+
+*Venue*: Cogges Church or elsewhere (see calendar)
+
+This is for anyone who is concerned for the plight of Christians in many parts of the world today. We bring to God up-to-the-minute needs, and pray for the agencies which seek to bring help and support to our brothers and sisters in Christ.
+
+*Contact:* Roger Howell
