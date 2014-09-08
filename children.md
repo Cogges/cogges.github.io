@@ -2,7 +2,7 @@
 layout: page
 title:  "Children"
 group: "engage"
-contacts: ["Mel Sayles", "Kirsty Morgan"]
+contacts: ["Mel Sayles", "Kirsty Morgan", "Catherine White"]
 ---
 
 
@@ -17,10 +17,8 @@ contacts: ["Mel Sayles", "Kirsty Morgan"]
 ###Children's Church
 Children's Church is for children, 0-11yrs, who meet on Sunday mornings at St Mary's during the 9.30am & 11am services.  There are 5 age-specific groups where we teach the children the basics of the Christian faith and encourage them in their own faith, through games, crafts, stories and other fun activities.
 
-###Toddler Group
-A friendly group for all Mums, Dads and carers of pre-school aged children. Tuesday afternoons from 1.30 - 3pm in the Church Centre, term time only.
-Bring your babies and toddlers to play inside and outside (weather permitting!). We provide snacks and drinks for adults & children, run a craft activity and do some singing.
-We also have a short and fun service for the children in the church on the first Tuesday of every month at 2pm.
+###Cogglets
+Cogglets is a baby, toddler and carer group run by St Mary’s Church in Cogges. We welcome all children aged 0-5 years and their parents or carers. You will be welcomed with a fresh cup of coffee or tea, a slice of home-made cake and friendly face.  At Cogglets, our focus is on the carer. We believe that if you are well cared for, the children you are caring for will be too. 
 
 ###X:site
 An event for all 7-11 year olds in the West Oxfordshire area. Every 2 months on a Saturday evening (6-8pm) usually held at St Mary's, Church Green, Witney.
@@ -45,8 +43,5 @@ Christmas Crafts for Kids: our popular craft morning aimed at primary school age
 
 A 3-day holiday club during the Summer holidays for all children from Witney and the local area, for school years 1-6.
 Run by people from churches in Witney, it combines finding out more about Jesus, worship songs, games and craft activities.
-2014 dates: 29th – 31st July
-More information will be posted nearer the event.
-
 
 For more information about any of our children's and family events, please contact the church office: 01993 779613.
