@@ -11,13 +11,10 @@ If you have newly moved to the Cogges area, or are not connected to any local ch
 ### 8.00AM HOLY COMMUNION
 This is a reflective service of Holy Communion following the Book of Common Prayer. There is a short sermon but no hymns. On the first Sunday each month, the service is followed by "Coffee and Croissants" in the Church Centre.
 
-### 9:30AM MORNING WORSHIP (resumes 7 September)
+### 9:30AM MORNING WORSHIP
 This Service is a slightly shorter version of the 11am Service. Visitors are always welcome and often attend the family service (on the 3rd Sunday each month), which may include a Baptism or a service of Thanksgiving for the birth of a child. Coffee and cake will be served at the end of the family service.
 
-### 10:30AM MORNING WORSHIP (Summer Sundays: 27 July to 31 August)
-We will be having one service at 10.30am each Sunday (instead of our usual 9.30am and 11.00am) with a different team leading each week.  All ages will be welcome and a creche facility (for parents to use with 0-2s) will be available except on 17 and 24 August.  Please see <a href="events.html">Calendar</a> for details.
-
-### 11.00AM MORNING WORSHIP (resumes 7 September)
+### 11.00AM MORNING WORSHIP
 This Service includes a mixture of modern and traditional music, scripture readings, preaching and prayer. Children leave for Junior Church after an opening time together (except when it is a Family service, usually on the third Sunday of the month). Holy Communion is celebrated on the second Sunday of the month. Tea and coffee, served in the Church Centre after the service, provide an opportunity to get to know people.
 
 ### EVENING SERVICES
