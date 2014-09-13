@@ -7,9 +7,13 @@ contacts: ["Paul and Judith Ledden"]
 
 ### The Parenting Course
 Children do not arrive with an instruction manual, yet no role we undertake is more important than parenting.
-This 6 week course is for any parents, step-parents or carers of children aged 2-10.
-Discover that we are not alone in the challenges we face and pick up ideas from other parents. Practical talks are followed by group discussion in a relaxed atmosphere.  Topics covered include meeting our children's needs, setting boundaries and teaching healthy relationships.
+These courses are for any parents, step-parents or carers who want to discover that we are not alone in the 
+challenges we face, pick up ideas from other parents and learn how to make even the happiest family better. 
 
-[http://www.relationshipcentral.org](http://www.relationshipcentral.org)
-
-
+Welcome Church and St Mary's Cogges are running both the 
+[http://www.relationshipcentral.org/parenting-children-course](Parenting Children) and 
+[http://www.relationshipcentral.org/parenting-teenagers-course](Parenting Teenagers) Courses 
+on Mondays, 13 Oct - 24 Nov 2014, 7.45-9.30pm, Open Doors Conference Room, Range Road, Witney. 
+Registration is £10 per person. Booking & details: Judith Ledden, 07706 250 260 or 
+[mailto:evenbetter14@gmail.com](evenbetter14@gmail.com) or 
+[http://www.relationshipcentral.org/](www.relationshipcentral.org)
