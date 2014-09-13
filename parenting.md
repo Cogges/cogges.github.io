@@ -11,9 +11,9 @@ These courses are for any parents, step-parents or carers who want to discover t
 challenges we face, pick up ideas from other parents and learn how to make even the happiest family better. 
 
 Welcome Church and St Mary's Cogges are running both the 
-[http://www.relationshipcentral.org/parenting-children-course](Parenting Children) and 
-[http://www.relationshipcentral.org/parenting-teenagers-course](Parenting Teenagers) Courses 
+[Parenting Children](http://www.relationshipcentral.org/parenting-children-course) and 
+[Parenting Teenagers](http://www.relationshipcentral.org/parenting-teenagers-course) Courses 
 on Mondays, 13 Oct - 24 Nov 2014, 7.45-9.30pm, Open Doors Conference Room, Range Road, Witney. 
 Registration is £10 per person. Booking & details: Judith Ledden, 07706 250 260 or 
-[mailto:evenbetter14@gmail.com](evenbetter14@gmail.com) or 
-[http://www.relationshipcentral.org/](www.relationshipcentral.org)
+[evenbetter14@gmail.com](mailto:evenbetter14@gmail.com) or 
+[www.relationshipcentral.org](http://www.relationshipcentral.org/)
