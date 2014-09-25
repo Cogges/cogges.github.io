@@ -11,8 +11,6 @@ published: true
 
 ### Walking Weekend, May 2015
 ![Walking in the Black Mountains 2013](/images/black_mountains.jpg) A walking and camping weekend, often in the Brecon Beacons. The format is usually a curry on the Friday night, a big walk on the Saturday and a shorter walk on the Sunday interspersed with beer and food from the pub. Walks are typically 7, 11 or 15 miles with ascent and pace for different abilities.
-Booking open [Booking for 2014 open](http://bit.ly/cogges-men-walking "Booking")
-
 
 
 ### Wild Camping for Kids, June 2015
