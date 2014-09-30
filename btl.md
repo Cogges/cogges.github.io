@@ -5,7 +5,7 @@ group: "engage"
 contacts: ["Simon Kirby"]
 ---
 
-### Reaching, Resourcing & Supporting the Cogges Community
+### A building project to Reach, Resource & Support the Cogges Community
 
 These new facilities will enable us to develop how we serve the needs of local families and their children, through a number of possible activities including the pre-school group, an after-school club, a youth club and new facilities for Messy Church. On Sundays the larger spaces possible in the new building will provide our Junior Church with the space they need to flourish.
 
