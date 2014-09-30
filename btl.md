@@ -13,4 +13,6 @@ It's time to become active and support this project. Please pray about what you 
 
 <a href="https://cogges.github.io/documents/BTL-pledge.pdf">Pledge Form</a>
 
+For any further information on giving please contact Keith Harwood.
+
 
