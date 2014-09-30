@@ -13,4 +13,6 @@ Through our church’s mission planning we have identified possible opportunitie
 
 It's time to become active and support this project. Please pray about what you feel God is asking you to give, either as a  one-off gift, monthly giving, or both. You can download the pledge form here.
 
-Pledge form
+[Pledge form]
+
+[Sign up for a prayer slot](https://docs.google.com/forms/d/1MgWW-233PmtShLDFt28wjgLkNKMyEPi4r1xfWu-RJ9Y/viewform)
