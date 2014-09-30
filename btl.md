@@ -13,6 +13,6 @@ It's time to become active and support this project. Please pray about what you 
 
 <a href="https://cogges.github.io/documents/BTL-pledge.pdf">Pledge Form</a>
 
-For any further information on giving please contact Keith Harwood.
+For any further information on giving please contact Keith Harwood on 01993 779613.
 
 We now face a timely opportunity to create a legacy that will transform the kind of service we offer to local people now and for many years to come.
