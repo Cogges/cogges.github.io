@@ -473,6 +473,9 @@ nav.main li a.four:hover { color: #a61d45; }
   color: #A61D45;
 }
 
+.dropdown-menu > li >a {
+  min-width: 200px;
+}
 
 #fat-footer-menu {
   text-transform: uppercase;
