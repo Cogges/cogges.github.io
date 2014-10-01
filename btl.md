@@ -18,7 +18,3 @@ For any further information on giving please contact Keith Harwood on 01993 7796
 
     We now face a timely opportunity to create a legacy that will transform the kind of service we offer to 
     local people now and for many years to come.
-
-
-
-cogges.github.io / documents / BTL-overview.pdf
