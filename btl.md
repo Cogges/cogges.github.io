@@ -11,7 +11,7 @@ These new facilities will enable us to develop how we serve the needs of local f
 
 It's time to become active and support this project. Please pray about what you feel God is asking you to give, either as a  one-off gift, monthly giving, or both. You can download the pledge form here.
 
-<a href="https://cogges.github.io/documents/BTL-pledge.pdf">Pledge Form</a>
+<a href="https://cogges.github.io/documents/BTL-pledge.pdf">Pledge Form</a><br/>
 <a href="https://cogges.github.io/documents/BTL-overview.pdf">Project Overview</a>
 
 For any further information on giving please contact Keith Harwood on 01993 779613.
