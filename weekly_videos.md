@@ -2,6 +2,7 @@
 layout: page
 title: "Weekly News Videos"
 group: connect
+contacts: ["Maddy Crossley"]
 published: true
 ---
 
