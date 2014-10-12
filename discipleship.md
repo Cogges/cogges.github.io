@@ -2,7 +2,7 @@
 layout: page
 title:  "Discipleship Year"
 group: "grow"
-contacts: ["Tim and Abi Partridge"]
+contacts: ["Tim and Abi Partridge", "Maddy Crossley"]
 ---
 
 St Mary's Cogges, Witney is one of the newest New Wine Discipleship Year training centres.
