@@ -11,7 +11,7 @@ If you have newly moved to the Cogges area, or are not connected to any local ch
 ### 8.00AM HOLY COMMUNION
 This is a reflective service of Holy Communion following the Book of Common Prayer. There is a short sermon but no hymns. On the first Sunday each month, the service is followed by "Coffee and Croissants" in the Church Centre.
 
-### 9.15AM ALL AGE WORSHIP WITH BAPTISM (3rd Sunday each month)
+### 9.15AM MORNING WORSHIP WITH BAPTISM (3rd Sunday each month)
 Visitors are always welcome at the all age service on the 3rd Sunday each month, which includes a Baptism or a service of Thanksgiving for the birth of a child. Coffee and cake will be served at the end of the service.
 
 ### 10.30AM MORNING WORSHIP
