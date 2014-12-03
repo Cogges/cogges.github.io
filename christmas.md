@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Christmas Events 2014
+title: Christmas Events
 contacts: 
   - Simon Kirby
 published: true
@@ -12,23 +12,26 @@ Please do come and join us at one of our Christmas services as we celebrate the 
 
 We hope that you and those you love have a peaceful and blessed Christmas.
 
-### FRIDAY 12th DECEMBER
+### FRIDAY 12th DECEMBER 2014
 7.00pm -- Carols by Candlelight at Cogges Farm Barn
 (please email office@coggesparish.com to reserve your ticket)
 
-### SUNDAY 14th DECEMBER
+### SUNDAY 14th DECEMBER 2014
 4.00pm -- Christingle Service
 
-### SUNDAY 21st DECEMBER
+### SUNDAY 21st DECEMBER 2014
 5.30pm and 7.30pm -- Contemporary Carol Services with traditional elements
 
-### CHRISTMAS EVE
+### WEDNESDAY 24th DECEMBER 2014 -- CHRISTMAS EVE 
 4.00pm -- Family Nativity Service
+
 11.00pm -- Traditional Carols and Communion
 
-### CHRISTMAS DAY
+### THURSDAY 25th DECEMBER 2014 -- CHRISTMAS DAY
 8.00am -- Traditional Communion Service
+
 9.15am -- Christmas Service for all ages with Communion
+
 10.30am -- Christmas Service for all ages
 
 We look forward to seeing you!
