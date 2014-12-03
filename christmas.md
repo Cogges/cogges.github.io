@@ -34,4 +34,4 @@ We hope that you and those you love have a peaceful and blessed Christmas.
 
 10.30am -- Christmas Service for all ages
 
-We look forward to seeing you!
+*We look forward to seeing you!*
