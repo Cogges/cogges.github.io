@@ -10,7 +10,7 @@ duration: "15"
 youtube_videos: [""]
 slides: ["http://media.coggesparish.com/sermons/2014-12-14 Christingle, Rich White.pdf"]
 files: [""]
-bible_passages: [John 1:1-14]
+bible_passages: ["John 1:1-14"]
 bible_links: ["John 1:1-14&amp;version=NIVUK"]
 bible_videos: [""]
 bible_videos_links: [""]
