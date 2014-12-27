@@ -1,5 +1,5 @@
 ---
-layout: sermon
+layout: "sermon"
 series: "Christingle"
 title: "Jesus, The Light of the World."
 date: "2014-12-14 16:00:00"
