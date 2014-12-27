@@ -64,7 +64,7 @@ vimeo_video_id: "113935512"
       </ul>
 
       <h2 class="sermon-colour">Latest Sermons:</h2>
-      {% for post in site.categories.sermon limit:2 %}
+      {% for post in site.categories.sermon limit:9 %}
       <div class="slot sermon-slot">
         {% if post.series and post.series != "" %}
           <h3><a class="sermon-colour" href="{{ post.url }}">{{ post.series }} : {{ post.title }}</a></h3>
