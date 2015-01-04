@@ -813,3 +813,15 @@ li.news {
 li.news:last-child {
   border-bottom: none;
 }
+
+ul.ticket {
+  margin-left: 0;
+  padding-top: 1em;
+  padding-bottom: 2em;
+  list-style: none;
+}
+
+ul.ticket li {
+  float: left;
+  margin-right: 1em;
+}
