@@ -21,9 +21,9 @@ During the session we provide:
 * Story time while the children have their squash and biscuits
 * Music time
 
-A toddler service is held every 4th Tuesday of the month with live music, an interactive Bible story and an opportunity to receive prayer if you wish.
+A toddler service is held every 1st Tuesday of the month with live music, an interactive Bible story and an opportunity to receive prayer if you wish.
 
-The cost is £1.00 per session per family. There is no need to register in advance, just come along!
+The cost is £1.00 per session per child.
 
 ## How we do it
 * We keep a register for fire safety reasons, so please ensure that you and your children are registered as soon as you arrive.
@@ -36,3 +36,5 @@ The cost is £1.00 per session per family. There is no need to register in advan
 ## Contact us
 
 You are welcome just to come along on a Tuesday but if you’d like to find out more in advance please contact Catherine.
+
+Find us on [Facebook](https://www.facebook.com/groups/317108641669476/)
