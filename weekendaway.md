@@ -16,5 +16,4 @@ Games, films, bonfire, seminars, craft, lots of eating, praying, talent night, l
 
 At the moment we are putting together the costs for the weekend as we want to make it as affordable as possible.  It would really help us if we could have an expression of interest from you.
 
-Please click here and let us know if you would like to come.
-
+<iframe src="https://docs.google.com/forms/d/1aoq8U2lidM7kcI7tI4mn7pE5dKw_kug4BsN2DcspwkU/viewform?embedded=true" width="600" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
