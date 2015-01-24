@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Weekend Away"
-group: "fat-footer"
+group: "connect"
 contacts: ["Simon Kirby"]
 ---
 
