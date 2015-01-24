@@ -27,4 +27,4 @@ You may choose to restrict the collection or use of your personal information th
 
 Through your account you can access the personal information which we hold about you under the Data Protection Act 1998.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please log in and correct that data. If you are unable to do so please email shepherd@this website.com. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please log in and correct that data. If you are unable to do so please email office@coggesparish.com. We will promptly correct any information found to be incorrect.
