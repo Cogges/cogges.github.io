@@ -23,13 +23,8 @@ Arrive late Friday afternoon and pitch your tent while the BBQ warms up. There w
 
 
 
-### Torchlight Winter Walk, November 2014
-The formula is simple and unchanged for six years: on a Saturday afternoon in late November we meet on The Langel (the path running from Cogges into the town) by the bridges just before dusk for a walk along the Windrush to the Country Park as the sun sets. Return to a warm yourself with a cocoa and sausage by the campfire. It is unashamedly the stuff of childhood dreams.
+### Torchlight Winter Walk, November 2015
+The formula is simple and unchanged for seven years: on a Saturday afternoon in late November we meet on The Langel (the path running from Cogges into the town) by the bridges just before dusk for a walk along the Windrush to the Country Park as the sun sets. Return to a warm yourself with a cocoa and sausage by the campfire. It is unashamedly the stuff of childhood dreams.
 
 We walk along the river path (and back) for about 2 miles at night. You'll need wellies, warm clothes and a torch :) You are responsible for any children that you bring. Sorry - no unaccompanied children allowed.
 
-
-
-### Monday Beer, 9pm
-
-We meet socially on occasional Mondays for a beer at some of the lovely pubs in and around Witney. If you want to get notified about future trips please join our google [group mailing list](https://groups.google.com/forum/?hl=en#!forum/monday-beer).
