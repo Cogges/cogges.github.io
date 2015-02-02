@@ -17,7 +17,8 @@ Visitors are always welcome at the all age service on the 3rd Sunday each month,
 ### 10.30AM MORNING WORSHIP
 This Service includes a mixture of modern and traditional music, scripture readings, preaching and prayer. Junior Church for children meets in the Church Centre throughout the service and begins with a time of free play.  Holy Communion is celebrated on the second Sunday of the month. Tea and coffee, served in the Church Centre after the service, provide an opportunity to get to know people.
 
-### EVENING SERVICES
-Most months we hold Celebration Services with extended informal worship and Guest Speakers from around the country. These take place at 6.30pm and are usually on the 4th Sunday of the month.
+### 6.30PM EVENING SERVICE
+The Evening Service includes an extended time of informal worship, teaching and an opportunity to receive prayer.   
+On the 4th Sunday of the month (usually) it is a Celebration Service with a Guest Speaker.
 
-For details of other evening services please check the [church diary](./events.html).
+For details of all services please check the [church diary](./events.html).
