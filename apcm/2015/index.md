@@ -27,7 +27,7 @@ in St Mary's Church, Cogges.
 [//]: # ([enclosed](http://media.coggesparish.com/apcm/2014/2014%20CW%20Report%20Goods%20Ornaments%20and%20Fabric.pdf "Opens link to the '2014 CW Report Goods Ornaments and Fabric' pdf document." target="_blank") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2014/2014%20CW%20Report%20Goods%20Ornaments%20and%20Fabric.html "Opens link to the '2014 CW Report Goods Ornaments and Fabric' page." target="_blank")) 
 5. A report on the proceedings of the Deanery Synod
 [//]: # ([enclosed](http://media.coggesparish.com/apcm/2014/Deanery%20Synod%20Report%20for%20APCM%202014.pdf "Opens link to the 'Deanery Synod Report for APCM 2014' pdf document." target="_blank") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2014/Deanery%20Synod%20Report%20for%20APCM%202014.html "Opens link to the 'Deanery Synod Report for APCM 2014' page." target="_blank")) 
-6. An election of one member of the laity to the Deanery Synod (for 2 years) and five members of the laity to the PCC (for 3 years)<br>
+6. An election of one member of the laity to the Deanery Synod (for 2 years) and five members of the laity to the PCC (for 3 years)
 [//]: # ([nomination form enclosed](http://media.coggesparish.com/apcm/2014/Nomination%20for%20Synod%20or%20PCC.pdf "Opens link to the 'Nomination for Synod or PCC' pdf document." target="_blank") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2014/Nomination%20for%20Synod%20or%20PCC.txt "Opens link to the 'Nomination for Synod or PCC' text document." target="_blank")) 
 7. The appointment of sidesmen (delegated to the Churchwardens by resolution of the 1999 APCM)
 8. The appointment of an independent financial examiner for 2015 (the PCC has nominated A J Carter & Co)
@@ -42,9 +42,10 @@ in St Mary's Church, Cogges.
  c. Worship Hub
 
 2. The Vicar, Rev Simon Kirby
-[//]: # Simon will be reminding us of some of the exciting developments in the life of Cogges in the last year.<br>
+<!---
+Simon will be reminding us of some of the exciting developments in the life of Cogges in the last year.<br>
 He will also unveil the plans for the extension of the Church Centre and speak about how we hope to extend our ministry into the wider community.
-
+-->
 ###The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
 <!---
 Additional reports, for information<br>
