@@ -12,9 +12,7 @@ in St Mary's Church, Cogges.
 ##Agenda
 ###The meeting will begin with the meeting of parishioners:
 1. A meeting of parishioners to elect two Churchwardens<br>
-<!---
-([nomination form enclosed](http://media.coggesparish.com/apcm/2014/Nomination%20of%20Churchwarden.pdf "Opens link to the 'Nomination of Churchwarden' pdf document." target="_blank") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2014/Nomination%20of%20Churchwarden.txt "Opens link to the 'Nomination of Churchwarden' text document." target="_blank")) 
--->
+[//]: # ([nomination form enclosed](http://media.coggesparish.com/apcm/2014/Nomination%20of%20Churchwarden.pdf "Opens link to the 'Nomination of Churchwarden' pdf document." target="_blank") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2014/Nomination%20of%20Churchwarden.txt "Opens link to the 'Nomination of Churchwarden' text document." target="_blank")) 
 
 
 ###There will then be the formal business of the APCM:
