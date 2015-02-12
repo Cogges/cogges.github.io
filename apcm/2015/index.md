@@ -21,8 +21,7 @@ in St Mary's Church, Cogges.
 2. A report on the revision of the electoral roll<br>
 [//]: # ([enclosed](http://media.coggesparish.com/apcm/2014/Electoral%20Roll%20Report%202014.pdf "Opens link to the 'Electoral Roll Report 2014' pdf document." target="_blank") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2014/Electoral%20Roll%20Report%202014.html "Opens link to the 'Electoral Roll Report 2014' page." target="_blank"))
 3. The annual report and financial statements of the PCC for 2013
-([enclosed](http://media.coggesparish.com/apcm/2015/AR+FS_2014.pdf "Opens link to the 'AR+FS_2014' pdf document." target="_blank") ![PDF](/images/pdficon_large.png) 
-[//]: # or [text version](http://media.coggesparish.com/apcm/2015/AR+FS_2014.html "Opens link to the 'AR+FS_2014' page." target="_blank"))
+([enclosed](http://media.coggesparish.com/apcm/2015/AR+FS_2014.pdf target="_blank" "Opens link to the 'AR+FS_2014' pdf document.") ![PDF](/images/pdficon_large.png) 
 4. The Churchwardens' report on the fabric, goods and ornaments of St Mary's Church, Cogges
 [//]: # ([enclosed](http://media.coggesparish.com/apcm/2014/2014%20CW%20Report%20Goods%20Ornaments%20and%20Fabric.pdf "Opens link to the '2014 CW Report Goods Ornaments and Fabric' pdf document." target="_blank") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2014/2014%20CW%20Report%20Goods%20Ornaments%20and%20Fabric.html "Opens link to the '2014 CW Report Goods Ornaments and Fabric' page." target="_blank")) 
 5. A report on the proceedings of the Deanery Synod
@@ -42,12 +41,12 @@ in St Mary's Church, Cogges.
  c. Worship Hub
 
 2. The Vicar, Rev Simon Kirby
-<!---
+<!--
 Simon will be reminding us of some of the exciting developments in the life of Cogges in the last year.<br>
 He will also unveil the plans for the extension of the Church Centre and speak about how we hope to extend our ministry into the wider community.
 -->
 ###The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
-<!---
+<!--
 Additional reports, for information<br>
  - none
  -->
