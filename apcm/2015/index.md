@@ -22,9 +22,7 @@ in St Mary's Church, Cogges.
 3. The annual report and financial statements of the PCC for 2014
 ([enclosed](http://media.coggesparish.com/apcm/2015/AR+FS_2014.pdf "Opens link to the 'AR+FS_2014' pdf document.") ![PDF](/images/pdficon_large.png))
 4. The Churchwardens' report on the fabric, goods and ornaments of St Mary's Church, Cogges
-<!--
 ([enclosed](http://media.coggesparish.com/apcm/2015/2015%20CW%20Report%20Goods%20Ornaments%20and%20Fabric.pdf "Opens link to the '2015 CW Report Goods Ornaments and Fabric' pdf document.") ![PDF](/images/pdficon_large.png))
--->
 5. A report on the proceedings of the Deanery Synod
 ([enclosed](http://media.coggesparish.com/apcm/2015/Deanery%20Synod%20Report%20for%20APCM%202015.pdf "Opens link to the 'Deanery Synod Report for APCM 2015' pdf document.") ![PDF](/images/pdficon_large.png)) 
 6. An election of one member of the laity to the Deanery Synod (for 2 years) and five members of the laity to the PCC (for 3 years)
@@ -42,9 +40,6 @@ in St Mary's Church, Cogges.
  c. Worship Hub
 
 2. The Vicar, Rev Simon Kirby
-<!--
-Simon will be reminding us of some of the exciting developments in the life of Cogges in the last year.<br>
-He will also unveil the plans for the extension of the Church Centre and speak about how we hope to extend our ministry into the wider community.
--->
+This year at our vision night we will look back in gratitude for some of the things that God has achieved in and through us this last year and look forward in anticipation and expectation as we consider some of the plans for 2015.
 
 ###The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
