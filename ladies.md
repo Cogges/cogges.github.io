@@ -9,8 +9,8 @@ contacts: ["Judith Ledden"]
 ### Expresso Breakfast
 Expresso Breakfast provides a welcoming and relaxed setting for women of any age to enjoy food, conversation and an inspirational short talk.  The breakfasts are held three times a year on a Saturday morning.
 
-### Create for Summer (Thurs 19th June 2014 at 7.30pm)
-This is a new event where women can meet up to enjoy making some stunning new crafts.  There will be glass painting, flower arrangements and canvas wall art as well as beautiful makes from 'Makeve'. A relaxed evening with Pimms and party bites!
+### Create for Summer
+This is a new event where women can meet up to enjoy making some stunning crafts such as glass painting, flower arrangements, canvas wall art and jewellery making.  A relaxed evening with Pimms and party bites!
 
 
 ### Create for Christmas
