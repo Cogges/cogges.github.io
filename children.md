@@ -15,7 +15,7 @@ contacts: ["Mel Sayles", "Kirsty Morgan", "Catherine White"]
  -	Be able to share the love of Christ with others
 
 ###Children's Church
-Children's Church is for children, 0-11yrs, who meet on Sunday mornings at St Mary's during the 9.30am & 11am services.  There are 5 age-specific groups where we teach the children the basics of the Christian faith and encourage them in their own faith, through games, crafts, stories and other fun activities.
+Children's Church is for children, 0-11yrs, who meet on Sunday mornings at St Mary's during the 10.30am service.  There are 5 age-specific groups where we teach the children the basics of the Christian faith and encourage them in their own faith, through games, crafts, stories and other fun activities.
 
 ###Cogglets
 Cogglets is a baby, toddler and carer group run by St Mary’s Church in Cogges. We welcome all children aged 0-5 years and their parents or carers. You will be welcomed with a fresh cup of coffee or tea, a slice of home-made cake and friendly face.  At Cogglets, our focus is on the carer. We believe that if you are well cared for, the children you are caring for will be too. 
