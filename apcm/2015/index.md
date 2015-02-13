@@ -18,13 +18,15 @@ in St Mary's Church, Cogges.
 1. Minutes of the 2014 APCM
 ([enclosed](http://media.coggesparish.com/apcm/2015/Apcm14_minutes.pdf "Opens link to the 'Apcm14_minutes' pdf document.") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2015/Apcm14_minutes.html "Opens link to the 'Apcm14_minutes' page."))
 2. A report on the revision of the electoral roll
-[//]: # ([enclosed](http://media.coggesparish.com/apcm/2015/Electoral%20Roll%20Report%202015.pdf "Opens link to the 'Electoral Roll Report 2015' pdf document.") ![PDF](/images/pdficon_large.png))
+([enclosed](http://media.coggesparish.com/apcm/2015/Electoral%20Roll%20Report%202015.pdf "Opens link to the 'Electoral Roll Report 2015' pdf document.") ![PDF](/images/pdficon_large.png))
 3. The annual report and financial statements of the PCC for 2014
 ([enclosed](http://media.coggesparish.com/apcm/2015/AR+FS_2014.pdf "Opens link to the 'AR+FS_2014' pdf document.") ![PDF](/images/pdficon_large.png))
 4. The Churchwardens' report on the fabric, goods and ornaments of St Mary's Church, Cogges
-([enclosed](http://media.coggesparish.com/apcm/2015/2015%20CW%20Report%20Goods%20Ornaments%20and%20Fabric.pdf "Opens link to the '2015 CW Report Goods Ornaments and Fabric' pdf document.") ![PDF](/images/pdficon_large.png)) 
+<!--
+([enclosed](http://media.coggesparish.com/apcm/2015/2015%20CW%20Report%20Goods%20Ornaments%20and%20Fabric.pdf "Opens link to the '2015 CW Report Goods Ornaments and Fabric' pdf document.") ![PDF](/images/pdficon_large.png))
+-->
 5. A report on the proceedings of the Deanery Synod
-[//]: # ([enclosed](http://media.coggesparish.com/apcm/2015/Deanery%20Synod%20Report%20for%20APCM%202015.pdf "Opens link to the 'Deanery Synod Report for APCM 2015' pdf document.") ![PDF](/images/pdficon_large.png)) 
+([enclosed](http://media.coggesparish.com/apcm/2015/Deanery%20Synod%20Report%20for%20APCM%202015.pdf "Opens link to the 'Deanery Synod Report for APCM 2015' pdf document.") ![PDF](/images/pdficon_large.png)) 
 6. An election of one member of the laity to the Deanery Synod (for 2 years) and five members of the laity to the PCC (for 3 years)
 ([nomination form enclosed](http://media.coggesparish.com/apcm/2015/Nomination%20for%20Synod%20or%20PCC.pdf "Opens link to the 'Nomination for Synod or PCC' pdf document.") ![PDF](/images/pdficon_large.png)) 
 7. The appointment of sidesmen (delegated to the Churchwardens by resolution of the 1999 APCM)
