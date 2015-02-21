@@ -163,29 +163,9 @@ blockquote
     padding-right: 3em;
     clear: left;
     padding-top: 1.5em;
-    margin-left: 200px;
     text-align: justify;
 }
 
-blockquote:before {
-    display: block;
-    font-size: 7em;
-    content: "“";
-    height: 1px;
-    margin-left: 0em;
-    position:relative;
-    top:0px;
-}
-
-blockquote:after {
-    display: block;
-    font-size: 7em;
-    content: "”";
-    height: 0.3em;
-    position: relative;
-    top: 0.3em;
-    right: -4.5em;
-}
 
 blockquote > p {
     display: block;
@@ -824,4 +804,15 @@ ul.ticket {
 ul.ticket li {
   float: left;
   margin-right: 1em;
+}
+
+@media print {
+  nav, footer {
+    display: none;
+  }
+
+
+  .noprint {
+    display: none;
+  }
 }
