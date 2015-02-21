@@ -246,6 +246,10 @@ blockquote > footer {
   clear: left;
 }
 
+.left_col img {
+  width: 100%;
+}
+
 /*
 .page img {
   width: 200px;
