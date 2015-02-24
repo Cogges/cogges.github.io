@@ -410,7 +410,6 @@ nav.main {
 	border-left: 6px solid #A1B087;
 	border-right: 6px solid #A1B087;
 	width: intrinsic;
-	padding: 5px;
 	margin-bottom: 60px;
   	height: 40px;
 }
@@ -602,7 +601,6 @@ span.contact {
 
 img.profile {
   margin-top: 10px;
-  width: 150px;
 }
 
 .page td {
@@ -810,6 +808,32 @@ ul.ticket li {
   margin-right: 1em;
 }
 
+.list-group-item {
+  opacity: 0.75;
+}
+
+.list-group-item-header {
+  font-weight: 600;
+}
+
+.list-group-item-footer {
+  font-weight: 600;
+  font-size: 0.8em;
+}
+
+.list-group-item .speaker {
+  font-weight: 500;
+}
+
+.events .list-group-item-header  {
+  color: #A61D45;
+}
+
+.sermons .list-group-item-header  {
+  color: #A1B087;
+}
+
+
 @media print {
   nav, footer {
     display: none;
@@ -820,3 +844,5 @@ ul.ticket li {
     display: none;
   }
 }
+
+audio, canvas, video {max-width:100%;}

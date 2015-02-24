@@ -2,12 +2,12 @@
 layout: default
 title: "St Mary's Cogges"
 photo_credit: "Tim Partridge"
-vimeo_video_id:
+vimeo_video_id: "120349827"
 ---
 <div id="homepage">
-  <div class="span2"><!-- padding --></div>
+  <div class="col-md-2"><!-- padding --></div>
 
-  <div class="span8">
+  <div class="col-md-8">
 
     <div class="indent">
       <h1 class="hello">HELLO!</h1>
@@ -21,61 +21,56 @@ vimeo_video_id:
 
     <h3 class="hello">Cogges Life - 7th December 2014</h3>
 
-    <iframe src="//player.vimeo.com/video/{{page.vimeo_video_id}}?title=0&amp;byline=0&amp;portrait=0&amp;color=c41440" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/{{page.vimeo_video_id}}"></a>
-
+    <!-- 16:9 aspect ratio -->
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe src="//player.vimeo.com/video/{{page.vimeo_video_id}}?title=0&amp;byline=0&amp;portrait=0&amp;color=c41440" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/{{page.vimeo_video_id}}"></a>
+    </div>
     {% endif %}
 
-        <!--
-    <div class="indent">
-      <h2 class="homepage">Upcoming Events:</h2>
-      <div class="slot">
-        <h3>{{page.slot1_headline}}</h3>
-        <p>{{page.slot1_when}}<br/>
-           {{page.slot1_where}}<br/>
-           {{page.slot1_description}}<br/>
-         </p>
 
-      </div>
-      <div class="slot">
-        <h3>{{page.slot2_headline}}</h3>
-        <p>{{page.slot2_when}}<br/>
-           {{page.slot2_where}}<br/>
-           {{page.slot2_description}}<br/>
-         </p>
+    <h2 class="homepage"></h2>
 
-      </div>
-      <div class="slot">
-        <h3>{{page.slot3_headline}}</h3>
-        <p>{{page.slot3_when}}<br/>
-           {{page.slot3_where}}<br/>
-           {{page.slot3_description}}<br/>
-         </p>
-      </div>
-      See more <a href="/events.html">Services and Events</a>.
-    -->
-      <h3>Weekend away</h3> <a class="btn btn-primary" href="http://coggesparish.com/weekendaway.html">Express your interest</a>
 
-      <h3>Annual Parochial Church Meeting (26 Feb)</h3> <a class="btn btn-primary" href="http://coggesparish.com/apcm/2015/">Papers for the meeting</a>
+    <div class="list-group events">
+      <span class="list-group-item list-group-item-header">Upcoming Events:</span>
+      <a class="list-group-item" href="./apcm/2015/">
+        Annual Parochial Church Meeting
+        <span class="pull-right">26th Feb</span>
+      </a>
 
-      <h2 class="sermon-colour">Latest Sermons:</h2>
-      {% for post in site.categories.sermon limit:2 %}
-      <div class="slot sermon-slot">
-        {% if post.series and post.series != "" %}
-          <h3><a class="sermon-colour" href="{{ post.url }}">{{ post.series }} : {{ post.title }}</a></h3>
-        {% else %}
-          <h3><a class="sermon-colour" href="{{ post.url }}">{{ post.title }}</a></h3>
-        {% endif %}
-        <p>
-            {{ post.speaker }} - {{ post.date | date_to_string }}<br/>
-        </p>
-      </div>
-      {% endfor %}
-      See the <a href="/sermons.html">full list of sermons</a>.
+      <a class="list-group-item" href="./weekendaway.html">
+        Weekend Away
+        <span class="pull-right">26th - 28th Jun</span>
+      </a>
+
+      <a class="list-group-item list-group-item-footer" href="./events.html">
+        &nbsp;
+        <span class="pull-right">full list of events</span>
+      </a>
 
     </div>
 
+    <div class="list-group sermons">
+      <span class="list-group-item list-group-item-header">Latest Sermons:</span>
+      {% for post in site.categories.sermon limit:2 %}
+      <a class="list-group-item" href="{{ post.url }}">
+        <span class="speaker">{{ post.speaker }}</span>
+        {% if post.series and post.series != "" %}
+            {{ post.series }} : {{ post.title }}
+        {% else %}
+            {{ post.title }}
+        {% endif %}
+        <span class="pull-right">{{ post.date | date_to_string }}</span>
+      </a>
+      {% endfor %}
+      <a class="list-group-item list-group-item-footer" href="./sermons.html">
+        &nbsp;
+        <span class="pull-right">full list of sermons</span>
+      </a>
+    </div>
 
   </div>
+
 </div>
 
 

@@ -5,12 +5,12 @@ layout: default
 <div class="page {{ page.title | replace:' ','_' | downcase }}">
 
 	<div class="row-fluid content">
-        <div class="span8 left_col">
+        <div class="col-md-8 left_col">
         	<h1>{{ page.title }}</h1>
 			{{ content }}
 		</div>
 
-		<div class="span4 right_col noprint">
+		<div class="col-md-4 right_col noprint">
 			<h2>Cogges People</h2>
 
 			{% for contact in page.contacts %}
@@ -44,9 +44,9 @@ layout: default
 			            {% endif %}
 
 						{% if speaker.contact_photo %}
-							<img class="profile" itemprop="photo" src="{{speaker.contact_photo}}" alt="{{speaker.contact}}" width="101" height="100">
+							<img class="profile" itemprop="photo" src="{{speaker.contact_photo}}" alt="{{speaker.contact}}" height="100">
 						{% else %}
-							<img class="profile" itemprop="photo" src="/images/logo.png" alt="{{page.contact}}" width="101" height="100">
+							<img class="profile" itemprop="photo" src="/images/logo.png" alt="{{page.contact}}" height="100">
 						{% endif %}
 
 						{% if speaker.contact_email %}

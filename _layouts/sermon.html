@@ -5,7 +5,7 @@ layout: default
 <div class="page {{ page.title | replace:' ','_' | downcase }}">
 
 	<div class="row-fluid content">
-        <div class="span6 left_col">
+        <div class="col-md-6 left_col">
         	<h2>{{ page.title }}</h2>
         	<p class="meta">{{ page.date | date_to_string }}</p>
 
@@ -154,7 +154,7 @@ layout: default
 
 
 		{% if page.speaker and page.speaker != "" %}
-		<div class="span6 right_col" itemscope itemtype="http://schema.org/Person">
+		<div class="col-md-6 right_col" itemscope itemtype="http://schema.org/Person">
 			<h2>Speaker</h2>
             <h3><span itemprop="name">{{page.speaker}}</span></h3>
 
