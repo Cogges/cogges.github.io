@@ -822,7 +822,16 @@ ul.ticket li {
 }
 
 .list-group-item .speaker {
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
+  background-color: #A1B087;
+  padding: 2px 8px;
+  display: inline;
+}
+
+.list-group-item .title {
+  font-weight: 400;
+  display: inline;
 }
 
 .events .list-group-item-header  {
