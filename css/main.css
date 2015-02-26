@@ -855,3 +855,7 @@ ul.ticket li {
 }
 
 audio, canvas, video {max-width:100%;}
+
+img[alt='PDF'] {
+  width: auto;
+}
