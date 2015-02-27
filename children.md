@@ -2,7 +2,7 @@
 layout: page
 title:  "Children"
 group: "engage"
-contacts: ["Mel Sayles", "Kirsty Morgan", "Catherine White"]
+contacts: ["Maddy Crossley", "Kirsty Morgan", "Catherine White"]
 ---
 
 
@@ -15,10 +15,10 @@ contacts: ["Mel Sayles", "Kirsty Morgan", "Catherine White"]
  -	Be able to share the love of Christ with others
 
 ###Children's Church
-Children's Church is for children, 0-11yrs, who meet on Sunday mornings at St Mary's during the 10.30am service.  There are 5 age-specific groups where we teach the children the basics of the Christian faith and encourage them in their own faith, through games, crafts, stories and other fun activities.
+Children's Church is for children, 0-11yrs, who meet on Sunday mornings at St Mary's. Children meet together at the start of the 10.30 morning service for games and free play. There are 5 age-specific groups where we teach the children the basics of the Christian faith and encourage them in their own faith, through games, crafts, stories and other fun activities.
 
 ###Cogglets
-Cogglets is a baby, toddler and carer group run by St Mary’s Church in Cogges. We welcome all children aged 0-5 years and their parents or carers. You will be welcomed with a fresh cup of coffee or tea, a slice of home-made cake and friendly face.  At Cogglets, our focus is on the carer. We believe that if you are well cared for, the children you are caring for will be too. 
+Cogglets is a baby, toddler and carer group run by St Mary’s Church in Cogges. We welcome all children aged 0-5 years and their parents or carers. You will be welcomed with a fresh cup of coffee or tea, a slice of home-made cake and friendly face. At Cogglets, our focus is on the carer. We believe that if you are well cared for, the children you are caring for will be too. 
 
 ###X:site
 An event for all 7-11 year olds in the West Oxfordshire area. Every 2 months on a Saturday evening (6-8pm) usually held at St Mary's, Church Green, Witney.
@@ -36,7 +36,6 @@ We run seasonal events for children at Easter, Halloween and Christmas. We welco
 Good Friday Hot cross bun event: a fun event in the afternoon for all of the family with games, crafts, a talk and hot cross buns!
 Alternative Halloween party: held on Halloween at tea-time to offer an alternative to ‘trick or treating' with games, a disco and snacks.
 Christmas Crafts for Kids: our popular craft morning aimed at primary school aged children. Come along and create some Christmas decorations and gifts.
-
 
 
 ###CTiW Holiday Club
