@@ -11,15 +11,13 @@ contacts:
   - Roger Howell
 published: true
 ---
-
+ 
 ## Pursuit
 Each term there will be different opportunities to worship, seek God and pray together.
 
 *Venue:* St Mary’s Church, Cogges
 
-* Wednesday **September 3rd**  8.00-9.30pm (7.45pm for tea/coffee): Pursuit evening
-* Friday **October 3rd** 6pm to Saturday 4th October 6pm:  Pursuit 24 hour prayer watch at St Mary’s Cogges with the church open for prayer & worship. 
-[Sign up for a prayer slot](https://docs.google.com/forms/d/1MgWW-233PmtShLDFt28wjgLkNKMyEPi4r1xfWu-RJ9Y/viewform)
+* Wednesday **May 6th**  8.00-9.30pm 
 
 *Contact:* Jane Holloway
 
