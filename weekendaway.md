@@ -6,6 +6,7 @@ contacts: ["Heather McCulloch", "Simon Kirby"]
 ---
 
 ### Weekend Away 2015 - 26th - 28th June
+
 We will be having a Church family weekend away in June, to the beautiful Windmill Farm Conference Centre. We would love everyone who can, to come and join in the fun! 
 
 We especially want all our teams to have a rest and play together and our whole church family to have fun - and that includes you!
@@ -25,13 +26,13 @@ We are looking forward to welcoming you to Windmill Farm on Friday 26th June!
 
 Please read each of the three steps carefully: (see the worked examples at the bottom for more information)
 
-#### 1. I want to book a room in the Conference Centre:
-    
+### 1. I want to book a room in the Conference Centre:
+  
     If for any reason a suitable room is not available and you are disappointed about not finding one, please let the office know and you can be on a waiting list for cancellations. 
 
 Purchase on our [Eventbrite site](http://www.eventbrite.com/e/cogges-weekend-away-tickets-3641901024). Rooms are booked separately, you still need to purchase an event ticket.
 
-#### 2. I want to camp 
+### 2. I want to camp 
 
     Please note there will be no electrical hook up available but all meals are provided in the cost of your event ticket.  
 
@@ -46,7 +47,7 @@ How many people are there in your family, excluding pre-schoolers? *(your pre-sc
 | [Cogges w/e 2015 - Camping + 5 Event Tickets     ](https://dashboard.gocardless.com/api/template_plans/0VG3Z73711/paylink) |   195.00 | [Buy](https://dashboard.gocardless.com/api/template_plans/0VG3Z73711/paylink) |
 |                                                                                                                            |       |                                                                               |
 
-#### 3. I have pre-school children in my family, I'm staying in the conference centre or I need additional tickets:
+### 3. I have pre-school children in my family, I'm staying in the conference centre or I need additional tickets:
 
 These are single tickets, make repeat purchases if you need more than one.
 
@@ -57,7 +58,7 @@ These are single tickets, make repeat purchases if you need more than one.
 |                                                                                                                            |       |     |
 
 
-#### Examples
+### Examples
 
 - A couple with a pre-school child wanting to camp:
     + Purchase 1 'Camping + 2 Event Tickets'
