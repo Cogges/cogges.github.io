@@ -3,44 +3,63 @@ layout: page
 title: "APCM 2015"
 contacts: ["Malcolm Harper"]
 ---
-##Notice of Meeting
-The Annual Parochial Church Meeting will be held<br>
-at 7:30pm on Thursday, 26th February 2015<br>
+##Annual Parochial Church Meeting 2015
+The Annual Parochial Church Meeting was held<br>
+on Thursday, 26th February 2015<br>
 in St Mary's Church, Cogges.
 
-##Agenda
+###Agenda and papers for APCM 2015
+Full details of the meeting of parishioners and the Annual Parochial Church Meeting, together with various written reports, can be found
+from the original [Agenda](agenda.html "Opens link to the 'Agenda and papers for APCM 2015' page") for the meeting.
 
-###The meeting will begin with the meeting of parishioners:
-1. A meeting of parishioners to elect two Churchwardens
-([nomination form enclosed](http://media.coggesparish.com/apcm/2015/Nomination%20of%20Churchwarden.pdf "Opens link to the 'Nomination of Churchwarden' pdf document.") ![PDF](/images/pdficon_large.png)) 
+Draft [Minutes]({{"http://media.coggesparish.com/apcm/2015/Apcm15_minutes.pdf"}} "Opens link to the Apcm15_minutes.pdf document." target="_blank") ![PDF](/images/pdficon_large.png) are now available.
 
-###There will then be the formal business of the APCM:
-1. Minutes of the 2014 APCM
-([enclosed](http://media.coggesparish.com/apcm/2015/Apcm14_minutes.pdf "Opens link to the 'Apcm14_minutes' pdf document.") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2015/Apcm14_minutes.html "Opens link to the 'Apcm14_minutes' page."))
-2. A report on the revision of the electoral roll
-([enclosed](http://media.coggesparish.com/apcm/2015/Electoral%20Roll%20Report%202015.pdf "Opens link to the 'Electoral Roll Report 2015' pdf document.") ![PDF](/images/pdficon_large.png))
-3. The annual report and financial statements of the PCC for 2014
-([enclosed](http://media.coggesparish.com/apcm/2015/AR+FS_2014.pdf "Opens link to the 'AR+FS_2014' pdf document.") ![PDF](/images/pdficon_large.png))
-4. The Churchwardens' report on the fabric, goods and ornaments of St Mary's Church, Cogges
-([enclosed](http://media.coggesparish.com/apcm/2015/2015%20CW%20Report%20Goods%20Ornaments%20and%20Fabric.pdf "Opens link to the '2015 CW Report Goods Ornaments and Fabric' pdf document.") ![PDF](/images/pdficon_large.png))
-5. A report on the proceedings of the Deanery Synod
-([enclosed](http://media.coggesparish.com/apcm/2015/Deanery%20Synod%20Report%20for%20APCM%202015.pdf "Opens link to the 'Deanery Synod Report for APCM 2015' pdf document.") ![PDF](/images/pdficon_large.png)) 
-6. An election of one member of the laity to the Deanery Synod (for 2 years) and five members of the laity to the PCC (for 3 years)
-([nomination form enclosed](http://media.coggesparish.com/apcm/2015/Nomination%20for%20Synod%20or%20PCC.pdf "Opens link to the 'Nomination for Synod or PCC' pdf document.") ![PDF](/images/pdficon_large.png)) 
-7. The appointment of sidesmen (delegated to the Churchwardens by resolution of the 1999 APCM)
-8. The appointment of an independent financial examiner for 2015 (the PCC has nominated A J Carter & Co)
-9. Questions or comments on matters of Parochial interest
-10. Any other business
-11. Commissioning of the new PCC
 
-###Worship, followed by presentations and discussion:
-1. Ministry Hubs:<br>
- a. Global and Home Mission Hub<br>
- b. Pastoral Hub<br>
- c. Worship Hub
+##Meeting Report
+###The formal meeting:
+Agenda ([enclosed]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Agenda.pdf"|replace:" ","%20"}} "Opens link to the '2015-02-26 APCM - Agenda' pdf document." target="_blank") ![PDF](/images/pdficon_large.png))
 
-2. The Vicar, Rev Simon Kirby<br>
+The meeting was recorded and the following audio clips and presentation slides are available:<br>
+Full recording of the meeting (33 minutes):
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Meeting.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file ]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Meeting.mp3"|replace:" ","%20"}} "'2015-02-26 APCM - Meeting.mp3' audio file.")
 
-*This year at our vision night we will look back in gratitude for some of the things that God has achieved in and through us this last year and look forward in anticipation and expectation as we consider some of the plans for 2015.*
+The above includes:<br>
+&nbsp;&nbsp;a. Annual Report and Financial Statements by Keith Harwood (10 minutes):
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Treasurer'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file ]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Treasurer'sReport.mp3"|replace:" ","%20"}} "'2015-02-26 APCM - Treasurer'sReport.mp3' audio file.")
+- [Presentation Slides]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - FinancialStatements.pdf"|replace:" ","%20"}} "Opens link to the '2015-02-26 APCM - FinancialStatements' pdf document." target="_blank") ![PDF](/images/pdficon_large.png)
 
-###The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
+&nbsp;&nbsp;b. Churchwardens’ Report on fabric etc. by Heather McCulloch and Richard Osman (2 minutes):
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - ChurchWarden'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file ]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - ChurchWarden'sReport.mp3"|replace:" ","%20"}} "'2015-02-26 APCM - ChurchWarden'sReport.mp3' audio file.")
+- [Presentation Slides]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - ChurchWarden'sReport.pdf"|replace:" ","%20"}} "Opens link to the '2015-02-26 APCM - ChurchWarden'sReport' pdf document." target="_blank") ![PDF](/images/pdficon_large.png)
+
+###Presentations:
+1 - Ministry Hubs:<br>
+&nbsp;&nbsp;a. Introduction by Simon Kirby including interview with Maddy Crossley (4 minutes):
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - MinistryHubsIntroduction.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file ]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - MinistryHubsIntroduction.mp3"|replace:" ","%20"}} "'2015-02-26 APCM - MinistryHubsIntroduction.mp3' audio file.")
+
+&nbsp;&nbsp;b. Global and Home Mission Hub by Clare Huggard (7 minutes):
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Global_and_HomeMissionHub.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file ]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Global_and_HomeMissionHub.mp3"|replace:" ","%20"}} "'2015-02-26 APCM - Global_and_HomeMissionHub.mp3' audio file.")
+- [Presentation Slides]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Global_and_HomeMissionHub.pdf"|replace:" ","%20"}} "Opens link to the '2015-02-26 APCM - Global_and_HomeMissionHub' pdf document." target="_blank") ![PDF](/images/pdficon_large.png)
+
+&nbsp;&nbsp;c. Pastoral Hub by Jane Harper (9 minutes):
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - PastoralHub.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file ]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - PastoralHub.mp3"|replace:" ","%20"}} "'2015-02-26 APCM - PastoralHub.mp3' audio file.")
+- [Presentation Slides]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - PastoralHub.pdf"|replace:" ","%20"}} "Opens link to the '2015-02-26 APCM - PastoralHub' pdf document." target="_blank") ![PDF](/images/pdficon_large.png)
+
+&nbsp;&nbsp;d. Worship Hub by Rachel Webster (5 minutes):
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - WorshipHub.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file ]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - WorshipHub.mp3"|replace:" ","%20"}} "'2015-02-26 APCM - WorshipHub.mp3' audio file.")
+- [Presentation Slides]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - WorshipHub.pdf"|replace:" ","%20"}} "Opens link to the '2015-02-26 APCM - WorshipHub' pdf document." target="_blank") ![PDF](/images/pdficon_large.png)
+
+2 - The Vicar's Report by Rev Simon Kirby (41 minutes):
+- listen now: <audio src="{{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Vicar'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
+- [download audio file ]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Vicar'sReport.mp3"|replace:" ","%20"}} "'2015-02-26 APCM - Vicar'sReport.mp3' audio file.")
+- [Presentation Slides]({{"http://media.coggesparish.com/apcm/2015/2015-02-26 APCM - Simon'sPresentation.pdf"|replace:" ","%20"}} "Opens link to the '2015-02-26 APCM - Simon'sPresentation' pdf document." target="_blank") ![PDF](/images/pdficon_large.png)
+
+<br>
+<span>Updated 19th March 2015.</span>
