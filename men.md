@@ -9,12 +9,6 @@ contacts:
 published: true
 ---
 
-### Men’s Breakfast (and work party) 
-Saturday 7th March 8.30am - 11.30am
-![Bacon](/images/bacon.jpg)
-Join us for a bacon butty and a thought for the day. Wear your old clothes because at 9.30am we’re going to start playing with chainsaws, strimmers and other toys as we set about the Church yard and car park. Join us for as much of the morning as is possible. Please let the office know if you are going to attend the breakfast.
-
-
 ### Walking Weekend, May 2015
 ![Walking in the Black Mountains 2013](/images/black_mountains.jpg) A walking and camping weekend, often in the Brecon Beacons. The format is usually a curry on the Friday night, a big walk on the Saturday and a shorter walk on the Sunday interspersed with beer and food from the pub. Walks are typically 7, 11 or 15 miles with ascent and pace for different abilities.
 
