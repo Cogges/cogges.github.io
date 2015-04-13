@@ -27,6 +27,12 @@ Leader: Barbara Eaton.    Weekly (8pm-10pm).    Venue: Cogges Hill Road.
 
 ### Tuesday evening
 
+Our Connect group is a place where we gather to meet with God and one another, through worship, exploring the Bible and praying together. We want to listen to God and listen to one another. We are excited about developing our friendships, coming alongside one another in the highs and lows of everyday life and encouraging one another to explore what God has for each of us. This will be a starting point for sharing our lives in practical ways. Looking outwards, group meals and other social activities may be ways of sharing our life in God with others.   
+
+Leaders: Alan & Jill Elson  Fortnightly.  Venue: Woodstock Road
+
+### Tuesday evening
+
 The vision of  the group - apart from being concerned with mutual encouragement and support - is for the Madley Park Estate. This involves taking an interest in and praying for the people of the estate and the institutions on it (Madley Brook and Springfield Schools and Madley Park Care Home).
 
 Leader: Cyril Tennant.    Fortnightly, 7:30pm.    Venue: Madley Brook Lane.
