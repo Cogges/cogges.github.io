@@ -14,12 +14,12 @@ Do these kinds of questions bug you? Then the Alpha course is just for you.
 
 ### The Alpha course
 
-The Alpha course is for those with questions about Christianity, the meaning of life and everything. It starts with an Alpha Launch Party including music, food and a talk, and then runs over 8 to 10 weeks in smaller groups. We have daytime groups and evening groups meeting in a home, for food, talk and discussion. 
+The Alpha course is for those with questions about Christianity, the meaning of life and everything. It runs over 8 to 10 weeks in a small group. 
 
-Our current Alpha course starts with the Alpha Launch Party on Friday 12th September, 7.30pm in the Church. Invite friends/relatives/neighbours for a great evening with good food and good company. Plus it’s all Free!
+Our current Alpha course starts on Tuesday 5th May and meets at 7pm for food, talk and discussion.  It’s all Free!
 
 ### Find out more
-To register your interest for the next course or simply to request more information please contact St Mary’s Cogges church office by email 
+To register your interest for the course or simply to request more information please contact St Mary’s Cogges church office by email 
 (<a href="mailto:office@coggesparish.com?subject=Alpha">office@coggesparish.com</a>)
 or phone (01993 779613).
 
