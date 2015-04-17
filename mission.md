@@ -38,4 +38,4 @@ At Cogges we take seriously the call to be part of God’s world-wide church and
 ### Impacting us as a church 
 
 *Gasenyi, Burundi*
-We established a link with Gasenyi Parish back in 1996 and in 2015 formalised this link on the request of the Bishop there. Beginning with a prayer link, we are excited to see how this will develop in the future and how we can learn from one another.
+We established a link with Burundi back in 1996 and in 2014 formalised a link with Gasenyi Parish in the Diocese of Bujumbura on the request of the Bishop there. Beginning with a prayer link, we are excited to see how this will develop in the future and how we can learn from one another.
