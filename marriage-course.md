@@ -26,7 +26,7 @@ Marriage by Design is a one day course that gives you the opportunity to take so
     Dates: a Saturday in March or April 2016 (date TBC)
     Time: 9.30am – 4pm
     Venue: TBC
-    Cost: £35 per couple to include lunch
+    Cost: £35-40 per couple to include lunch
 
 [http://www.marriagebydesign.org.uk](http://www.marriagebydesign.org.uk)
 
