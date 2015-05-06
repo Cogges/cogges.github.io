@@ -17,6 +17,8 @@ Games, films, bonfire, seminars, craft, lots of eating, praying, talent night, l
 
 ### Booking
 
+> Day tickets now available. Purchase on our [Eventbrite site](http://www.eventbrite.com/e/cogges-weekend-away-tickets-3641901024).
+
 You will need to book an event ticket for each person in your party.
 This event is fully catered and all your meals will be included in the price of your stay. If you have any special dietary or mobility requirements please email the office. We've tried really hard to keep the costs as low as possible that includes ticket processing costs. That does mean that many of you will need to make multiple payments (but it will save you about £5!) All tickets must be purchased online, no offline purchases (sorry again).
 
@@ -56,7 +58,6 @@ These are single tickets, make repeat purchases if you need more than one.
 | [Cogges w/e 2015 - Event Ticket (only)           ](https://dashboard.gocardless.com/api/template_plans/0VG3CBD5ZW/paylink) |    37.00 | [Buy](https://dashboard.gocardless.com/api/template_plans/0VG3CBD5ZW/paylink)     |
 | [Cogges w/e 2015 - Pre-school Event Ticket (only)](https://dashboard.gocardless.com/api/template_plans/0VG3JQJ66G/paylink) |    15.00 | [Buy](https://dashboard.gocardless.com/api/template_plans/0VG3JQJ66G/paylink)     |
 |                                                                                                                            |       |     |
-
 
 ### Examples
 
