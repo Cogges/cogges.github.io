@@ -11,13 +11,13 @@ contacts:
   - Roger Howell
 published: true
 ---
- 
+
 ## Pursuit
+Friday **October 2nd** 6.00pm to Saturday **October 3rd** 6.00pm
+
+*Venue:* St Mary’s Church, Cogges – church open for 24 hours
+
 Each term there will be different opportunities to worship, seek God and pray together.
-
-*Venue:* St Mary’s Church, Cogges
-
-* Wednesday **May 6th**  8.00-9.30pm 
 
 *Contact:* Jane Holloway
 
@@ -30,9 +30,19 @@ Monday mornings, 8.30am-9.30am in term time.
 
 *Venue:* on request
 
-This is for any parents, grandparents or anyone with an interest in the school.  We pray God's blessing over the school, praying for all the staff and pupils and particularly those known to us.  We also pray about special events, trips and exams when we know these are taking place.
+This is for any parents, grandparents or anyone with an interest in the school. We pray God's blessing over the school, praying for all the staff and pupils and particularly those known to us. We also pray about special events, trips and exams when we know these are taking place.
 
 *Contact:* Judith Ledden
+
+
+### The Churches Together in Witney Prayer Breakfast
+
+4th Saturday in the month 8:00 Breakfast                   8:45 – 9:30 Prayer
+
+*Venue:* High Street Methodist Church
+
+[https://witneychurches.wordpress.com/](https://witneychurches.wordpress.com/)
+
 
 ### Prayer for Blake School
 Thursday mornings, 11.15am in term time
@@ -61,6 +71,14 @@ Friday mornings, 9.15am - 11am (generally) in term time.
 The time is spent in sharing what God has done, planning Besom events and activities and in prayer.  Everyone is welcome.
 
 *Contact:* contact@witneybesom.org or 07549 842789
+
+### Christians Against Poverty Prayer meeting 
+Every Wednesday, 9.00-9.30am
+
+*Venue*: Welcome Church
+
+*Contact:* Judith Ledden
+
 
 ### Adventure Plus
 *Venue:* (and times) on request
