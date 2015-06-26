@@ -859,3 +859,8 @@ audio, canvas, video {max-width:100%;}
 img[alt='PDF'] {
   width: auto;
 }
+
+.btn-danger {
+  background-color: #A61D45;
+  border-color: #A61D45;
+}
