@@ -8,9 +8,6 @@ published: true
 
 If you have newly moved to the Cogges area, or are not connected to any local church, you are warmly invited to join us at any of our Sunday services at St Mary's Church, Cogges.
 
-###Sunday 28th June. 
-This is the Sunday of the Church Weekend Away so there will not be a service in church at 10.30am nor in the evening but there will be services both at 8am and 9.15am that day.
-
 ###Summer Sundays.  
 From Sunday 26th July to the end of August each of the 6 Sundays will be a different format at 10.30am.  More details to follow.  The 8am services will continue as usual but there will not be any Sunday evening services during this time.
 
