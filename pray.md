@@ -13,9 +13,9 @@ published: true
 ---
 
 ## Pursuit
-Friday **October 2nd** 6.00pm to Saturday **October 3rd** 6.00pm
+Wednesday **September 2nd**, **January 6th**
 
-*Venue:* St Mary’s Church, Cogges – church open for 24 hours
+*Venue:* St Mary’s Church, Cogges 
 
 Each term there will be different opportunities to worship, seek God and pray together.
 
