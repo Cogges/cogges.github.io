@@ -20,7 +20,7 @@ Children's Church is for children, 0-11yrs, who meet on Sunday mornings at St Ma
 ###Cogglets
 Cogglets is a baby, toddler and carer group run by St Mary’s Church in Cogges. We welcome all children aged 0-5 years and their parents or carers. You will be welcomed with a fresh cup of coffee or tea and friendly face. At Cogglets, our focus is on the carer. We believe that if you are well cared for, the children you are caring for will be too. 
 
-[/cogglets.html](St Mary’s Cogglets) meets on Tuesdays from 1.15pm to 2.45pm during term time only. We meet at Cogges Church Centre on Church Lane OX29 3LA.
+[Cogglets](/cogglets.html) meets on Tuesdays from 1.15pm to 2.45pm during term time only. We meet at Cogges Church Centre on Church Lane OX29 3LA.
 
 ###X:site
 An event for all 7-11 year olds in the West Oxfordshire area. Every 2 months on a Saturday evening (6-8pm) usually held at St Mary's, Church Green, Witney.
