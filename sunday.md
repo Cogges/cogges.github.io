@@ -11,6 +11,28 @@ If you have newly moved to the Cogges area, or are not connected to any local ch
 ###Summer Sundays.  
 From Sunday 26th July to the end of August each of the 6 Sundays will be a different format at 10.30am.  More details to follow.  The 8am services will continue as usual but there will not be any Sunday evening services during this time.
 
+**8am Services** will continue as usual during this time but there will be no Evening Services.
+
+* 26th July         
+    * **9.15am** Morning Service
+    * **12.30pm** Connect BBQ’s and Picnics
+* 2nd August    
+    * **10.30am** Praying for our community. A short service followed by a
+prayer walk around Witney
+* 9th August      
+    * **10.30am** Church at the Farm. Come along to the farm for an informal
+service & treasure hunt.
+* 16th August 
+    * **9.15am** Thanksgiving Service
+    * **10.30am** Skip & Pick. We will be tidying the area around the church
+with a skip available to de-clutter.
+* 23rd August    
+    * **10.30am** Prayer Sunday. An opportunity to pray in different ways in
+the church.
+* 30th August
+    * **10.30am**  Mission – Life beyond the Lychgate. A celebratory service to
+hear about the many ways we are looking out to our world at Cogges. This will be held in the church.
+
 ### 8.00am Holy Communion
 This is a reflective service of Holy Communion following the Book of Common Prayer. There is a short sermon but no hymns. On the first Sunday each month, the service is followed by "Coffee and Croissants" in the Church Centre.
 
