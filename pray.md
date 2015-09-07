@@ -81,7 +81,7 @@ published: true
 Contact: 
 
 
-## CHRISTIANS AGAINST POVERTY (CAP) PRAYER MEETING
+### CHRISTIANS AGAINST POVERTY (CAP) PRAYER MEETING
 
 - *Venue:* Welcome Church
 - *Dates*: Wednesdays
@@ -89,14 +89,14 @@ Contact: 
 - *Contact:* Judith Ledden
 
 
-## ADVENTURE PLUS
+### ADVENTURE PLUS
 
 - *Venue:* (and times) on request
 - *Contact:* Mari Graves
 - *Details:* We pray for the day to day work and the plans for the Adventure Base. It is open to all comers and we would be thrilled if anyone else would like to join in regularly or on a one off basis.
 
 
-## THE CHURCHES TOGETHER IN WITNEY PRAYER BREAKFAST
+### THE CHURCHES TOGETHER IN WITNEY PRAYER BREAKFAST
 
 - *Venue:* High Street Methodist Church
 - *Dates*: 4th Saturday in the month
