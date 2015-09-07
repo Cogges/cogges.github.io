@@ -147,7 +147,9 @@ section {
   margin-top: 1em;
 }
 
-
+em {
+  font-weight: 700;
+}
 
 iframe {
   margin-top: 1em;
