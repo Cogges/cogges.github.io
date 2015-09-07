@@ -78,8 +78,6 @@ published: true
 - *Time:* 9.15am - 11am
 - *Contact:* contact@witneybesom.org    or 07549 842789
 - *Details:* The time is spent in sharing what God has done, planning Besom events and activities and in prayer. Everyone is welcome.
-Contact: 
-
 
 ### CHRISTIANS AGAINST POVERTY (CAP) PRAYER MEETING
 
