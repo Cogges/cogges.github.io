@@ -4,6 +4,11 @@ title: "Prayer"
 group: engage
 contacts:
   - Jane Holloway
+  - Jane Harper
+  - Roger Howell
+  - Judith Ledden
+  - Ali Laithwaite
+  - Mari Graves
 published: true
 ---
 
@@ -18,7 +23,7 @@ published: true
 
 - *Venue:* St Mary’s Cogges 
 - *Time:* 10.00-11.00 
-- *Contact:* Jane Harper
+- *Contact:* Jane Harper 
 - *Details:* Join the Thursday group as they pray for individuals, church and wider community followed by coffee, biscuits and chat for half an hour or so.
 
 ### THEMED PRAYER EVENINGS @ St MARY’S COGGES 
@@ -36,7 +41,7 @@ published: true
 - *Venue:* St Mary’s Cogges 
 - *Dates*: Wednesday  7th October
 - *Time:* 8.00-9.30pm
-- *Contact:* Roger Howell
+- *Contact:* Roger Howell 
 - *Details:* This is to pray for the plight of Christians as we cover up-to-the-minute needs, and pray for the agencies which seek to bring help and support to our brothers and sisters in Christ.  
 
 #### PRAYER FOR OUR MISSION PARTNERS  
