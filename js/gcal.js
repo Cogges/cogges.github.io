@@ -46,7 +46,7 @@ function formatGCalTime(gCalTime) {
         var corrMins = consume('\\d{2}');
         totalCorrMins = (corrPlusMinus=='-' ? 1 : -1) *
             (Number(corrHours) * 60 +
-	    (corrMins=='' ? 0 : Number(corrMins)));
+      (corrMins=='' ? 0 : Number(corrMins)));
       }
     }
 
@@ -62,9 +62,9 @@ function formatGCalTime(gCalTime) {
     // this converts it to MM/DD hh:mm (AM|PM)
     dateString = (ld.getMonth() + 1) + '/' + ld.getDate() + ' ' +
         ((ld.getHours()>12)?(ld.getHours()-12):(ld.getHours()===0?12:
-	ld.getHours())) + ':' + ((ld.getMinutes()<10)?('0' +
-	ld.getMinutes()):(ld.getMinutes())) + ' ' +
-	((ld.getHours()>=12)?'PM':'AM');
+  ld.getHours())) + ':' + ((ld.getMinutes()<10)?('0' +
+  ld.getMinutes()):(ld.getMinutes())) + ' ' +
+  ((ld.getHours()>=12)?'PM':'AM');
   } else {
     // if only a DATE was matched
     dateString =  parseInt(month, 10) + '/' + parseInt(dateMonth, 10);
@@ -78,8 +78,7 @@ function formatGCalTime(gCalTime) {
  * @param {json} root is the root JSON-formatted content from GData
  * @param {string} divId is the div in which the events are added
  */
-function listEvents(root, divId) {
-  var feed = root.feed;
+function listEvents(feed, divId) {
   var events = document.getElementById(divId);
 
   //if (events.childNodes.length > 0) {
@@ -92,13 +91,20 @@ function listEvents(root, divId) {
     "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ];
 
   // loop through each event in the feed
-  for (var i = 0; i < feed.entry.length; i++) {
-    var entry = feed.entry[i];
+  for (var i = 0; i < feed.items.length; i++) {
+    var entry = feed.items[i];
     //console.log(entry);
-    var title = entry.title.$t;
-    var body = entry.content.$t;
-    var where = entry['gd$where'][0].valueString;
-    var start = entry['gd$when'][0].startTime;
+    var title = entry.summary;
+    if (title === undefined) {
+      continue;
+    }
+    var body = entry.description;
+    var where = entry.location;
+    if (where === undefined) {
+      where = "";
+    }
+
+    var start = entry.start.dateTime;
     var series = false;
 
     if (title.search('Funeral') != -1) {
@@ -109,24 +115,23 @@ function listEvents(root, divId) {
       continue;
     }
 
-    if (entry['gCal$sequence'].value > 0) {
+    if (entry.sequence > 0) {
       series = true;
     }
 
 
     // get the URL to link to the event
-    for (var linki = 0; linki < entry['link'].length; linki++) {
-      if (entry['link'][linki]['type'] == 'text/html' &&
-          entry['link'][linki]['rel'] == 'alternate') {
-        var entryLinkHref = entry['link'][linki]['href'];
-      }
-    }
+    // for (var linki = 0; linki < entry['link'].length; linki++) {
+    //   if (entry['link'][linki]['type'] == 'text/html' &&
+    //       entry['link'][linki]['rel'] == 'alternate') {
+    //     var entryLinkHref = entry['link'][linki]['href'];
+    //   }
+    // }
 
     var dateString = formatGCalTime(start);
 
     var monthString = monthNames[parseInt(start.substr(5,2),10)];
     var dayString = start.substr(8,2);
-
 
     var daySpan = document.createElement('span');
     daySpan.setAttribute('class', "day");
@@ -172,10 +177,9 @@ function listEvents(root, divId) {
     li.appendChild(dateDiv);
     li.appendChild(eventDiv);
 
-
-
     // append the list item onto the unordered list
     ul.appendChild(li);
+
   }
   events.appendChild(ul);
 }
