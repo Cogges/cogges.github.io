@@ -2,7 +2,7 @@
 layout: page
 title: "Cogglets"
 group: "connect"
-contacts: ["Catherine White", "Maddy Crossley"]
+contacts: ["Catherine White"]
 ---
 
 ## Who we are

@@ -2,7 +2,7 @@
 layout: page
 title:  "Children"
 group: "engage"
-contacts: ["Maddy Crossley", "Kirsty Morgan", "Catherine White"]
+contacts: ["Kirsty Morgan", "Catherine White"]
 ---
 
 
