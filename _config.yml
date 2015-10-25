@@ -1,2 +1,3 @@
 name: "St Mary's Cogges"
 markdown: kramdown
+exclude: ['_archive']

@@ -4,53 +4,30 @@ title:  "Events"
 group: "engage"
 ---
 
-<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23cccccc&amp;src=calendar%40coggesparish.com&amp;color=%235229A3&amp;src=events%40coggesparish.com&amp;color=%23B1440E&amp;src=small-groups%40coggesparish.com&amp;color=%2328754E&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="900" height="600" frameborder="0" scrolling="no"></iframe>
-<!--
+<div class="row">
 
-The API we use to pull events was deprecated on the 17th of Nov
-see https://developers.google.com/google-apps/calendar/v2/developers_guide_protocol
-turning off until a replacement can be written - jwebster
+    <div class="col-md-12">
 
-<script type="text/javascript" src="/js/gcal.js"></script>
+		<div class="row-fluid">
+			<div class="col-md-6 left_col">
+				<div id="events-block">
+					<h2 class="events">Services</h2>
+					<div class="calendar" id="calendar-list"></div>
+				</div>
+			</div>
 
-<div class="row-fluid">
-	<div class="span5 left_col">
-		<div id="events-block">
-			<h2 class="events">Services</h2>
-			<div class="calendar" id="calendar-list"></div>
+
+			<div class="col-md-6 right_col">
+				<div id="social-events-block">
+					<h2 class="events">Events</h2>
+					<div class="calendar" id="social-calendar-list"></div>
+				</div>
+			</div>
 		</div>
-	</div>
 
-
-	<div class="span5 right_col">
-		<div id="social-events-block">
-			<h2 class="events">Events</h2>
-			<div class="calendar" id="social-calendar-list"></div>
-		</div>
 	</div>
+	See all future and past events with the <a href="/calendar.html">Full Calendar</a>.
 </div>
 
-See all future and past events with the <a href="/calendar.html">Full Calendar</a>.
-
-
-<script type="text/javascript">
-	/**
-	 * Callback function for the GData json-in-script call
-	 * Inserts the supplied list of events into a div of a pre-defined name
-	 *
-	 * @param {json} root is the JSON-formatted content from GData
-	 */
-	function insertAgenda(root) {
-	  listEvents(root, 'calendar-list');
-	}
-
-	function insertSocial(root) {
-	  listEvents(root, 'social-calendar-list');
-	}
-
-</script>
-<script type="text/javascript" src="http://www.google.com/calendar/feeds/calendar@coggesparish.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=15&singleevents=true&sortorder=ascending&futureevents=true"></script>
-
-<script type="text/javascript" src="http://www.google.com/calendar/feeds/events@coggesparish.com/public/full?alt=json-in-script&callback=insertSocial&orderby=starttime&max-results=15&singleevents=true&sortorder=ascending&futureevents=true"></script>
-
--->
+<script type="text/javascript" src="/js/gcal.js"></script>
+<script src="https://apis.google.com/js/client.js?onload=handleClientLoad"></script>

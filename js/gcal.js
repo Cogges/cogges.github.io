@@ -99,6 +99,10 @@ function listEvents(feed, divId) {
       continue;
     }
     var body = entry.description;
+    if (body === undefined) {
+      body = "";
+    }
+
     var where = entry.location;
     if (where === undefined) {
       where = "";
@@ -184,5 +188,61 @@ function listEvents(feed, divId) {
   events.appendChild(ul);
 }
 
+// date functions
+Date.prototype.getWeek = function(start)  {
+  start = start || 0;
+  var today = new Date(this.setHours(0, 0, 0, 0));
+  var day = today.getDay() - start;
+  var date = today.getDate() - day;
+
+  var StartDate = new Date(today.setDate(date));
+  var EndDate = new Date(today.setDate(date + 6));
+  return [StartDate, EndDate];
+}
+// set Dates to the start & end days of the week
+var Dates = new Date().getWeek();
+
+// calculate today's date
+var today = new Date();
+today = today.toISOString();
+
+// google api console clientID and apiKey (https://code.google.com/apis/console/#project:568391772772)
+var clientId = 'cogges-calendar';
+var apiKey = 'AIzaSyBlJ5ZHc1aK-62XBGx_7ZR5_azI_xF9C2E';
+
+// enter the scope of current project (this API must be turned on in the google console)
+var scopes = 'https://www.googleapis.com/auth/calendar.readonly';
+
+
+function handleClientLoad() {
+  gapi.client.setApiKey(apiKey);
+  makeApiCall('calendar@coggesparish.com', 'calendar-list');
+  makeApiCall('events@coggesparish.com', 'social-calendar-list');
+}
+
+// function load the calendar api and make the api call
+function makeApiCall(calendar_id, list_id) {
+  gapi.client.load('calendar', 'v3', function() {       // load the calendar api (version 3)
+    var request = gapi.client.calendar.events.list({
+      'calendarId': calendar_id,
+      'maxResults': 20,                 // show max of 20 events
+      'singleEvents': true,               // split recurring events into individual events
+      'timeMin':    today,                // start showing events starting at today
+      'orderBy':    'startTime'             // order events by their start time
+    });
+
+    // handle the response from our api call
+    request.execute(function(resp) {
+      // for (var i = 0; i < resp.items.length; i++) {    // loop through events and write them out to a list
+      //  var li = document.createElement('li');
+      //  console.log(resp.items[i]);
+      //  var eventInfo = resp.items[i].summary + ' ' +resp.items[i].start.dateTime;
+      //  li.appendChild(document.createTextNode(eventInfo));
+      //  document.getElementById('events').appendChild(li);
+      // }
+      listEvents(resp, list_id);
+    });
+  });
+}
 
 //-->
