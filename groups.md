@@ -39,9 +39,9 @@ Leader: Cyril Tennant.    Fortnightly, 7:30pm.    Venue: Madley Brook Lane.
 
 ### Tuesday evening
 
-We would be pleased to welcome new members to our group to study the bible with reference to the sermon series or follow a book of the bible or a theme and we have a time of prayer for each other's needs. We hope to have a social event each term.
+We are a friendly, relaxed and welcoming group whose aim is to help each other put God's word into practice.  We have an informal mix of catching up over coffee and cake, reading the Bible together and praying for whatever needs arise -- lots of lively discussion and a light touch.
 
-Leader: Gill Curwood.    Weeks 1, 3, 4 & 5.  Venue: Newland Mill
+Leaders: Malcolm & Jane Harper.    Weeks 1, 2, 4 & 5.  Venue: usually Gloucester Place.
 
 ### Tuesday evening
 
