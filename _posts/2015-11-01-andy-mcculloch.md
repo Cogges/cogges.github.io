@@ -1,6 +1,6 @@
 ---
 layout: sermon
-series: "Book of James"
+series: "James"
 title: "Submission & Humility."
 date: "2015-11-01 10:30:00"
 audio: "http://media.coggesparish.com/sermons/2015-11-01 Andy McCulloch.mp3"
