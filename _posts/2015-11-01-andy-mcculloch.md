@@ -5,7 +5,7 @@ title: "Submission & Humility."
 date: "2015-11-01 10:30:00"
 audio: "http://media.coggesparish.com/sermons/2015-11-01 Andy McCulloch.mp3"
 speaker: "Andy McCulloch"
-speaker_info: ""
+speaker_info: "Andy joined the Cogges Staff Team as Operations Director this September"
 duration: "20"
 youtube_videos: [""]
 vimeo_videos: [""]
