@@ -12,7 +12,7 @@ vimeo_videos: [""]
 slides: [""]
 files: [""]
 bible_passages: ["James 5:1-12"]
-bible_links: [""]
+bible_links: ["James 5:1-12&amp;version=NIVUK"]
 bible_videos: [""]
 bible_videos_links: [""]
 category: "sermon"
