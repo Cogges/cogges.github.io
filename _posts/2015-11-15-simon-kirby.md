@@ -1,6 +1,6 @@
 ---
 layout: sermon
-series: ""
+series: "James"
 title: "Seize the Season"
 date: "2016-11-15 10:30:00"
 audio: "http://media.coggesparish.com/sermons/2015-11-15 Simon Kirby.mp3"
