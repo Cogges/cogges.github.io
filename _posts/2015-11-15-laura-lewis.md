@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: ""
+title: "Hearing the Cries"
 date: "2015-11-15 18:30:00"
 audio: "http://media.coggesparish.com/sermons/2015-11-15 Laura Lewis.mp3"
 speaker: "Laura Lewis"
