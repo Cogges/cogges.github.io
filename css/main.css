@@ -411,14 +411,14 @@ ul > li.sermon-short {
 nav.main {
 	border-left: 6px solid #A1B087;
 	border-right: 6px solid #A1B087;
-	width: intrinsic;
+/*	width: intrinsic;*/
 	margin-bottom: 60px;
   	height: 40px;
 }
 
 nav.main ul {
 	margin: 0 0 0 0;
-	width: intrinsic;
+	/*width: intrinsic;*/
 }
 
 nav.main li {
