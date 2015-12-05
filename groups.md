@@ -115,3 +115,7 @@ Leaders: Tim & Abi Partridge.  Weekly (8pm).
 We are an ecumenical women's group currently ranging in age from 30 - 70+.  Our first aim is to support each other in our Christian walk through Bible Study, Prayer and Fellowship.  Our secondary aim is to pray for Witney, in whatever way God lays on our hearts.  Women of all ages are welcome and will find a supportive environment where they can safely share their concerns and joys with other women who will pray with them and for them. We are a group who will hold each other accountable as well encourage each other as we are shaped into Christ's image.
 
 Leaders: Jen Fox and Melanie Keyworth.    Weekly.
+
+### Thursday evening - Youth Connect Group
+
+[Youth](/youth.html) Connect Group Years 10-12, meet at the church center on Thursdays from 7-9 pm.

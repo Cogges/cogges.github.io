@@ -2,23 +2,18 @@
 layout: page
 title:  "Youth"
 group: "engage"
-contacts: ["Mel Sayles", "Ali Laithwaite"]
+contacts: ["Heidi Mäki-Patola"]
 ---
 
-### Home Groups
+### Youth Connect Group
 
-* For young people in year 9:
-* For young people in year 11:
-* For young people aged 18+: Ali Laithwaite 01993 773615
+Youth Connect Group Years 10-12, meet at the church center on Thursdays from 7-9 pm.
 
-### CYFA
-CYFA is for young people aged 14+ who meet on Sundays evenings for food and discussion, and monthly on Sunday afternoons for extra fun. Contact Anthony or Mel Sayles.
+### Sunday's
 
-### Sundays
+Sunday Pathfinders Years 7-9+ join worship at church or help children's church from 10.30-11 am and then meet from 11-11.50 a.m for games/sports at the Witney Hub Sports hall, snacks and a chat.
 
-|         |         |                        |                                                 |
-| ------- | ------- | ---------------------- | ----------------------------------------------- |
-| 11.30am | 12.30pm | Pathfinder Bible class | every Sunday except Family Service (3rd Sunday) |
-| 6.00pm  | 7.30pm  | Pathfinders JAM Club   | every Sunday                                    |
-| 6.30pm  | 8.30pm  | Pathfinders Home Cell  | every 1st & last Sunday of the month            |
-| 7.30pm  | 9.30pm  | Pathfinders Home Cell  | at the Sayles every Sunday                      |
+
+### Friday's: 
+
+Friday Chill 6.30-9.30 at the church center. Years 7-9 from 6.30-8.00 and years 10-12 from 7.30-9.30. Friday Chill is a relaxed place to kick off to the weekend, meet with friends, have fun! Open for every one, bring your friends along!
