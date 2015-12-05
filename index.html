@@ -30,12 +30,15 @@ vimeo_video_id:
 
 
     <h2 class="homepage"></h2>
+    
 
+    <div class="list-group events" id="upcoming-services">
+      <!-- Do not edit - loaded by javascript from calendar -->
+    </div>
 
     <div class="list-group events" id="upcoming-events">
       <!-- Do not edit - loaded by javascript from calendar -->
     </div>
-
 
     <div class="list-group sermons">
       <span class="list-group-item list-group-item-header">Latest Sermons:</span>
@@ -61,7 +64,8 @@ vimeo_video_id:
 <script type="text/javascript">
   function getCalendarEvents() {
     gapi.client.setApiKey('AIzaSyBlJ5ZHc1aK-62XBGx_7ZR5_azI_xF9C2E');
-    makeApiCall(listElementEvents, 'events@coggesparish.com', 'upcoming-events', 5);
+    makeApiCall(listElementEvents, 'events@coggesparish.com', 'upcoming-events', 'Upcoming Events', 100, '*');
+    makeApiCall(listElementEvents, 'calendar@coggesparish.com', 'upcoming-services', 'Upcoming Services', 100, '*');
   }
 </script>
 <script src="https://apis.google.com/js/client.js?onload=getCalendarEvents"></script>

@@ -1,4 +1,34 @@
 <!--
+
+/**
+ * A utility function to find all URLs - FTP, HTTP(S) and Email - in a text string
+ * and return them in an array.  Note, the URLs returned are exactly as found in the text.
+ * 
+ * @param text
+ *            the text to be searched.
+ * @return an array of URLs.
+ */
+function findUrls( text )
+{
+    var source = (text || '').toString();
+    var urlArray = [];
+    var url;
+    var matchArray;
+
+    // Regular expression to find FTP, HTTP(S) and email URLs.
+    var regexToken = /(((ftp|https?):\/\/)[\-\w@:%_\+.~#?,&\/\/=]+)|((mailto:)?[_.\w-]+@([\w][\w\-]+\.)+[a-zA-Z]{2,3})/g;
+
+    // Iterate through any URLs in the text.
+    while( (matchArray = regexToken.exec( source )) !== null )
+    {
+        var token = matchArray[0];
+        urlArray.push( token );
+    }
+
+    return urlArray;
+}
+
+
 /**
  * Converts an xs:date or xs:dateTime formatted string into the local timezone
  * and outputs a human-readable form of this date or date/time.
@@ -93,7 +123,7 @@ function listEvents(feed, divId) {
   // loop through each event in the feed
   for (var i = 0; i < feed.items.length; i++) {
     var entry = feed.items[i];
-    //console.log(entry);
+
     var title = entry.summary;
     if (title === undefined) {
       continue;
@@ -101,6 +131,13 @@ function listEvents(feed, divId) {
     var body = entry.description;
     if (body === undefined) {
       body = "";
+    }
+
+    var link = "";
+    
+    var link = findUrls(body).pop()
+    if (link === undefined) {
+      link = "";
     }
 
     var where = entry.location;
@@ -124,13 +161,6 @@ function listEvents(feed, divId) {
     }
 
 
-    // get the URL to link to the event
-    // for (var linki = 0; linki < entry['link'].length; linki++) {
-    //   if (entry['link'][linki]['type'] == 'text/html' &&
-    //       entry['link'][linki]['rel'] == 'alternate') {
-    //     var entryLinkHref = entry['link'][linki]['href'];
-    //   }
-    // }
 
     var dateString = formatGCalTime(start);
 
@@ -166,6 +196,7 @@ function listEvents(feed, divId) {
     var contentSpan = document.createElement('span');
     contentSpan.setAttribute('class', "event-content");
     contentSpan.appendChild(document.createTextNode(body));
+    contentSpan.appendChild(document.createTextNode(link));
 
     var whereSpan = document.createElement('span');
     whereSpan.setAttribute('class', "event-where");
@@ -193,17 +224,18 @@ function listEvents(feed, divId) {
  *
  * @param {json} root is the root JSON-formatted content from GData
  * @param {string} divId is the div in which the events are added
+ * @param {string} listTitle 
  * @param {string} startswith is typically a character e.g. '*' used to prefix and event, when set only these events are shown
  *
  * ToDo - refactor when 5 minutes spare
  *
  */
-function listElementEvents(feed, divId, startswith) {
+function listElementEvents(feed, divId, listTitle, startswith) {
   var events = document.getElementById(divId);
 
   var header = document.createElement('span');
   header.setAttribute('class', "list-group-item list-group-item-header");
-  header.appendChild(document.createTextNode("Upcoming Events"));
+  header.appendChild(document.createTextNode(listTitle));
   events.appendChild(header);
 
   var monthNames = [ "", "Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -308,7 +340,7 @@ var clientId = 'cogges-calendar';
 var scopes = 'https://www.googleapis.com/auth/calendar.readonly';
 
 // function load the calendar api and make the api call
-function makeApiCall(render, calendar_id, list_id, max_results, startswith) {
+function makeApiCall(render, calendar_id, list_id, listTitle, max_results, startswith) {
   gapi.client.load('calendar', 'v3', function() {       // load the calendar api (version 3)
     var request = gapi.client.calendar.events.list({
       'calendarId': calendar_id,
@@ -320,7 +352,7 @@ function makeApiCall(render, calendar_id, list_id, max_results, startswith) {
 
     // handle the response from our api call
     request.execute(function(resp) {
-      render(resp, list_id, startswith);
+      render(resp, list_id, listTitle, startswith);
     });
   });
 }
