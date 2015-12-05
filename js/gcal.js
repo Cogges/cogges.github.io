@@ -193,11 +193,12 @@ function listEvents(feed, divId) {
  *
  * @param {json} root is the root JSON-formatted content from GData
  * @param {string} divId is the div in which the events are added
+ * @param {string} startswith is typically a character e.g. '*' used to prefix and event, when set only these events are shown
  *
  * ToDo - refactor when 5 minutes spare
  *
  */
-function listElementEvents(feed, divId) {
+function listElementEvents(feed, divId, startswith) {
   var events = document.getElementById(divId);
 
   var header = document.createElement('span');
@@ -210,7 +211,9 @@ function listElementEvents(feed, divId) {
 
   // loop through each event in the feed
   for (var i = 0; i < feed.items.length; i++) {
+
     var entry = feed.items[i];
+    
     var title = entry.summary;
     if (title === undefined) {
       continue;
@@ -227,6 +230,14 @@ function listElementEvents(feed, divId) {
 
     var start = entry.start.dateTime;
     var series = false;
+
+    if (startswith) {
+      if (title.startsWith(startswith)) {
+        title = title.slice(startswith.length);
+      } else {
+        continue;  
+      }
+    }
 
     if (title.search('Funeral') != -1) {
       continue;
@@ -297,7 +308,7 @@ var clientId = 'cogges-calendar';
 var scopes = 'https://www.googleapis.com/auth/calendar.readonly';
 
 // function load the calendar api and make the api call
-function makeApiCall(render, calendar_id, list_id, max_results) {
+function makeApiCall(render, calendar_id, list_id, max_results, startswith) {
   gapi.client.load('calendar', 'v3', function() {       // load the calendar api (version 3)
     var request = gapi.client.calendar.events.list({
       'calendarId': calendar_id,
@@ -309,7 +320,7 @@ function makeApiCall(render, calendar_id, list_id, max_results) {
 
     // handle the response from our api call
     request.execute(function(resp) {
-      render(resp, list_id);
+      render(resp, list_id, startswith);
     });
   });
 }
