@@ -33,8 +33,8 @@ group: "engage"
 <script type="text/javascript">
 	function getCalendarEvents() {
 	  gapi.client.setApiKey('AIzaSyBlJ5ZHc1aK-62XBGx_7ZR5_azI_xF9C2E');
-	  makeApiCall(listEvents, 'calendar@coggesparish.com', 'calendar-list', "", 20);
-	  makeApiCall(listEvents, 'events@coggesparish.com', 'social-calendar-list', "", 20);
+	  makeApiCall(listEvents, 'calendar@coggesparish.com', 'calendar-list', "", 20, "*");
+	  makeApiCall(listEvents, 'events@coggesparish.com', 'social-calendar-list', "", 20, "*");
 	}
 </script>
 <script src="https://apis.google.com/js/client.js?onload=getCalendarEvents"></script>

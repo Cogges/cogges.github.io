@@ -108,7 +108,7 @@ function formatGCalTime(gCalTime) {
  * @param {json} root is the root JSON-formatted content from GData
  * @param {string} divId is the div in which the events are added
  */
-function listEvents(feed, divId) {
+function listEvents(feed, divId, listTitle, startswith) {
   var events = document.getElementById(divId);
 
   //if (events.childNodes.length > 0) {
@@ -128,13 +128,18 @@ function listEvents(feed, divId) {
     if (title === undefined) {
       continue;
     }
+
+    if (startswith) {
+      if (title.startsWith(startswith)) {
+        title = title.slice(startswith.length);
+      }
+    }
+
     var body = entry.description;
     if (body === undefined) {
       body = "";
     }
-
-    var link = "";
-    
+   
     var link = findUrls(body).pop()
     if (link === undefined) {
       link = "";
@@ -191,12 +196,21 @@ function listEvents(feed, divId) {
 
     var titleSpan = document.createElement('span');
     titleSpan.setAttribute('class', "title");
-    titleSpan.appendChild(document.createTextNode(title));
+    titleSpan.appendChild(document.createTextNode(title + " "));
+
+
+    var atag = document.createElement('a');
+    if (link != "") {
+      atag.setAttribute('href', link);
+      var icon = document.createElement('i');
+      icon.setAttribute('class', 'fa fa-external-link-square');
+      atag.appendChild(icon);
+      titleSpan.appendChild(atag);
+    }
 
     var contentSpan = document.createElement('span');
     contentSpan.setAttribute('class', "event-content");
-    contentSpan.appendChild(document.createTextNode(body));
-    contentSpan.appendChild(document.createTextNode(link));
+    contentSpan.appendChild(document.createTextNode(body));    
 
     var whereSpan = document.createElement('span');
     whereSpan.setAttribute('class', "event-where");
@@ -207,6 +221,7 @@ function listEvents(feed, divId) {
     eventDiv.appendChild(titleSpan);
     eventDiv.appendChild(contentSpan);
     eventDiv.appendChild(whereSpan);
+    
 
     var li = document.createElement('li');
     li.appendChild(dateDiv);
@@ -255,6 +270,11 @@ function listElementEvents(feed, divId, listTitle, startswith) {
       body = "";
     }
 
+    var link = findUrls(body).pop()
+    if (link === undefined) {
+      link = "";
+    }
+
     var where = entry.location;
     if (where === undefined) {
       where = "";
@@ -300,8 +320,18 @@ function listElementEvents(feed, divId, listTitle, startswith) {
 
     var atag = document.createElement('a');
     atag.setAttribute('class', "list-group-item");
-    atag.setAttribute('href', "./events.html");
-    atag.appendChild(document.createTextNode(title));
+    if (link != "") {
+      atag.setAttribute('href', link);
+      var icon = document.createElement('i');
+      icon.setAttribute('class', 'fa fa-external-link-square');
+      var linkText = document.createTextNode(title + ' ');    
+      atag.appendChild(linkText);
+      atag.appendChild(icon);
+    } else {
+      atag.setAttribute('href', "./events.html");
+      atag.appendChild(document.createTextNode(title));
+    }
+    
     atag.appendChild(dateSpan);
 
     events.appendChild(atag);
