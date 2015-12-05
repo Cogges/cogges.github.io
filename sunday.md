@@ -15,7 +15,7 @@ This is a reflective service of Holy Communion following the Book of Common Pray
 The first Sunday of each month at 9.15 Holy Communion will be celebrated.  On the third Sunday at 9.15am we will continue to have the service which incorporates Baptisms or Thanksgivings and the other Sundays will be times of morning worship – all with sung worship. The 9.15am service will be shorter than the 10.30am and more reflective.
 
 ### 10.30am Morning Worship
-This Service includes a mixture of modern and traditional music, scripture readings, preaching and prayer. Children’s and Youth Church for children (0-14) meets in the Church Centre throughout the service and begins with a time of free play. Holy Communion is celebrated on the second Sunday of the month. Tea and coffee, served in the Church Centre after the service, provide an opportunity to get to know people.
+This Service includes contemporary music, bible readings, teaching and prayer. Children’s and Youth Church for children (0-14) meets in the Church Centre throughout the service and begins with a time of free play. Holy Communion is celebrated on the second Sunday of the month. Tea and coffee, served in the Church Centre after the service, provide an opportunity to get to know people.
 
 ### 6.30pm Evening Service
 The Evening Service includes an extended time of informal worship, teaching and an opportunity to receive prayer.   
