@@ -250,7 +250,7 @@ function listElementEvents(feed, divId, listTitle, startswith) {
 
   var header = document.createElement('span');
   header.setAttribute('class', "list-group-item list-group-item-header");
-  header.appendChild(document.createTextNode(listTitle));
+  header.appendChild(document.createTextNode("Upcoming " + listTitle));
   events.appendChild(header);
 
   var monthNames = [ "", "Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -342,7 +342,7 @@ function listElementEvents(feed, divId, listTitle, startswith) {
   footer.setAttribute('href', "./events.html");
   var linkSpan = document.createElement('span');
   linkSpan.setAttribute('class', "pull-right");
-  linkSpan.appendChild(document.createTextNode("full list of events"));
+  linkSpan.appendChild(document.createTextNode("full list of "+listTitle.toLowerCase()));
   footer.appendChild(linkSpan);
   events.appendChild(footer);
 }
