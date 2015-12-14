@@ -9,7 +9,7 @@ speaker_info: ""
 duration: "33.52"
 youtube_videos: [""]
 vimeo_videos: [""]
-slides: ["http://media.coggesparish.com/sermons/2014-05-11 Paul Lewis.pdf"]
+slides: [""]
 files: [""]
 bible_passages: [""]
 bible_links: [""]
