@@ -9,7 +9,7 @@ speaker_info: ""
 duration: "11.10"
 youtube_videos: [""]
 vimeo_videos: [""]
-slides: ["http://media.coggesparish.com/sermons/2015-12-13 Rich White.pdf"]
+slides: [""]
 files: [""]
 bible_passages: ["Luke 3:7-18"]
 bible_links: ["Luke 3:7-18-20&amp;version=NIVUK"]
