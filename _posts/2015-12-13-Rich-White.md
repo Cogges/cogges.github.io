@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: "Restoration of Israel’s Remnant"
+title: "God of Justice and Mercy"
 date: "2015-12-13 10:30:00"
 audio: "http://media.coggesparish.com/sermons/2015-12-13 Rich White.mp3"
 speaker: "Rich White"
