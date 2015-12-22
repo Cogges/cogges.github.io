@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: "Carol Service Sermon"
+title: "Morning Carol Service Sermon"
 date: "2015-12-20 17:30:00"
 audio: "http://media.coggesparish.com/sermons/2015-12-20 Simon Kirby.mp3"
 speaker: "Simon Kirby"
