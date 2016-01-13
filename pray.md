@@ -11,7 +11,7 @@ contacts:
 published: true
 ---
 
-# Prayer Opportunities Spring 2016
+# Opportunities Spring 2016
 
 ### WEEKLY ON THURSDAY MORNINGS
 
