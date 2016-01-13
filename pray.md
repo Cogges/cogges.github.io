@@ -5,14 +5,13 @@ group: engage
 contacts:
   - Jane Holloway
   - Jane Harper
-  - Roger Howell
   - Judith Ledden
   - Ali Laithwaite
   - Mari Graves
 published: true
 ---
 
-# Autumn 2015
+# Prayer Opportunities Spring 2016
 
 ### WEEKLY ON THURSDAY MORNINGS
 
@@ -26,39 +25,15 @@ published: true
 - *Contact:* Jane Harper 
 - *Details:* Join the Thursday group as they pray for individuals, church and wider community followed by coffee, biscuits and chat for half an hour or so.
 
-### THEMED PRAYER EVENINGS @ St MARY’S COGGES 
+### First Wednesday Evenings ‘The Prayer Well’ 
 
-#### WE ♥ YOU-TH!  
+An opportunity to meet every month on the first Wednesday of each month in the home of a congregation member.
 
-- *Venue:* St Mary’s Cogges 
-- *Dates*: Tuesdays 29th September and 24th November 
+- *Venue:* on request
+- *Dates*: Wednesday 2nd February; Wednesday 1st March 2016
 - *Time:* 8.00-9.30pm
-- *Contact:* Jenni Davies jennid2512@gmail.com
-- *Details:* This is to pray for the young people of Witney.   
-
-#### PRAYER FOR THE PERSECUTED CHURCH 8.00-9.30pm 
-
-- *Venue:* St Mary’s Cogges 
-- *Dates*: Wednesday  7th October
-- *Time:* 8.00-9.30pm
-- *Contact:* Roger Howell 
-- *Details:* This is to pray for the plight of Christians as we cover up-to-the-minute needs, and pray for the agencies which seek to bring help and support to our brothers and sisters in Christ.  
-
-#### PRAYER FOR OUR MISSION PARTNERS  
- 
-- *Venue:* St Mary’s Cogges 
-- *Dates*: Wednesday 4th November
-- *Time:* 8.00-9.30pm
-- *Contact:* Nadine Woods adastraxc@gmail.com
-- *Details:* We are privileged to be linked with a number of individuals, churches and organisations. This evening gives us an opportunity to learn more and to pray together.
-
-#### PRAYER FOR OUR CHRISTMAS OUTREACH  
-
-- *Venue:* St Mary’s Cogges 
-- *Dates*: Wednesday 2nd December
-- *Time:* 8.00-9.30pm
-- *Contact:* Jane Holloway 
-- *Details:* Advent and Christmas provide many opportunities for us to share the good news of Jesus with all ages.                         
+- *Contact:* Jane Holloway
+- *Details:* a time to worship and pray for church, community, national and global issues together
 
 ### PRAYER FOR WOOD GREEN SCHOOL
 
