@@ -4,7 +4,7 @@ layout: sermon
 series: ""
 title: ""
 date: "2016-01-10 10:30:00"
-audio: ""
+audio: "http://media.coggesparish.com/sermons/2016-10-03 Simon Kirby.mp3"
 speaker: "Simon Kirby"
 speaker_info: ""
 duration: "26.31"
