@@ -25,7 +25,7 @@ Cogglets is a baby, toddler and carer group run by St Mary’s Church in Cogges.
 
 ###Cogges Kids Crew
 
-Fun church for families including a bible story/message, crafts and supper. Sunday 17th Jan, 7th Feb, 13th March from 4-6pm in Cogges Church Centre. [Entry by free ticket.](http://cogges.mitingu.com/kids-crew-launch)
+Fun church for families including a bible story/message, crafts and supper. Sunday 7th Feb, 13th March from 4-6pm in Cogges Church Centre. Entry by free ticket - see [calendar](/events.html)
 
 
 ###Seasonal Events
