@@ -30,7 +30,7 @@ published: true
 An opportunity to meet every month on the first Wednesday of each month in the home of a congregation member.
 
 - *Venue:* on request
-- *Dates*: Wednesday 2nd February; Wednesday 1st March 2016
+- *Dates*: Wednesday 3rd February; Wednesday 2nd March 2016
 - *Time:* 8.00-9.30pm
 - *Contact:* Jane Holloway
 - *Details:* a time to worship and pray for church, community, national and global issues together
