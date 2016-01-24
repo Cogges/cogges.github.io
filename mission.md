@@ -28,6 +28,7 @@ At Cogges we take seriously the call to be part of God’s world-wide church and
 ### Impacting the Persecuted Church 
 
 - *Open Doors* – work in many countries supporting Christians who are persecuted for their faith [www.opendoorsuk.org](http://www.opendoorsuk.org)
+- *The Messengers* – support and encourage persecuted Christians in South East Asia
 
 ![Open Doors](/images/mission-open-doors.png)
 
