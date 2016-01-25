@@ -2,7 +2,7 @@
 layout: sermon
 series: ""
 title: "The Local Church is The Hope of The World"
-date: "2016-01-10 10:30:00"
+date: "2016-01-03 10:30:00"
 audio: "http://media.coggesparish.com/sermons/2016-10-03 Simon Kirby.mp3"
 speaker: "Simon Kirby"
 speaker_info: ""
