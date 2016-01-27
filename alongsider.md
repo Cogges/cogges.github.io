@@ -16,3 +16,8 @@ An Alongsider is someone who feels God has called them to meet this need in our 
 
 If you would like to make use of this ministry and talk to an Alongsider then please contact in the first instance Gerald March (gerald.march@coggesparish.com) or Liz Johnson at (liz.johnson@coggesparish.com).  They will then put you in touch with an Alongsider.
 
+#### Confidentiality and other Safeguards
+
+Meeting with an Alongsider is not a replacement for a professional therapist or counsellor, but a forum to express your thoughts in a safe and informal environment. However, if it becomes clear that a more professional approach may be beneficial, then the Alongsider may suggest an alternative form of help.
+
+Should you decide to use the help of an Alongsider, the conversation will be totally confidential. However, if, during the conversation, you disclose information that may indicate any risk of harm to yourself or others then your Alongsider may have no option but to refer these matters to another appropriate agency or authority.
