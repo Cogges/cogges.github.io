@@ -126,6 +126,9 @@ function listEvents(feed, divId, listTitle, startswith) {
   // loop through each event in the feed
   for (var i = 0; i < feed.items.length; i++) {
     var entry = feed.items[i];
+    if (entry === undefined) {
+      continue;
+    }
 
     var title = entry.summary;
     if (title === undefined) {
@@ -171,6 +174,9 @@ function listEvents(feed, divId, listTitle, startswith) {
 
 
     var dateString = formatGCalTime(start);
+    if (dateString === undefined) {
+      continue;
+    }
 
     var monthString = monthNames[parseInt(start.substr(5,2),10)];
     var dayString = start.substr(8,2);
