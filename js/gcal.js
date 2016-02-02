@@ -39,6 +39,9 @@ function findUrls( text )
 function formatGCalTime(gCalTime) {
   // text for regex matches
   var remtxt = gCalTime;
+  if (remtxt === undefined) {
+    return;
+  }
 
   function consume(retxt) {
     var match = remtxt.match(new RegExp('^' + retxt));
