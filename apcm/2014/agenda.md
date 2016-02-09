@@ -3,19 +3,23 @@ layout: page
 title: "APCM 2014"
 contacts: ["Malcolm Harper"]
 ---
-##Notice of Meeting
+## Notice of Meeting
+
 The Annual Parochial Church Meeting will be held<br>
 at 7:30pm on Thursday, 27th February 2014<br>
 in St Mary's Church, Cogges.
 
 
-##Agenda
-###The meeting will begin with the meeting of parishioners:
+## Agenda
+
+### The meeting will begin with the meeting of parishioners:
+
 1. A meeting of parishioners to elect two Churchwardens<br>
 ([nomination form enclosed](http://media.coggesparish.com/apcm/2014/Nomination%20of%20Churchwarden.pdf "Opens link to the 'Nomination of Churchwarden' pdf document." target="_blank") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2014/Nomination%20of%20Churchwarden.txt "Opens link to the 'Nomination of Churchwarden' text document." target="_blank"))
 
 
-###There will then be the formal business of the APCM:
+### There will then be the formal business of the APCM:
+
 1. Minutes of the 2013 APCM<br>
 ([enclosed](http://media.coggesparish.com/apcm/2014/Apcm13_minutes.pdf "Opens link to the 'Apcm13_minutes' pdf document." target="_blank") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2014/Apcm13_minutes.html "Opens link to the 'Apcm13_minutes' page." target="_blank"))
 2. A report on the revision of the electoral roll<br>
@@ -34,7 +38,8 @@ in St Mary's Church, Cogges.
 10. Any other business
 11. Commissioning of the new PCC
 
-###Worship, followed by presentations and discussion:
+### Worship, followed by presentations and discussion:
+
 1. Ministry Hubs:<br>
  a. Children's Hub<br>
  b. Social Activities & Special Events Hub<br>
@@ -44,6 +49,7 @@ in St Mary's Church, Cogges.
 Simon will be reminding us of some of the exciting developments in the life of Cogges in the last year.<br>
 He will also unveil the plans for the extension of the Church Centre and speak about how we hope to extend our ministry into the wider community.
 
-###The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
+### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
+
 Additional reports, for information<br>
  - none

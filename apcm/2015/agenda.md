@@ -3,18 +3,21 @@ layout: page
 title: "APCM 2015"
 contacts: ["Malcolm Harper"]
 ---
-##Notice of Meeting
+## Notice of Meeting
+
 The Annual Parochial Church Meeting will be held<br>
 at 7:30pm on Thursday, 26th February 2015<br>
 in St Mary's Church, Cogges.
 
-##Agenda
+## Agenda
 
-###The meeting will begin with the meeting of parishioners:
+### The meeting will begin with the meeting of parishioners:
+
 1. A meeting of parishioners to elect two Churchwardens
 ([nomination form enclosed](http://media.coggesparish.com/apcm/2015/Nomination%20of%20Churchwarden.pdf "Opens link to the 'Nomination of Churchwarden' pdf document.") ![PDF](/images/pdficon_large.png)) 
 
-###There will then be the formal business of the APCM:
+### There will then be the formal business of the APCM:
+
 1. Minutes of the 2014 APCM
 ([enclosed](http://media.coggesparish.com/apcm/2015/Apcm14_minutes.pdf "Opens link to the 'Apcm14_minutes' pdf document.") ![PDF](/images/pdficon_large.png) , or [text version](http://media.coggesparish.com/apcm/2015/Apcm14_minutes.html "Opens link to the 'Apcm14_minutes' page."))
 2. A report on the revision of the electoral roll
@@ -33,7 +36,8 @@ in St Mary's Church, Cogges.
 10. Any other business
 11. Commissioning of the new PCC
 
-###Worship, followed by presentations and discussion:
+### Worship, followed by presentations and discussion:
+
 1. Ministry Hubs:<br>
  a. Global and Home Mission Hub<br>
  b. Pastoral Hub<br>
@@ -43,4 +47,4 @@ in St Mary's Church, Cogges.
 
 *This year at our vision night we will look back in gratitude for some of the things that God has achieved in and through us this last year and look forward in anticipation and expectation as we consider some of the plans for 2015.*
 
-###The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
+### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.

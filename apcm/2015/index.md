@@ -9,6 +9,7 @@ on Thursday, 26th February 2015<br>
 in St Mary's Church, Cogges.
 
 ### Agenda and papers for APCM 2015
+
 Full details of the meeting of parishioners and the Annual Parochial Church Meeting, together with various written reports, can be found
 from the original [Agenda](agenda.html "Opens link to the 'Agenda and papers for APCM 2015' page") for the meeting.
 
