@@ -1,22 +1,22 @@
 ---
 layout: page
-title: "APCM 2014"
+title: "Annual Parochial Church Meeting 2014"
 contacts: ["Malcolm Harper"]
 ---
-##Annual Parochial Church Meeting 2014
+
 The Annual Parochial Church Meeting was held<br>
 on Thursday, 27th February 2014<br>
 in St Mary's Church, Cogges.
 
-###Agenda and papers for APCM 2014
+### Agenda and papers for APCM 2014
 Full details of the meeting of parishioners and the Annual Parochial Church Meeting, together with various written reports, can be found
 from the original [Agenda](agenda.html "Opens link to the 'Agenda and papers for APCM 2014' page") for the meeting.
 
 Draft [Minutes]({{"http://media.coggesparish.com/apcm/2014/Apcm14_minutes.pdf"}} "Opens link to the Apcm14_minutes.pdf document." target="_blank") ![PDF](/images/pdficon_large.png) are now available.
 
 
-##Meeting Report
-###The formal meeting:
+## Meeting Report
+### The formal meeting:
 Agenda ([enclosed]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - Agenda.pdf"|replace:" ","%20"}} "Opens link to the '2014-02-27 APCM - Agenda' pdf document." target="_blank") ![PDF](/images/pdficon_large.png))
 
 The meeting was recorded and the following audio clips and presentation slides are available:<br>
@@ -34,7 +34,7 @@ The above includes:<br>
 - listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - ChurchWarden'sReport.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
 - [download audio file ]({{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - ChurchWarden'sReport.mp3"|replace:" ","%20"}} "'2014-02-27 APCM - ChurchWarden'sReport.mp3' audio file.")
 
-###Presentations:
+### Presentations:
 1 - Ministry Hubs:<br>
 &nbsp;&nbsp;a. Introduction by Simon Kirby (1 minute):
 - listen now: <audio src="{{"http://media.coggesparish.com/apcm/2014/2014-02-27 APCM - MinistryHubsIntroduction.mp3"|replace:" ","%20"}}" type="audio/mpeg"></audio>
