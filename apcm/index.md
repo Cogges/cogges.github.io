@@ -4,6 +4,10 @@ title: "Annual Parochial Church Meetings"
 contacts: ["Malcolm Harper"]
 ---
 
+### 2016
+
+* [Agenda and papers for APCM 2016](./2016/index.htm "Opens link to the 'Agenda and papers for APCM 2016' page")
+
 ### 2015
 
 * [Agenda and papers for APCM 2015](./2015/agenda.html "Opens link to the 'Agenda and papers for APCM 2015' page")
