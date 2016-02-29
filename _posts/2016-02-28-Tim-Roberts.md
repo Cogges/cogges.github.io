@@ -3,7 +3,7 @@ layout: sermon
 series: "Celebration Service"
 title: "The Masterpiece"
 date: "2016-02-28 10:30:00"
-audio: "http://media.coggesparish.com/sermons/2016-02-28 Tim Roberts.mp3"
+audio: "http://media.coggesparish.com/sermons/2016-02-28-Tim-Roberts.mp3"
 speaker: "Tim Roberts"
 speaker_info: ""
 duration: "37"
