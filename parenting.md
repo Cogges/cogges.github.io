@@ -12,7 +12,7 @@ challenges we face, pick up ideas from other parents and learn how to make even 
 
 The Parenting Children Course and The Parenting Teenagers Course:
 
-    Dates: Mondays 12th and 19th Oct, 2nd, 9th, 16th and 23rd Nov 2015 
+    Dates: TBC - please contact us for more info 
     Time: 7.30pm
     Venue: Open Doors, Range Rd, Witney OX29 0YB
     Cost: £10 per person
