@@ -11,7 +11,13 @@ contacts:
 published: true
 ---
 
-# Opportunities Spring 2016
+# Opportunities Summer 2016
+
+### Pursuit
+
+- *Venue:* St Mary’s Cogges 
+- *Date:* Sunday 8th May 6.30pm
+- *Details:* all church gathering to worship and pray      
 
 ### WEEKLY ON THURSDAY MORNINGS
 
@@ -30,7 +36,7 @@ published: true
 An opportunity to meet every month on the first Wednesday of each month in the home of a congregation member.
 
 - *Venue:* on request
-- *Dates*: Wednesday 3rd February; Wednesday 2nd March 2016
+- *Dates*: 1st June & 6th July (not in May)
 - *Time:* 8.00-9.30pm
 - *Contact:* Jane Holloway
 - *Details:* a time to worship and pray for church, community, national and global issues together
