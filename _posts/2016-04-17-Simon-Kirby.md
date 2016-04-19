@@ -8,7 +8,7 @@ speaker: "Simon Kirby"
 speaker_info: ""
 duration: "34"
 youtube_videos: [""]
-vimeo_videos: ["http://vimeo.com/16288195#"]
+vimeo_videos: ["16288195#"]
 slides: [""]
 files: [""]
 bible_passages: ["2 Corinthians 9:6-15"]
