@@ -22,14 +22,14 @@ published: true
 ### WEEKLY ON THURSDAY MORNINGS
 
 - *Venue:* St Mary’s Cogges 
-- *Time:* 9.00-9.55 
-- *Contact:* office@coggesparish.com 
-- *Details:* Join the staff as they worship & pray together       
-
-- *Venue:* St Mary’s Cogges 
 - *Time:* 10.00-11.00 
 - *Contact:* Jane Harper 
 - *Details:* Join the Thursday group as they pray for individuals, church and wider community followed by coffee, biscuits and chat for half an hour or so.
+
+- *Venue:* St Mary’s Cogges 
+- *Time:* 11.00am-12.00pm
+- *Contact:* office@coggesparish.com 
+- *Details:* Join the staff as they worship & pray together       
 
 ### First Wednesday Evenings ‘The Prayer Well’ 
 
