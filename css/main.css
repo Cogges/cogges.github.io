@@ -337,7 +337,7 @@ blockquote > footer {
 /* Home
 /*
 /*****************************************************************************/
-ul {
+ul, ol {
   margin-left: 2em;
 }
 
@@ -427,6 +427,10 @@ nav.main li {
 	list-style: none;
 	padding: 10px 35px;
 	text-transform: uppercase;
+}
+
+nav.main li.dropdown {
+  width: 25%;
 }
 
 nav.main li a {
@@ -867,4 +871,8 @@ img[alt='PDF'] {
 .btn-danger {
   background-color: #A61D45;
   border-color: #A61D45;
+}
+
+body.home_cogges_church_data_protection_policy {
+  background: rgb(230,230,230);
 }
