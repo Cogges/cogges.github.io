@@ -1,6 +1,6 @@
 ---
 layout: one_column_page
-title:  "St Mary's Cogges Church Data Protection Policy"
+title:  "Cogges Church Data Protection Policy"
 ---
 
 Cogges uses personal data about living individuals for the purpose of general church administration and communication.
@@ -17,9 +17,7 @@ Cogges fully endorses and adheres to the eight principles of the Data Protection
 The principles require that personal data shall:
 
 1. Personal data shall be processed fairly and lawfully and, in particular, shall not be processed unless –
-
 (a) at least one of the conditions in Schedule 2[^1] is met, and
-
 (b) in the case of sensitive personal data, at least one of the conditions in Schedule 3[^2] is also met.
 
 2. Personal data shall be obtained only for one or more specified and lawful purposes, and shall not be further processed in any manner incompatible with that purpose or those purposes.
@@ -36,7 +34,7 @@ The principles require that personal data shall:
 
 8. Personal data shall not be transferred to a country or territory outside the European Economic Area unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
 
-Source: (https://ico.org.uk/for-organisations/guide-to-data-protection/data-protection-principles/)
+[Source: ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/data-protection-principles/)
 
 ## Lawful Purpose
 Cogges will use your data for three main purposes:
@@ -53,7 +51,7 @@ Cogges will use your data for three main purposes:
     + this information is necessary for church purposes
     + the information is not kept for longer than it is needed
     + those people supplying the information are aware of this policy and how they can obtain a copy
-- Personal information (including photographs) of individuals will not be published on our website without obtaining explicit and informed consent from the individuals concerned or their parents. We will never publish the names of children and young people alongside their photographs.
+- Personal information (including photographs) of individuals will not be published on our website without obtaining explicit and informed consent from the individuals concerned or their parents (unless that infomation is already in the public domain). We will never publish the names of children and young people alongside their photographs.
 - We will ensure that all church members and attendees are aware of who to contact to update the information held about them by Cogges.
 - A copy of this policy will be on our church website.
 - All personal information held by staff and volunteers on behalf of Cogges will be held and processed in a sufficiently secure manner (whether in paper or electronic form) to prevent unauthorised access (whether by unauthorised church staff or third parties). This means we will:
@@ -70,6 +68,7 @@ Cogges will treat all your personal information as private and confidential and 
 The contact details of adult church members may be shared with other church members through the church database. We will ensure that specific information will be removed from the Database if the individual concerns requests this.
 
 There are four further exceptional circumstances to the above permitted by law:
+
 1. Where we are legally compelled to do so.
 2. Where there is a duty to the public to disclose.
 3. Where disclosure is required to protect your interest.
@@ -97,7 +96,7 @@ Employees and other subjects of personal data held by Cogges have the right to a
 - Personal Information may be withheld if the information relates to another individual.
 - Subject Consent - The need to process data for normal purposes has been communicated to all data subjects. In some cases. If the data is sensitive, for example, information about health, race or gender, express consent to process the data must be obtained.
 
-Any person who wishes to exercise this right should make the request in writing to the Cogges Data Controller, using the standard letter which is available on line from www.ico.gov.uk
+Any person who wishes to exercise this right should make the request in writing to the Cogges Data Controller, using the standard letter which is available on line from [www.ico.gov.uk](https://www.ico.gov.uk)
 
 Cogges reserves the right to charge the maximum fee payable for each subject request. If personal details are inaccurate, they can be amended upon request.
 Cogges aims to comply with requests for access to personal information as quickly as possible, but will ensure that it is provided within 40 days of receipt of a completed form unless there is good reason for delay. In such cases, the reason for delay will be explained in writing to the individual making the request.
@@ -105,3 +104,7 @@ Cogges aims to comply with requests for access to personal information as quickl
 [^1]: http://www.legislation.gov.uk/ukpga/1998/29/schedule/2
 [^2]: http://www.legislation.gov.uk/ukpga/1998/29/schedule/3
 [^3]: http://www.legislation.gov.uk/ukpga/1998/29
+
+#### Revisions
+- May 9th initial check-in - draft [James Webster]
+- May 10th format changes & clarifying the re-publishing of infomation already in the publich domain [James Webster]
