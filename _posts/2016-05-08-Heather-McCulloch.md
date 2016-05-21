@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: "Thy Kingdom Come."
+title: "Thy Kingdom Come"
 date: "2016-05-08 10:30:00"
 audio: "http://media.coggesparish.com/sermons/2016-05-08-Heather-McCulloch.mp3"
 speaker: "Heather McCulloch"
