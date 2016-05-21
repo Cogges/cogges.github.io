@@ -1,9 +1,9 @@
 ---
 layout: sermon
-series: "Book of 1Timothy"
+series: ""
 title: "Thy Kingdom Come."
 date: "2016-05-08 10:30:00"
-audio: "http://media.coggesparish.com/sermons/2016-05-08-Heather-McCulloch.md"
+audio: "http://media.coggesparish.com/sermons/2016-05-08-Heather-McCulloch.mp3"
 speaker: "Heather McCulloch"
 speaker_info: ""
 duration: "23"
