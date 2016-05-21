@@ -1,0 +1,19 @@
+---
+layout: sermon
+series: "Book of 1Timothy"
+title: "Thy Kingdom Come."
+date: "2016-05-08 10:30:00"
+audio: "http://media.coggesparish.com/sermons/2016-05-08-Heather-McCulloch.md"
+speaker: "Heather McCulloch"
+speaker_info: ""
+duration: "23"
+youtube_videos: [""]
+vimeo_videos: [""]
+slides: [""]
+files: [""]
+bible_passages: ["Acts 4:23-31"]
+bible_links: ["Acts 4:23-31-20&amp;version=NIVUK"]
+bible_videos: [""]
+bible_videos_links: [""]
+category: "sermon"
+---
