@@ -3,7 +3,7 @@ layout: sermon
 series: "Back to Basics"
 title: "Becoming a room shaker"
 date: "2016-05-08 09:15:00"
-audio: "http://media.coggesparish.com/sermons/2016-05-08 Liz Johnson 9-15.mp3"
+audio: "http://media.coggesparish.com/sermons/2016-05-08 Liz Johnson 9-15.mp3.mp3"
 speaker: "Liz Johnson"
 speaker_info: ""
 duration: "15:52"
