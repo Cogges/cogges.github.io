@@ -3,7 +3,7 @@
 /**
  * A utility function to find all URLs - FTP, HTTP(S) and Email - in a text string
  * and return them in an array.  Note, the URLs returned are exactly as found in the text.
- * 
+ *
  * @param text
  *            the text to be searched.
  * @return an array of URLs.
@@ -145,7 +145,7 @@ function listEvents(feed, divId, listTitle, startswith) {
     if (body === undefined) {
       body = "";
     }
-   
+
     var link = findUrls(body).pop()
     if (link === undefined) {
       link = "";
@@ -219,7 +219,7 @@ function listEvents(feed, divId, listTitle, startswith) {
 
     var contentSpan = document.createElement('span');
     contentSpan.setAttribute('class', "event-content");
-    contentSpan.appendChild(document.createTextNode(body));    
+    contentSpan.appendChild(document.createTextNode(body));
 
     var whereSpan = document.createElement('span');
     whereSpan.setAttribute('class', "event-where");
@@ -230,7 +230,7 @@ function listEvents(feed, divId, listTitle, startswith) {
     eventDiv.appendChild(titleSpan);
     eventDiv.appendChild(contentSpan);
     eventDiv.appendChild(whereSpan);
-    
+
 
     var li = document.createElement('li');
     li.appendChild(dateDiv);
@@ -248,7 +248,7 @@ function listEvents(feed, divId, listTitle, startswith) {
  *
  * @param {json} root is the root JSON-formatted content from GData
  * @param {string} divId is the div in which the events are added
- * @param {string} listTitle 
+ * @param {string} listTitle
  * @param {string} startswith is typically a character e.g. '*' used to prefix and event, when set only these events are shown
  *
  * ToDo - refactor when 5 minutes spare
@@ -269,7 +269,7 @@ function listElementEvents(feed, divId, listTitle, startswith) {
   for (var i = 0; i < feed.items.length; i++) {
 
     var entry = feed.items[i];
-    
+
     var title = entry.summary;
     if (title === undefined) {
       continue;
@@ -290,13 +290,19 @@ function listElementEvents(feed, divId, listTitle, startswith) {
     }
 
     var start = entry.start.dateTime;
+
+    if (start === undefined) {
+      /* all day event */
+      start = entry.start.date;
+    }
+
     var series = false;
 
     if (startswith) {
       if (title.startsWith(startswith)) {
         title = title.slice(startswith.length);
       } else {
-        continue;  
+        continue;
       }
     }
 
@@ -322,6 +328,7 @@ function listElementEvents(feed, divId, listTitle, startswith) {
     } else {
       var dateForDisplay = dayString + " " + monthString;
     }
+    console.log(title, dateForDisplay);
 
     var dateSpan = document.createElement('span');
     dateSpan.setAttribute('class', "pull-right");
@@ -333,14 +340,14 @@ function listElementEvents(feed, divId, listTitle, startswith) {
       atag.setAttribute('href', link);
       var icon = document.createElement('i');
       icon.setAttribute('class', 'fa fa-external-link-square');
-      var linkText = document.createTextNode(title + ' ');    
+      var linkText = document.createTextNode(title + ' ');
       atag.appendChild(linkText);
       atag.appendChild(icon);
     } else {
       atag.setAttribute('href', "./events.html");
       atag.appendChild(document.createTextNode(title));
     }
-    
+
     atag.appendChild(dateSpan);
 
     events.appendChild(atag);
