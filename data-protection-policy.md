@@ -3,7 +3,8 @@ layout: one_column_page
 title:  "Cogges Church Data Protection Policy"
 ---
 
-Cogges uses personal data about living individuals for the purpose of general church administration and communication.
+
+St Mary's Cogges ("Cogges" or "the church") uses personal data about living individuals for the purpose of general church administration and communication.
 
 Cogges recognises the importance of the correct and lawful treatment of personal data. All personal data, whether it is held on paper, on computer or other media, will be subject to the appropriate legal safeguards as specified in the Data Protection Act 1998.
 
@@ -14,7 +15,7 @@ Cogges fully endorses and adheres to the eight principles of the Data Protection
 
 ## The Principles
 
-The principles require that personal data shall:
+Schedule 1 to the Data Protection Act lists the data protection principles in the following terms:
 
 1. Personal data shall be processed fairly and lawfully and, in particular, shall not be processed unless –
 (a) at least one of the conditions in Schedule 2[^1] is met, and
@@ -38,14 +39,14 @@ The principles require that personal data shall:
 
 ## Lawful Purpose
 Cogges will use your data for three main purposes:
-1. The day-to-day administration of the church; e.g. pastoral care and oversight including calls and visits, preparation of ministry rotas, maintaining financial records of giving for audit and tax purposes.
+1. The day-to-day administration of Cogges; e.g. pastoral care and oversight including calls and visits, preparation of ministry rotas, maintaining financial records of giving for audit and tax purposes.
 2. Contacting you to keep you informed of church activities and events.
 3. Statistical analysis; gaining a better understanding of church demographics. 
 
 
 ## Applying the principles
 
-- All staff and volunteers who process Personal Data on behalf of the church will be required to agree to sign our Data Processor agreement. 
+- All staff and volunteers who process Personal Data on behalf of Cogges will be required to agree to sign our Data Processor agreement. 
 - The PCC will appoint the Church’s Data Protection Officer. All questions and concerns in relation to this policy should be addressed to them. 
 - When personal information is collected we will ensure that 
     + this information is necessary for church purposes
@@ -65,7 +66,7 @@ Cogges will use your data for three main purposes:
 Cogges will treat all your personal information as private and confidential and not disclose any data about you to anyone other than the staff and leadership of the church in order to facilitate the administration and day-to-day ministry of the church.
 
 ### Exceptions
-The contact details of adult church members may be shared with other church members through the church database. We will ensure that specific information will be removed from the Database if the individual concerns requests this.
+The contact details of adult church members may be shared with other church members through the church database. Individuals may request that their information is not shared with other members.
 
 There are four further exceptional circumstances to the above permitted by law:
 
@@ -78,7 +79,8 @@ There are four further exceptional circumstances to the above permitted by law:
 ## The Database
 Information contained on the database will not be used for any other purposes than set out in this section. The database is accessed through a remote server and therefore, can be accessed through any computer with internet access. The server for the database is located within the EU and managed by Croftsware Ltd.
 
-- Access to the database is strictly controlled through the use of name specific passwords, which are set up and authorised by the Church office.
+- Access to the database is strictly controlled through the use of name specific passwords.
+- Access is authorised by the Church office and overseen by the Operations Director and Data Protection Officer.
 - Those authorised to use the database only have access to their specific area of use within the database. 
 - People who will have secure and authorised access to the database include Cogges Staff, data in-putters, Ministry Team Leaders, Small Group Leaders and PCC.
 - All access and activity on the database is logged and can be viewed by the Church office.
@@ -101,10 +103,11 @@ Any person who wishes to exercise this right should make the request in writing 
 Cogges reserves the right to charge the maximum fee payable for each subject request. If personal details are inaccurate, they can be amended upon request.
 Cogges aims to comply with requests for access to personal information as quickly as possible, but will ensure that it is provided within 40 days of receipt of a completed form unless there is good reason for delay. In such cases, the reason for delay will be explained in writing to the individual making the request.
 
-[^1]: http://www.legislation.gov.uk/ukpga/1998/29/schedule/2
-[^2]: http://www.legislation.gov.uk/ukpga/1998/29/schedule/3
-[^3]: http://www.legislation.gov.uk/ukpga/1998/29
+[^1]: [http://www.legislation.gov.uk/ukpga/1998/29/schedule/2](http://www.legislation.gov.uk/ukpga/1998/29/schedule/2)
+[^2]: [http://www.legislation.gov.uk/ukpga/1998/29/schedule/3](http://www.legislation.gov.uk/ukpga/1998/29/schedule/3)
+[^3]: [http://www.legislation.gov.uk/ukpga/1998/29](http://www.legislation.gov.uk/ukpga/1998/29)
 
 #### Revisions
 - May 9th initial check-in - draft [James Webster]
 - May 10th format changes & clarifying the re-publishing of infomation already in the publich domain [James Webster]
+- June 13th feeback from PCC Lay Chair (Harvey Leach) clarifications and detail around access control to database
