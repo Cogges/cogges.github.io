@@ -1,7 +1,7 @@
 ---
 layout: sermon
-series: ""
-title: "Back to Basics"
+series: "Back to Basics"
+title: "Grace, power and the face of an angel"
 date: "2016-06-26 10:30:00"
 audio: "http://media.coggesparish.com/sermons/2016-06-26 Andy McCullough 10-30.mp3"
 speaker: "Andy McCulloch"
