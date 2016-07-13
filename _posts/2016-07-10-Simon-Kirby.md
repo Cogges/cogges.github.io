@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: "Children of the King"
+title: "So that.."
 date: "2016-07-10 10:30:00"
 audio: "http://media.coggesparish.com/sermons/2016-07-10 Simon Kirby.mp3"
 speaker: "Simon Kirby"
