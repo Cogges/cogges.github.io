@@ -14,4 +14,4 @@ The ideal candidate will have strategic project management skills, be an experie
 
 Salary: £25,000 - £28,000 per annum, pro-rata
 
-* [Job Description and Person Specification](./Cogges%20Office%20and%20Facilities%20Manager%20JD.pdf "Opens PDF document")
+* [Job Description and Person Specification](./Cogges%20Office%20and%20Facilities%20Manager%20JD.pdf "Opens PDF document")  ![PDF](/images/pdficon_large.png)
