@@ -19,5 +19,5 @@ Salary: £25,000 - £28,000 per annum, pro-rata
 * [Application Form](./Application%20Form.docx "Opens Word document")
 
 Please return the Application Form to Andy McCulloch, 
-<a href="mailto:andy@coggesparish.com?subject=Application: Office & Facilities Manager">andy@coggesparish.com</a>, 
+<a href="mailto:andy@coggesparish.com?subject=Application:%20Office%20and%20Facilities%20Manager">andy@coggesparish.com</a>, 
 by Tuesday 20th September 2016.  Interviews will be held during the week commencing 26th September.
