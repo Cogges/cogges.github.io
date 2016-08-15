@@ -8,7 +8,7 @@ As the Church continues to grow we are seeking an experienced manager to join th
 
 The ideal candidate will have strategic project management skills, be an experienced manager, have excellent communication skills and be able to demonstrate effective handling of a wide and varied workload. 
 
-As the church expands, and potentially initiates a major building project, there is scope for growth and personal development in this role.
+As the Church expands, and potentially initiates a major building project, there is scope for growth and personal development in this role.
 
 25 hours per week over 4-5 days, with occasional evening meetings. Three year contract with three months probationary period.
 
