@@ -6,9 +6,9 @@ contacts: ["Andy McCulloch"]
 
 As the Church continues to grow we are seeking a highly competent administrator to join the team and help us as we continue to seek to cultivate a Church where people flourish through connecting with God, each other and their world.
 
-As the church expands, and potentially initiates a major building project, there is scope for growth and personal development in this role.
-
 The successful applicant will have; experience of a similar role, great organisational skills and excellent IT competence, particularly in MS Word, Excel and PowerPoint, and some experience of Mailchimp (or similar email marketing software) and website CMS (but training provided). They will be able to work flexibly as part of a team and be able to manage multiple projects and work to deadlines as well as using initiative.
+
+As the Church expands, and potentially initiates a major building project, there is scope for growth and personal development in this role.
 
 25 hours per week over 4-5 days, with occasional evening meetings. Three year contract with three months probationary period.
 
