@@ -4,8 +4,6 @@ title: "Vacancy: Office Administrator"
 contacts: ["Andy McCulloch"]
 ---
 
-### Vacancy: Office Administrator
-
 As the Church continues to grow we are seeking a highly competent administrator to join the team and help us as we continue to seek to cultivate a Church where people flourish through connecting with God, each other and their world.
 
 As the church expands, and potentially initiates a major building project, there is scope for growth and personal development in this role.
