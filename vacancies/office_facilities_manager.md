@@ -4,8 +4,6 @@ title: "Vacancy: Office & Facilities Manager"
 contacts: ["Andy McCulloch"]
 ---
 
-### Vacancy: Office & Facilities Manager
-
 As the Church continues to grow we are seeking an experienced manager to join the team and help us as we continue to seek to cultivate a Church where people flourish through connecting with God, each other and their world.
 
 The ideal candidate will have strategic project management skills, be an experienced manager, have excellent communication skills and be able to demonstrate effective handling of a wide and varied workload. 
