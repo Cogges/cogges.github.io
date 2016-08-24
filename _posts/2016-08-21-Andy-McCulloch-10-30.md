@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: "THe4Points"
+title: "The4Points"
 date: "2016-08-21 10:30:00"
 audio: "http://media.coggesparish.com/sermons/2016-08-21 Andy McCulloch 10-30.mp3"
 speaker: "Andy McCulloch"
