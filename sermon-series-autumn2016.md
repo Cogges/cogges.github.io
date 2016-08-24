@@ -4,6 +4,8 @@ title:  "Sermon series Autumn 2016"
 group: "hidden"
 ---
 
+### Living God's Rhythms
+
 <table>
 <tr>
 <th>Title</th><th>Date</th><th>Theme</th><th>Bible Passages</th>
@@ -22,7 +24,7 @@ group: "hidden"
 <td>Markers</td><td>18th Sept</td><td>Rites of passages</td><td>Micah 5:6</td>
 </tr>
 <tr>
-<td>Celebration</td><td>25th Sept</td><td>with John & Anne Coles</td><td></td>
+<td><em>Celebration</em></td><td>25th Sept</td><td>with John & Anne Coles</td><td></td>
 </tr>
 <tr>
 <td>Festivals</td><td>2nd Oct</td><td>Knowing your part of the story</td><td></td>
