@@ -27,7 +27,7 @@ Autumn 2016 Programme at 9.15am, 10.30am and 6.30pm services
 <td>Markers</td><td>18th Sept</td><td>Rites of passages</td><td>Micah 5:6</td>
 </tr>
 <tr>
-<td><em>Celebration</em></td><td>25th Sept</td><td colspan=2>with John & Anne Coles (at 10.30am and 6.30pm)</td>
+<td><em>Celebration</em></td><td>25th Sept</td><td>with John & Anne Coles</td><td>(at 10.30am and 6.30pm)</td>
 </tr>
 <tr>
 <td>Festivals</td><td>2nd Oct</td><td>Knowing your part of the story</td><td></td>
