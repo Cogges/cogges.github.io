@@ -4,8 +4,11 @@ title:  "Sermon series Autumn 2016"
 group: "hidden"
 ---
 
+Autumn 2016 Programme at 9.15am, 10.30am and 6.30pm services
+
 ### Living God's Rhythms
 
+<br>
 <table>
 <tr>
 <th>Title</th><th>Date</th><th>Theme</th><th>Bible Passages</th>
