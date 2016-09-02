@@ -21,4 +21,8 @@ This Service includes contemporary music, bible readings, teaching and prayer. C
 The Evening Service includes an extended time of informal worship, teaching and an opportunity to receive prayer.   
 On the 4th Sunday of the month (usually) it is a Celebration Service with a Guest Speaker.
 
+### Sermon Series -- Autumn 2016
+During the Autumn (4th September to 9th October) there will be a series of sermons at the 9.15am, 10.30am and 6.30pm services on
+[Living God's Rhythms](./sermon-series-autumn2016.html).
+
 For details of all services please check the [church diary](./events.html).
