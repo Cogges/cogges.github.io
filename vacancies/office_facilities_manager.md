@@ -10,7 +10,7 @@ The ideal candidate will have strategic project management skills, be an experie
 
 As the Church expands, and potentially initiates a major building project, there is scope for growth and personal development in this role.
 
-25 hours per week over 4-5 days, with occasional evening meetings. Three year contract with three months probationary period.
+25-40 hours per week over 4-5 days, with occasional evening meetings - there is scope for flexibility in the number and time of working hours for the right candidate. Three year contract with three months probationary period.
 
 Salary: £25,000 - £28,000 per annum, pro-rata
 
