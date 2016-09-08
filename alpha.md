@@ -16,7 +16,7 @@ Do these kinds of questions bug you? Then the Alpha course is just for you.
 
 The Alpha course is for those with questions about Christianity, the meaning of life and everything.  
 
-Our next courses start on Monday 26th September and run over 8 weeks (until Monday 14th November). 
+Our next courses start on Monday 26th September and run over 8 weeks (until Monday 14th November).
 * Day-time Course (12.30pm - 2.30pm), with a light lunch, Church Green, Witney.
 * Evening Course (7-9.15pm), including supper, Schofield Gdns, Witney
 
