@@ -11,7 +11,7 @@ Cogges recognises the importance of the correct and lawful treatment of personal
 Cogges fully endorses and adheres to the eight principles of the Data Protection Act. These principles specify the legal conditions that must be satisfied in relation to obtaining, handling, processing, transportation and storage of personal data. Employees and any others who obtain, handle, process, transport and store personal data for Cogges must adhere to these principles.
 
  - Data Controller: St Mary's Cogges Parochial Church Council
- - Data Protection Officer: TBD
+ - Data Protection Officer: James Webster
 
 ## The Principles
 
