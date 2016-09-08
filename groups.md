@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Connect Groups"
-contacts: ["Mari Graves"]
+contacts: ["Rich White", "Sue Kirby"]
 group: "connect"
 ---
 
