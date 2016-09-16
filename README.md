@@ -3,7 +3,7 @@
 
 ## Updating this website
 1. Create a github account
-1. Email your login details to [James](james@coggesparish.com)
+1. Email your login details to [James Webster](mailto://james@coggesparish.com)
 1. Come back to this page
 
 ### Updating pages on this site
