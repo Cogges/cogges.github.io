@@ -20,7 +20,10 @@
 * * *
 
 ### Adding Sermons
-1. Upload the mp3 file to media.coggesparish.com/sermons/ (as before)
+1. Reduce the mp3 file sizes (this saves space and allows the upload to work on GitHub) use [http://www.mp3smaller.com/](http://www.mp3smaller.com/)
+1. Open the ['documents'](https://github.com/Cogges/cogges.github.io/tree/master/documents) folder
+2. Click on ‘upload files’
+3. Upload you mp3, provide a short message and click 'Commit changes' (remember the filename that you chose!)
 1. Open the ['_posts'](https://github.com/Cogges/cogges.github.io/tree/master/_posts) folder
 1. Click the add button ![Add Button](/images/internal/github-add.png)
 1. Name your file with the date YYYY-MM-DD and a [slugified][http://blog.tersmitten.nl/slugify/] title and finally dot md (md is for markdown format)
