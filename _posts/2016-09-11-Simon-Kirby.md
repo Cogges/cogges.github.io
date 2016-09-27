@@ -3,7 +3,7 @@ layout: sermon
 series: "Living God's Rhythms"
 title: "Simon Kirby 10:30"
 date: "2016-09-11 10:30:00"
-audio: "2016-09-11 Simon Kirby 10-30 A.mp3"
+audio: "/documents/2016-09-11-Simon-Kirby-10-30-A"
 speaker: "Simon Kirby"
 speaker_info: ""
 duration: "20"
