@@ -1,6 +1,6 @@
 ---
 layout: sermon
-series: "Rhythms"
+series: "Living God's Rhythms"
 title: "Mal Calladine 10:30: Knowing your part of a story"
 date: "2016-10-02 10:30:00"
 audio: "/documents/2016-10-02-Mal-Calladine.mp3"
