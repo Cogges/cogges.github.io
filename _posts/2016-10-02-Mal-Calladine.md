@@ -3,7 +3,7 @@ layout: sermon
 series: "Living God's Rhythms"
 title: "Mal Calladine 10:30"
 date: "2016-10-02 10:30:00"
-audio: "/documents/2016-10-02-Mal-Calladine.mp3"
+audio: "/documents/2016-10-02-Mal_Calladine.mp3"
 speaker: "Mal Calladine"
 speaker_info: ""
 duration: "36"
