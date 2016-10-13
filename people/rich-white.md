@@ -1,6 +1,6 @@
 ---
 contact: "Rich White"
-contact_role: "Curate"
+contact_role: "Curate "
 contact_email: "rich@coggesparish.com"
 contact_phone: "01993 779613"
 contact_photo: "/images/people/rich-white.jpg"
