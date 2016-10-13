@@ -2,9 +2,10 @@
 layout: one_column_page
 title:  "Meet Us"
 group: "discover"
-staff: ["Simon Kirby", "Rich White", "Andy McCulloch", "Kirsty Morgan", "Heidi Mäki-Patola", "Elaine Beechey", "Mo McKay", "Nick Pike"]
+staff: ["Simon Kirby", "Rich White", "Andy McCulloch", "Kirsty Morgan", "Heidi Mäki-Patola", "Ben Osman", "Beth Evans", "Sara Wild", "Nick Pike"]
 ---
 
+<br><br>
 {% for contact in page.staff %}
 	{% assign speaker = false %}
 
@@ -17,7 +18,10 @@ staff: ["Simon Kirby", "Rich White", "Andy McCulloch", "Kirsty Morgan", "Heidi M
    	{% if speaker != false %}
 	   	<div class="contact" itemscope itemtype="http://schema.org/Person">
             <h2><span itemprop="name">{{speaker.contact}}</span></h2>
-            <div>
+	    {% if speaker.contact_role %}
+		<h3><span itemprop="name">{{speaker.contact_role}}</span></h3>
+	    {% endif %}
+	    <div>
 				{% if speaker.contact_photo %}
 					<img class="profile pull-left" itemprop="photo" src="{{speaker.contact_photo}}" alt="{{speaker.contact}}" width="101" height="100">
 				{% else %}
