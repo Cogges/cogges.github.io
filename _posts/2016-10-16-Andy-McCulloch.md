@@ -4,7 +4,7 @@ series: ""
 title: "Andy McCulloch 09:15"
 date: "2016-10-16 09:15:00"
 audio: "/documents/2016-10-16-Andy-McCulloch.mp3"
-speaker: "Andy MuCulloch"
+speaker: "Andy McCulloch"
 speaker_info: ""
 duration: "12'55"
 youtube_videos: [""]
