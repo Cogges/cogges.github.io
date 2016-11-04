@@ -1,9 +1,9 @@
 ---
 layout: sermon
 series: ""
-title: "Gerald March 130"
+title: "Gerald March 1030"
 date: "2016-10-30 10:30:00"
-audio: "/documents/2016-10-30 Gerald March.mp3"
+audio: "/documents/2016-10-30-Gerald-March.mp3"
 speaker: "Gerald March"
 speaker_info: ""
 duration: "22'15"
