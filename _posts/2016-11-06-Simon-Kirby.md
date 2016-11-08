@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: "Simon Kirby"
+title: "Simon Kirby - The Lord Bless You"
 date: "2016-10-16 10:30:00"
 audio: "/documents/2016-11-06-Simon-Kirby.mp3"
 speaker: "Simon Kirby"
