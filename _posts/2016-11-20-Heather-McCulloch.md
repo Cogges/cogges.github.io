@@ -3,7 +3,7 @@ layout: sermon
 series: "The Promise of Blessing"
 title: "Heather McCulloch-The Lord Make His Face Shine Upon You"
 date: "2016-11-20 10:30:00"
-audio: "/documents/2016-11-20 Heather McCulloch.mp3"
+audio: "/documents/2016-11-20 Heather McColluch.mp3"
 speaker: "Heather McCulloch"
 speaker_info: ""
 duration: "17'46"
