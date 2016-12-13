@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: "The Promise of Blessing"
-title: "Annie Hughes-And Give You His Peace"
+title: "Annie Hughes-The Lord Give You Peace"
 date: "2016-12-11 10:30:00"
 audio: "/documents/2016-12-11 Annie Hughes.mp3"
 speaker: "Annie Hughes"
