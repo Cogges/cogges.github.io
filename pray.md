@@ -11,12 +11,12 @@ contacts:
 published: true
 ---
 
-# Opportunities Autumn 2016
+# Opportunities Sprint 2017
 
 ### Pursuit
 
 - *Venue:* St Mary’s Cogges 
-- *Date:* Wednesday 7th September 7.30pm
+- *Date:* Wednesday 4th January 7.30pm
 - *Details:* all church gathering to worship and pray      
 
 ### WEEKLY ON THURSDAY MORNINGS
@@ -26,25 +26,21 @@ published: true
 - *Contact:* Jane Harper 
 - *Details:* Join the Thursday group as they pray for individuals, church and wider community followed by coffee, biscuits and chat for half an hour or so.
 
-- *Venue:* St Mary’s Cogges 
-- *Time:* 11.00am-12.00pm
-- *Contact:* office@coggesparish.com 
-- *Details:* Join the staff as they worship & pray together       
 
 ### First Wednesday Evenings ‘The Prayer Well’ 
 
 An opportunity to meet every month on the first Wednesday of each month in the home of a congregation member.
 
 - *Venue:* on request
-- *Dates*: 5th October, 2nd November, 7th December 
+- *Dates*: 1st February, 1st March, 5th April
 - *Time:* 8.00-9.30pm
 - *Contact:* Jane Holloway
 - *Details:* a time to worship and pray for church, community, national and global issues together
 
 ### PRAYER FOR WOOD GREEN SCHOOL
 
-- *Venue:* on request
-- *Dates*: Monday mornings in term time
+- *Venue:* 33A High Street
+- *Dates*: Tuesdays (from 10th January)
 - *Time:* 8.30am-9.30am
 - *Contact:* Judith Ledden
 - *Details:* This is for any parents, grandparents or anyone with an interest in the school. We pray God’s blessing over the school, praying for all the staff and pupils and particularly those known to us. We also pray about special events, trips and exams when we know these are taking place.
