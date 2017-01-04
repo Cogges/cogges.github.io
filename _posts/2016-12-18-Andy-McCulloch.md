@@ -1,7 +1,7 @@
 ---
 layout: sermon
-series: 
-title: "Andy McCulloch - Carol Service"
+series: ""
+title: "Andy McCulloch"
 date: "2016-12-18 17:30:00"
 audio: "/documents/2016-12-18 Andy McCulloch.mp3"
 speaker: "Andy McCulloch"
@@ -11,9 +11,9 @@ youtube_videos: [""]
 vimeo_videos: [""]
 slides: [""]
 files: [""]
-bible_passages:[""]
+bible_passages: [""]
 bible_links: [""]
 bible_videos: [""]
 bible_videos_links: [""]
 category: "sermon"
---
+---
