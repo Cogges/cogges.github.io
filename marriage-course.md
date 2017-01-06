@@ -18,7 +18,7 @@ A five session course set in a fantastic atmosphere. You will be served coffee, 
     Venue: Witney
     Cost: £25 per couple
 
-[http://www.relationshipcentral.org](http://www.relationshipcentral.org)
+[http://www.themarriagecourses.org](http://www.themarriagecourses.org)
 
 ### Marriage by Design
 Marriage by Design is a one day course that gives you the opportunity to take some time out to think about your future married life together. The day is led by trained facilitators, who will introduce topics and ideas, but the day itself is really for you as a couple to spend time together talking about your relationship.
@@ -33,9 +33,9 @@ Marriage by Design is a one day course that gives you the opportunity to take so
 ## Already married?
 The Marriage Course is a very practical course giving any married couple the tools to build a strong and healthy relationship. Over a series of 7 evenings many topics are covered including 'building strong foundations,' 'resolving conflict' and 'love in action'. Each evening includes a talk and time for the couple to discuss the topic together. Coffee, tea and home-made cakes are served during the evening. The setting is relaxed and informal, there is no group discussion and privacy as a couple is always respected.
 
-    Dates: TBC - Please contact us for info
+    Dates: Mondays - 8th May - 26th June 2017 (no session on 29/5)
     Time: 7.45 – 9:45pm
     Venue: Witney
     Cost: £25 per couple
 
-[http://www.relationshipcentral.org](http://www.relationshipcentral.org)
+[http://www.themarriagecourses.org](http://www.themarriagecourses.org)
