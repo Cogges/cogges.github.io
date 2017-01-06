@@ -12,4 +12,4 @@ challenges we face, pick up ideas from other parents and learn how to make even 
 
 The Parenting Children Course and The Parenting Teenagers Course:
 
-    Dates: TBC - please contact us for more info     
+    Dates: TBC - please contact the Church Office for more info     
