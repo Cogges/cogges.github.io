@@ -10,7 +10,9 @@ Cogglets is a baby, toddler and carer group run by St Mary’s Church in Cogges.
 
 ### What we do
 We currently run two Cogglets groups:
+
 * St Mary’s Cogglets is on a Tuesday afternoon from 1.15pm to 2.45pm (term time only) at Cogges Church Centre, Church Lane, OX28 3LA.
+
 * Madley Cogglets is on a Thursday afternoon from 1.15pm to 2.45pm (term time only) at Madley Park Hall, OX28 1UE.
 
 During the session we aim to provide:
