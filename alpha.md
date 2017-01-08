@@ -10,7 +10,7 @@ contacts: ["Rich White"]
 * Why is there suffering?
 * What about the church?
 
-Do these kinds of questions bug you? Then the Alpha course is just for you.
+Do these kinds of questions bug you? Then the <a href="http://alpha.org/">Alpha course</a> is just for you.
 
 ### The Alpha course
 
