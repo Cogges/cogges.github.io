@@ -10,24 +10,26 @@ contacts: ["Rich White"]
 * Why is there suffering?
 * What about the church?
 
-Do these kinds of questions bug you? Then the Alpha course is just for you.
+Do these kinds of questions bug you? Then the <a href="http://alpha.org/">Alpha course</a> is just for you.
 
 ### The Alpha course
 
-The Alpha course is for those with questions about Christianity, the meaning of life and everything.  
+The Alpha course is for those with questions about Christianity, the meaning of life and everything.
 
-Our next courses start on Monday 26th September and run over 8 weeks (until Monday 14th November).
+Join us for supper in Cogges Church Centre at 7.30pm on Thursday 26th January to find out more about Alpha - no commitment to attend the course.
 
-* Day-time Course (12.30pm - 2.30pm), with a light lunch, Church Green, Witney.
-* Evening Course (7-9.15pm), including supper, Schofield Gdns, Witney
+Our next Alpha courses are as follows:
 
-It’s all free!
+* Daytime Course: Mondays 30th January to 3rd April (9.30am - 11.30am) at The Fleece, with tea/coffee.
+* Evening Course: Thursdays 2nd February to 6th April (7.00pm - 9.30pm) at The Fleece, including supper.
+
+It’s all free (with suggested donations towards the cost of food - but not required)
 
 ### Find out more
 To register your interest for the course or simply to request more information please contact:
 
-* Day-time Course: Martin Down (<a href="mailto:martinjohndown@googlemail.com?subject=Alpha">martinjohndown@googlemail.com</a>)
-or phone St Mary’s Cogges church office on 01993 779 613.
-* Evening Course: Judith Ledden (<a href="mailto:Judith@coggesparish.com?subject=Alpha">Judith@coggesparish.com</a>)
-or 07719 710 977.
+* Daytime Course: Martin Down (<a href="mailto:martinjohndown@googlemail.com?subject=Alpha">martinjohndown@googlemail.com</a>)
+or phone St Mary Cogges church office on 01993 779613.
+* Evening Course: Andy McCulloch (<a href="mailto:andy@coggesparish.com?subject=Alpha">andy@coggesparish.com</a>)
+or 07973 721849.
 
