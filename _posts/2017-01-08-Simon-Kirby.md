@@ -1,7 +1,7 @@
 ---
 layout: sermon
-series: ""
-title: "Simon Kirby"
+series: "Daniel"
+title: "Simon Kirby - Finding Favour in an Alien Land"
 date: "2017-01-08 10:30:00"
 audio: "/documents/2017-01-08 Simon Kirby.mp3"
 speaker: "Simon Kirby"
