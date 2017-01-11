@@ -7,8 +7,8 @@ audio: "/documents/2016-12-18 Andy McCulloch.mp3"
 speaker: "Andy McCulloch"
 speaker_info: ""
 duration: "16'34"
-youtube_videos: [""]
-vimeo_videos: ["http://media.preachingtoday.com/embed/product/62880"]
+youtube_videos: ["https://www.youtube.com/watch?v=5-COtK3GHSM"]
+vimeo_videos: [""]
 slides: [""]
 files: [""]
 bible_passages: [""]
