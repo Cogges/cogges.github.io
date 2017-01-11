@@ -8,7 +8,7 @@ speaker: "Andy McCulloch"
 speaker_info: ""
 duration: "16'54"
 youtube_videos: [""]
-vimeo_videos: [""]
+vimeo_videos: ["http://media.preachingtoday.com/mini-movies/62880/good-news-christmas-invite"]
 slides: [""]
 files: [""]
 bible_passages: [""]
