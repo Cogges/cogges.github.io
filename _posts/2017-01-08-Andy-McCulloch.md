@@ -1,7 +1,7 @@
 ---
 layout: sermon
-series: ""
-title: "Andy McCulloch"
+series: "Daniel"
+title: "Andy McCulloch - Finding Favour in an Alien Land"
 date: "2017-01-08 09:15:00"
 audio: "/documents/2017-01-08 Andy McCulloch.mp3"
 speaker: "Andy McCulloch"
