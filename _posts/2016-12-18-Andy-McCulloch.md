@@ -8,7 +8,7 @@ speaker: "Andy McCulloch"
 speaker_info: ""
 duration: "16'34"
 youtube_videos: [""]
-vimeo_videos: ["<iframe type="text/html" width="415" height="311" src="http://media.preachingtoday.com/embed/product/62880" frameborder="0" scrolling="no"></iframe>"]
+vimeo_videos: ["http://media.preachingtoday.com/embed/product/62880"]
 slides: [""]
 files: [""]
 bible_passages: [""]
