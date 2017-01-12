@@ -1,7 +1,8 @@
 ---
-layout: one_column_page
+layout: page
 title:  "Alpha"
 group: "connect"
+contact: "Rich White"
 ---
 
 * Who is Jesus?
@@ -10,8 +11,6 @@ group: "connect"
 * What about the church?
 
 Do these kinds of questions bug you? Then the <a href="http://alpha.org/">Alpha course</a> is just for you.
-
-<iframe width="771" height="434" src="https://www.youtube.com/embed/XLQZM1QwuUs" frameborder="0" allowfullscreen></iframe>
 
 ### The Alpha course
 
@@ -34,3 +33,4 @@ or phone St Mary Cogges church office on 01993 779613.
 * Evening Course: Andy McCulloch (<a href="mailto:andy@coggesparish.com?subject=Alpha">andy@coggesparish.com</a>)
 or 07973 721849.
 
+<iframe width="771" height="434" src="https://www.youtube.com/embed/XLQZM1QwuUs" frameborder="0" allowfullscreen></iframe>
