@@ -2,7 +2,7 @@
 layout: page
 title:  "Alpha"
 group: "connect"
-contact: "Rich White"
+contacts: ["Rich White"]
 ---
 
 * Who is Jesus?
