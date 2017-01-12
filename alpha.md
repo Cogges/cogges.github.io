@@ -12,6 +12,8 @@ contacts: ["Rich White"]
 
 Do these kinds of questions bug you? Then the <a href="http://alpha.org/">Alpha course</a> is just for you.
 
+<iframe width="771" height="434" src="https://www.youtube.com/embed/XLQZM1QwuUs" frameborder="0" allowfullscreen></iframe>
+
 ### The Alpha course
 
 The Alpha course is for those with questions about Christianity, the meaning of life and everything.
