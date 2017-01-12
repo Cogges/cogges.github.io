@@ -2,7 +2,6 @@
 layout: one_column_page
 title:  "Alpha"
 group: "connect"
-contacts: ["Rich White"]
 ---
 
 * Who is Jesus?
