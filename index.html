@@ -2,7 +2,7 @@
 layout: default
 title: "St Mary's Cogges"
 photo_credit: "Tim Partridge"
-vimeo_video_id:
+vimeo_video_id: 199056329
 ---
 <div id="homepage">
   <div class="col-md-2"><!-- padding --></div>
@@ -19,19 +19,9 @@ vimeo_video_id:
     <img src="images/simon.png" alt="simon" width="194" height="93">
     <p class="indent">Rev Simon Kirby<br/><em>Vicar of Cogges, North and South Leigh</em></p>
 
-    {% if page.vimeo_video_id %}
-
-    <h3 class="hello">Cogges Life</h3>
-
-    <!-- 16:9 aspect ratio -->
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe src="//player.vimeo.com/video/{{page.vimeo_video_id}}?title=0&amp;byline=0&amp;portrait=0&amp;color=c41440" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/{{page.vimeo_video_id}}"></a>
-    </div>
-    {% endif %}
-
 
     <h2 class="homepage"></h2>
-    
+
 
     <div class="list-group events" id="upcoming-services">
       <!-- Do not edit - loaded by javascript from calendar -->
@@ -56,6 +46,17 @@ vimeo_video_id:
       </a>
     </div>
 
+    {% if page.vimeo_video_id %}
+
+    <h3 class="hello">Cogges Nativity 2016</h3>
+
+    <!-- 16:9 aspect ratio -->
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe src="//player.vimeo.com/video/{{page.vimeo_video_id}}?title=0&amp;byline=0&amp;portrait=0&amp;color=c41440" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/{{page.vimeo_video_id}}"></a>
+    </div>
+    {% endif %}
+
+
   </div>
 
 </div>
@@ -64,7 +65,7 @@ vimeo_video_id:
 <script type="text/javascript" src="/js/gcal.js"></script>
 <script type="text/javascript">
   function getCalendarEvents() {
-    gapi.client.setApiKey('AIzaSyBlJ5ZHc1aK-62XBGx_7ZR5_azI_xF9C2E');    
+    gapi.client.setApiKey('AIzaSyBlJ5ZHc1aK-62XBGx_7ZR5_azI_xF9C2E');
     makeApiCall(listElementEvents, 'events@coggesparish.com', 'upcoming-events', 'Events', 100, '*');
     makeApiCall(listElementEvents, 'calendar@coggesparish.com', 'upcoming-services', 'Services', 5);
   }

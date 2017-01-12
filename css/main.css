@@ -876,3 +876,7 @@ img[alt='PDF'] {
 body.home_cogges_church_data_protection_policy {
   background: rgb(230,230,230);
 }
+
+#embedded-video {
+  margin-bottom: 2em;
+}
