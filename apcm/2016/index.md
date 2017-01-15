@@ -30,16 +30,16 @@ Annual Report and Financial Statements by the PCC Treasurer, Keith Harwood:
 ### Presentations:
 
 &nbsp;&nbsp;a. Youth by Heidi Mäki-Patola:
-- [Presentation Slides](/documents/APCM-2016-02-25-slides-Youth.pdf target="_blank") ![PDF](/images/pdficon_large.png)
+- [Presentation Slides](/documents/APCM-2016-02-25-slides-Youth.pdf) ![PDF](/images/pdficon_large.png)
 
 &nbsp;&nbsp;b. Children by Kirsty Morgan:
-- [Presentation Slides](/documents/APCM-2016-02-25-slides-Children.pdf target="_blank") ![PDF](/images/pdficon_large.png)
+- [Presentation Slides](/documents/APCM-2016-02-25-slides-Children.pdf) ![PDF](/images/pdficon_large.png)
 
-&nbsp;&nbsp;a. Operations by Andy McCulloch:
-- [Presentation Slides](/documents/APCM-2016-02-25-slides-Operations.pdf target="_blank") ![PDF](/images/pdficon_large.png)
+&nbsp;&nbsp;c. Operations by Andy McCulloch:
+- [Presentation Slides](/documents/APCM-2016-02-25-slides-Operations.pdf) ![PDF](/images/pdficon_large.png)
 
 ### The Vicar's Report by Rev Simon Kirby:
-- [Presentation Transcript](/documents/APCM-2016-02-25-talk-Vicar.pdf target="_blank") ![PDF](/images/pdficon_large.png)
+- [Presentation Transcript](/documents/APCM-2016-02-25-talk-Vicar.pdf) ![PDF](/images/pdficon_large.png)
 
 <br>
 <span>Updated 15th January 2017.</span>
