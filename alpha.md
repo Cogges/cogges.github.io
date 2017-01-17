@@ -33,3 +33,4 @@ or phone St Mary Cogges church office on 01993 779613.
 * Evening Course: Andy McCulloch (<a href="mailto:andy@coggesparish.com?subject=Alpha">andy@coggesparish.com</a>)
 or 07973 721849.
 
+<iframe width="771" height="434" src="https://www.youtube.com/embed/XLQZM1QwuUs" frameborder="0" allowfullscreen></iframe>

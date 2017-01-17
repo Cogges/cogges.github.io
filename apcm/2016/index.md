@@ -1,51 +1,43 @@
 ---
 layout: page
-title: "APCM 2016"
+title: "Annual Parochial Church Meeting 2016"
 contacts: ["Malcolm Harper"]
 ---
-## Notice of Meeting
 
-The Annual Parochial Church Meeting will be held<br>
-at 7:30pm on Thursday, 25th February 2016<br>
+The Annual Parochial Church Meeting was held<br>
+on Thursday, 25th February 2016<br>
 in St Mary's Church, Cogges.
 
-## Agenda
+### Agenda and papers for APCM 2016
 
-### The meeting will begin with the meeting of parishioners:
+Full details of the meeting of parishioners and the Annual Parochial Church Meeting, together with various written reports, can be found
+from the original [Agenda](agenda.html "Opens link to the 'Agenda and papers for APCM 2016' page") for the meeting.
 
-1. A meeting of parishioners to elect two Churchwardens
-([nomination form enclosed](http://media.coggesparish.com/apcm/2016/Nomination%20of%20Churchwarden.pdf "Opens link to the 'Nomination of Churchwarden' pdf document.") ![PDF](/images/pdficon_large.png)) 
+Draft [Minutes]({{"/documents/apcm/2016/Apcm16_minutes.pdf"}} "Opens link to the Apcm16_minutes.pdf document." target="_blank") ![PDF](/images/pdficon_large.png) are now available.
 
-### There will then be the formal business of the APCM:
+## Meeting Report
 
-1. Minutes of the 2015 APCM
-([enclosed](http://media.coggesparish.com/apcm/2016/Apcm15_minutes.pdf "Opens link to the 'Apcm15_minutes' pdf document.") ![PDF](/images/pdficon_large.png))
-2. A report on the revision of the electoral roll
-([enclosed](http://media.coggesparish.com/apcm/2016/Electoral%20Roll%20Report%202016.pdf "Opens link to the 'Electoral Roll Report 2016' pdf document.") ![PDF](/images/pdficon_large.png))
-3. The annual report and financial statements of the PCC for 2015
-([enclosed](http://media.coggesparish.com/apcm/2016/AR+FS_2015.pdf "Opens link to the 'AR+FS_2015' pdf document.") ![PDF](/images/pdficon_large.png))
-4. The Churchwardens' report on the fabric, goods and ornaments of St Mary's Church, Cogges
-([enclosed](http://media.coggesparish.com/apcm/2016/2016%20CW%20Report%20Goods%20Ornaments%20and%20Fabric.pdf "Opens link to the '2016 CW Report Goods Ornaments and Fabric' pdf document.") ![PDF](/images/pdficon_large.png))
-5. A report on the proceedings of the Deanery Synod
-([enclosed](http://media.coggesparish.com/apcm/2016/Deanery%20Synod%20APCM%202016.pdf "Opens link to the 'Deanery Synod APCM 2016' pdf document.") ![PDF](/images/pdficon_large.png)) 
-6. An election of one member of the laity to the Deanery Synod (for 1 year) and eight members of the laity to the PCC (for up to 3 years)
-([nomination form enclosed](http://media.coggesparish.com/apcm/2016/Nomination%20for%20Synod%20or%20PCC.pdf "Opens link to the 'Nomination for Synod or PCC' pdf document.") ![PDF](/images/pdficon_large.png)) 
-7. The appointment of sidesmen (delegated to the Churchwardens by resolution of the 1999 APCM)
-8. The appointment of an independent financial examiner for 2016 (the PCC has nominated A J Carter & Co)
-9. Questions or comments on matters of Parochial interest
-10. Any other business
-11. Commissioning of the new PCC
+Unfortunately the meeting was not recorded, but the following talks and presentation slides are available.
 
-### Worship, followed by presentations and discussion:
+### The formal meeting:
 
-1. Presentations on:<br>
- a. Youth<br>
- b. Children<br>
- c. Operations<br>
- d. Welcome
+Annual Report and Financial Statements by the PCC Treasurer, Keith Harwood:
+- [Presentation Slides](/documents/APCM-2016-02-25-slides-Treasurer.pdf) ![PDF](/images/pdficon_large.png)
+- [Presentation Script](/documents/APCM-2016-02-25-talk-Treasurer.pdf) ![PDF](/images/pdficon_large.png)
 
-2. The Vicar, Rev Simon Kirby<br>
+### Presentations:
 
-*This year at our vision night we will look back in gratitude for some of the things that God has achieved in and through us this last year and look forward in anticipation and expectation as we consider some of the plans for 2016.*
+&nbsp;&nbsp;a. Youth by Heidi Mäki-Patola:
+- [Presentation Slides](/documents/APCM-2016-02-25-slides-Youth.pdf) ![PDF](/images/pdficon_large.png)
 
-### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
+&nbsp;&nbsp;b. Children by Kirsty Morgan:
+- [Presentation Slides](/documents/APCM-2016-02-25-slides-Children.pdf) ![PDF](/images/pdficon_large.png)
+
+&nbsp;&nbsp;c. Operations by Andy McCulloch:
+- [Presentation Slides](/documents/APCM-2016-02-25-slides-Operations.pdf) ![PDF](/images/pdficon_large.png)
+
+### The Vicar's Report by Rev Simon Kirby:
+- [Presentation Transcript](/documents/APCM-2016-02-25-talk-Vicar.pdf) ![PDF](/images/pdficon_large.png)
+
+<br>
+<span>Updated 15th January 2017.</span>
