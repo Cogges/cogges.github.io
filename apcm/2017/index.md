@@ -62,3 +62,5 @@ in St Mary's Church, Cogges.
 *This year at our vision night we will look back in gratitude for some of the things that God has achieved in and through us this last year and look forward in anticipation and expectation as we consider some of the plans for 2017.*
 
 ### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
+
+<br><br>
