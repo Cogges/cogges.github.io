@@ -50,12 +50,11 @@ in St Mary's Church, Cogges.
 ### Worship, followed by presentations and discussion:
 
 1. Presentations:<br>
-<!--
- a. Youth<br>
- b. Children<br>
- c. Operations<br>
- d. Welcome
--->
+
+ a. Children and Youth<br>
+ b. Discipleship and Connect Groups<br>
+ c. Mission
+
 
 2. The Vicar, Rev Simon Kirby<br>
 
