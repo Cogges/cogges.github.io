@@ -33,7 +33,7 @@ Annual Report and Financial Statements by the PCC Treasurer, Keith Harwood:
 - [Presentation Slides](/documents/APCM-2017-02-23-slides-ConnectGroups.pdf) ![PDF](/images/pdficon_large.png)
 
 &nbsp;&nbsp;c. Mission by Martin Thomas:
-- [Presentation Slide](/documents/APCM-2016-02-25-slides-Mission.pdf) ![PDF](/images/pdficon_large.png)
+- [Presentation Slide](/documents/APCM-2017-02-23-slides-Mission.pdf) ![PDF](/images/pdficon_large.png)
 
 ### The Vicar's Report by Rev Simon Kirby:
 - [Presentation Transcript](/documents/APCM-2017-02-23-talk-Vicar.pdf) ![PDF](/images/pdficon_large.png)
