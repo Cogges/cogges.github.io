@@ -19,26 +19,21 @@ Draft [Minutes]({{"/documents/apcm/2017/Apcm17_minutes.pdf"}} "Opens link to the
 
 Unfortunately the meeting was not recorded, but the following talks and presentation slides are available.
 
-<!--
 ### The formal meeting:
 
 Annual Report and Financial Statements by the PCC Treasurer, Keith Harwood:
-- [Presentation Slides](/documents/APCM-2016-02-25-slides-Treasurer.pdf) ![PDF](/images/pdficon_large.png)
-- [Presentation Script](/documents/APCM-2016-02-25-talk-Treasurer.pdf) ![PDF](/images/pdficon_large.png)
--->
+- [Presentation Transcript](/documents/APCM-2017-02-23-talk-Treasurer.pdf) ![PDF](/images/pdficon_large.png)
 
 ### Presentations:
 
-<!--
-&nbsp;&nbsp;a. Youth by Heidi Gower:
-- [Presentation Slides](/documents/APCM-2016-02-25-slides-Youth.pdf) ![PDF](/images/pdficon_large.png)
+&nbsp;&nbsp;a. Youth and Children by Heidi Gower and Kirsty Morgan:
+- [Presentation Slides](/documents/APCM-2017-02-23-slides-Youth+Children.pdf) ![PDF](/images/pdficon_large.png)
 
-&nbsp;&nbsp;b. Children by Kirsty Morgan:
-- [Presentation Slides](/documents/APCM-2016-02-25-slides-Children.pdf) ![PDF](/images/pdficon_large.png)
+&nbsp;&nbsp;b. Connect Groups by Rich White:
+- [Presentation Slides](/documents/APCM-2017-02-23-slides-ConnectGroups.pdf) ![PDF](/images/pdficon_large.png)
 
-&nbsp;&nbsp;c. Operations by Andy McCulloch:
-- [Presentation Slides](/documents/APCM-2016-02-25-slides-Operations.pdf) ![PDF](/images/pdficon_large.png)
--->
+&nbsp;&nbsp;c. Mission by Martin Thomas:
+- [Presentation Slide](/documents/APCM-2016-02-25-slides-Mission.pdf) ![PDF](/images/pdficon_large.png)
 
 ### The Vicar's Report by Rev Simon Kirby:
 - [Presentation Transcript](/documents/APCM-2017-02-23-talk-Vicar.pdf) ![PDF](/images/pdficon_large.png)
