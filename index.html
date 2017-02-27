@@ -31,6 +31,16 @@ vimeo_video_id:
       <!-- Do not edit - loaded by javascript from calendar -->
     </div>
 
+    <!-- Hand-crafted section to link to the APCM reports for a while -->
+    <div class="list-group sermons">
+    <span class="list-group-item list-group-item-header">Reports from the Vision Night:</span>
+    <a class="list-group-item" href="/apcm/2017/">
+      <span class="title hidden-xs">Reports and Presentations from the APCM</span>
+      <span class="pull-right">Feb 23</span>
+    </a>
+    </div>
+    <!-- end of section on APCM reports -->
+
     <div class="list-group sermons">
       <span class="list-group-item list-group-item-header">Latest Sermons:</span>
       {% for post in site.categories.sermon limit:2 %}
@@ -55,14 +65,6 @@ vimeo_video_id:
       <iframe src="//player.vimeo.com/video/{{page.vimeo_video_id}}?title=0&amp;byline=0&amp;portrait=0&amp;color=c41440" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/{{page.vimeo_video_id}}"></a>
     </div>
     {% endif %}
-
-  <div class="list-group sermons">
-    <span class="list-group-item list-group-item-header">Reports from the Vision Night:</span>
-    <a class="list-group-item" href="/apcm/2017/">
-      <span class="title hidden-xs">Reports and Presentations from the APCM</span>
-      <span class="pull-right">Feb 23</span>
-    </a>
-  </div>
 
 </div>
 </div>
