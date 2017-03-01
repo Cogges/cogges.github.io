@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: ""
+title: "Gareth Robinson 9.15am"
 date: "2017-02-26 09:15:00"
 audio: "/documents/2017-02-26 Gareth Robinson 09-15.mp3"
 speaker: "Gareth Robinson"
