@@ -37,6 +37,7 @@ PCC membership following elections:
 - [Presentation Slides](/documents/APCM-2017-02-23-slides-ConnectGroups.pdf) ![PDF](/images/pdficon_large.png)
 
 &nbsp;&nbsp;c. Mission by Martin Thomas:
+- [Presentation Transcript](/documents/APCM-2017-02-23-talk-Mission.pdf) ![PDF](/images/pdficon_large.png)
 - [Presentation Slide](/documents/APCM-2017-02-23-slides-Mission.pdf) ![PDF](/images/pdficon_large.png)
 
 ### The Vicar's Report by Rev Simon Kirby:
