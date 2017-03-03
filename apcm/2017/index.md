@@ -30,6 +30,7 @@ Annual Report and Financial Statements by the PCC Treasurer, Keith Harwood:
 - [Presentation Slides](/documents/APCM-2017-02-23-slides-Youth+Children.pdf) ![PDF](/images/pdficon_large.png)
 
 &nbsp;&nbsp;b. Connect Groups by Rich White:
+- [Presentation Notes](/documents/APCM-2017-02-23-notes-ConnectGroups.pdf) ![PDF](/images/pdficon_large.png)
 - [Presentation Slides](/documents/APCM-2017-02-23-slides-ConnectGroups.pdf) ![PDF](/images/pdficon_large.png)
 
 &nbsp;&nbsp;c. Mission by Martin Thomas:
@@ -37,6 +38,7 @@ Annual Report and Financial Statements by the PCC Treasurer, Keith Harwood:
 
 ### The Vicar's Report by Rev Simon Kirby:
 - [Presentation Transcript](/documents/APCM-2017-02-23-talk-Vicar.pdf) ![PDF](/images/pdficon_large.png)
+- [Presentation Slides](/documents/APCM-2017-02-23-slides-Vicar.pdf) ![PDF](/images/pdficon_large.png)
 
 <br>
-<span>Updated 26th February 2017.</span>
+<span>Updated 3rd March 2017.</span>
