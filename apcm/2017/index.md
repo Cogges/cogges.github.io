@@ -24,6 +24,9 @@ Unfortunately the meeting was not recorded, but the following talks and presenta
 Annual Report and Financial Statements by the PCC Treasurer, Keith Harwood:
 - [Presentation Transcript](/documents/APCM-2017-02-23-talk-Treasurer.pdf) ![PDF](/images/pdficon_large.png)
 
+PCC membership following elections:
+- [PCC membership 2017/2018](PCC membership 2017-2018.pdf) ![PDF](/images/pdficon_large.png)
+
 ### Presentations:
 
 &nbsp;&nbsp;a. Youth and Children by Heidi Gower and Kirsty Morgan:
