@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: "Daniel"
-title: "Conviction in a Culture of Compromise"
+title: "Pride comes before a fall"
 date: "2017-01-29 10:30:00"
 audio: "/documents/2017-01-29 Rich White.mp3"
 speaker: "Rich White"
