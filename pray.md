@@ -11,12 +11,14 @@ contacts:
 published: true
 ---
 
-# Opportunities Sprint 2017
+# Opportunities Spring/Summer 2017
+
+A time to worship and pray for church, community, national and global issues together
 
 ### Pursuit
 
 - *Venue:* St Mary’s Cogges 
-- *Date:* Wednesday 4th January 7.30pm
+- *Date:* Thursday 25th May 7.30pm
 - *Details:* all church gathering to worship and pray      
 
 ### WEEKLY ON THURSDAY MORNINGS
@@ -32,7 +34,7 @@ published: true
 An opportunity to meet every month on the first Wednesday of each month in the home of a congregation member.
 
 - *Venue:* on request
-- *Dates*: 1st February, 1st March, 5th April
+- *Dates*: 5th April, 3rd May, 7th June, 5th July
 - *Time:* 8.00-9.30pm
 - *Contact:* Jane Holloway
 - *Details:* a time to worship and pray for church, community, national and global issues together
