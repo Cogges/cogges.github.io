@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: "Daniel"
-title: "Conviction in a Culture of Compromise"
+title: "Pride comes before a fall"
 date: "2017-01-29 18:30:00"
 audio: "/documents/2017-01-29 Andy Bailey.mp3"
 speaker: "Andy Bailey"
