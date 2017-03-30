@@ -2,14 +2,13 @@
 layout: page
 title:  "Youth"
 group: "engage"
-contacts: ["Heidi Gower"]
+contacts: ["Heidi Gower", "Ben Osman"]
 ---
 
 ### Youth Connect Group
 
 Youth Connect Group Years 10-12 meet on Thursdays from 7-9pm.  Please contact 
-<a href="mailto:heidi@coggesparish.com">Heidi</a> 
-for further details.
+[Heidi](mailto:heidi@coggesparish.com) for further details.
 
 ### Sundays
 
