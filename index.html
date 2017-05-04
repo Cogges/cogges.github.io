@@ -23,6 +23,17 @@ vimeo_video_id: "216033956"
     <h2 class="homepage"></h2>
 
 
+    {% if page.vimeo_video_id %}
+
+    <h3 class="hello">Cogges Gift Day 2017</h3>
+
+    <!-- 16:9 aspect ratio -->
+    <div id="embedded-video" class="embed-responsive embed-responsive-16by9">
+      <iframe src="//player.vimeo.com/video/{{page.vimeo_video_id}}?title=0&amp;byline=0&amp;portrait=0&amp;color=c41440" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/{{page.vimeo_video_id}}"></a>
+    </div>
+    {% endif %}
+
+
     <div class="list-group events" id="upcoming-services">
       <!-- Do not edit - loaded by javascript from calendar -->
     </div>
@@ -31,7 +42,7 @@ vimeo_video_id: "216033956"
       <!-- Do not edit - loaded by javascript from calendar -->
     </div>
 
-    <!-- Hand-crafted section to link to the APCM reports for a while -->
+    <!-- Hand-crafted section to link to the APCM reports for a while
     <div class="list-group sermons">
     <span class="list-group-item list-group-item-header">Reports from the Vision Night:</span>
     <a class="list-group-item" href="/apcm/2017/">
@@ -39,7 +50,7 @@ vimeo_video_id: "216033956"
       <span class="pull-right">Feb 23</span>
     </a>
     </div>
-    <!-- end of section on APCM reports -->
+     end of section on APCM reports -->
 
     <div class="list-group sermons">
       <span class="list-group-item list-group-item-header">Latest Sermons:</span>
@@ -56,15 +67,7 @@ vimeo_video_id: "216033956"
       </a>
     </div>
 
-    {% if page.vimeo_video_id %}
 
-    <h3 class="hello">Cogges Gift Day 2017</h3>
-
-    <!-- 16:9 aspect ratio -->
-    <div id="embedded-video" class="embed-responsive embed-responsive-16by9">
-      <iframe src="//player.vimeo.com/video/{{page.vimeo_video_id}}?title=0&amp;byline=0&amp;portrait=0&amp;color=c41440" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/{{page.vimeo_video_id}}"></a>
-    </div>
-    {% endif %}
 
 </div>
 </div>
