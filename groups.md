@@ -42,6 +42,8 @@ the Madley Park community.
 
 ### ALAN AND JILL ELSON - Tuesday eve WOODSTOCK ROAD
 
+Our Connect Group is a place where we gather to meet with God and one another, 
+through worship, exploring the Bible and praying together. 
 We are excited about developing our friendships, coming alongside one another
 in the highs and lows of everyday life and encouraging one another to explore
 what God has for each of us.
