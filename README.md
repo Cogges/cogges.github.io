@@ -33,9 +33,10 @@
 1. Changes get applied automatically and are usually immediate but can take up to 10 minutes to appear.
 	* Refresh the page a few times to see your changes.
 
-####Notes
+#### Notes
 * dates should be formatted as YYYY-MM-DD (time is optional)
-* if youtube videos are used then use "youtube_videos" and these will be embedded automatically
+* if youtube videos are used then use "youtube_videos" and these will be embedded automatically 
+* for youtube videos only the ID is required (the bit after v= in the url) (`www.youtube.com/watch?v=uwyltmUR3MU` => `uwyltmUR3MU`)
 * use slides for downloadable presentations (ideally pdf)
 * files expects a list of urls with each url in quotes (use files for other downloadable content)
 * bible passages is a list of passages used as search terms for bible gateway
@@ -48,14 +49,14 @@
 - date: 2013 01 22
 
 
-###Principles
+### Principles
 1. The Google calendar is the master record of what is happening at Cogges.
 1. All events which use the church building **must** be confirmed by the Office and entered into the Google Calendar.
 1. All events published or advertised in 'Update' **should** be confirmed by the Office and entered into the Google Calendar.
 1. All other events are included on the Google Calendar at the discretion of the organiser.
 
 
-###Assumptions
+### Assumptions
 1. The event complies with other church policies (e.g. risk assessment and child protection policies)
 1. The event is 'approved' (e.g. approved by the appropriate hubs / PCC / Vicar )
 
@@ -75,7 +76,7 @@
 1. If neither date is available either repeat with new dates or contact the office to discuss.
 
 
-###Adding to the Calendar
+### Adding to the Calendar
 - Events that are on the church Google calendars are automatically pulled onto the website.
 - Title - stick to titles less than 30 characters
 - Description - limit to about 70 characters
