@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: "Worship"
-title: "Costly Worship"
+title: "Behold & Beheld"
 date: "2017-06-11 18:30:00"
 audio: "/documents/2017-06-11 Rich White.mp3"
 speaker: "Rich White"
