@@ -12,7 +12,7 @@ vimeo_videos: [""]
 slides: [""]
 files: [""]
 bible_passages: ["1 Peter 1"]
-bible_links: ["1 Peter 13&amp;version=NIVUK"]
+bible_links: ["1 Peter 1&amp;version=NIVUK"]
 bible_videos: [""]
 bible_videos_links: [""]
 category: "sermon"
