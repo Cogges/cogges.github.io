@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: "1 Peter"
-title: "1 Peter 2"
+title: "1 Peter 2:2"
 date: "2017-07-09 09:15:00"
 audio: "/documents/2017-07-09 Martin Down.mp3"
 speaker: "Martin Down"
