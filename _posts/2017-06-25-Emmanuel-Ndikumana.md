@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: ""
+title: "Being salt and light right where we are"
 date: "2017-06-25 18:30:00"
 audio: "/documents/2017-06-25 Emmanuel Ndikumana.mp3"
 speaker: "Emmanuel Ndikumana"
