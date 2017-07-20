@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: "1 Peter"
-title: "1 Peter 3"
+title: "Saved by the resurrection of Jesus Christ"
 date: "2017-07-16 09:15:00"
 audio: "/documents/2017-07-16 Mari Graves.mp3"
 speaker: "Mari Graves"
