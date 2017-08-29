@@ -11,14 +11,15 @@ contacts:
 published: true
 ---
 
-# Opportunities Spring/Summer 2017
+
+# Opportunities Autumn 2017
 
 A time to worship and pray for church, community, national and global issues together
 
 ### Pursuit
 
 - *Venue:* St Mary’s Cogges 
-- *Date:* Thursday 25th May 7.30pm
+- *Date:* Wed 20th September 7.30pm
 - *Details:* all church gathering to worship and pray      
 
 ### WEEKLY ON THURSDAY MORNINGS
@@ -34,7 +35,7 @@ A time to worship and pray for church, community, national and global issues tog
 An opportunity to meet every month on the first Wednesday of each month in the home of a congregation member.
 
 - *Venue:* on request
-- *Dates*: 5th April, 3rd May, 7th June, 5th July
+- *Dates*: 4th October, 1st November, 6th December
 - *Time:* 8.00-9.30pm
 - *Contact:* Jane Holloway
 - *Details:* a time to worship and pray for church, community, national and global issues together
@@ -42,7 +43,7 @@ An opportunity to meet every month on the first Wednesday of each month in the h
 ### PRAYER FOR WOOD GREEN SCHOOL
 
 - *Venue:* 33A High Street
-- *Dates*: Tuesdays (from 10th January)
+- *Dates*: Tuesdays 
 - *Time:* 8.30am-9.30am
 - *Contact:* Judith Ledden
 - *Details:* This is for any parents, grandparents or anyone with an interest in the school. We pray God’s blessing over the school, praying for all the staff and pupils and particularly those known to us. We also pray about special events, trips and exams when we know these are taking place.
@@ -60,7 +61,7 @@ An opportunity to meet every month on the first Wednesday of each month in the h
 - *Venue:* on request.
 - *Dates*: Friday mornings, (generally) in term time.
 - *Time:* 9.15am - 11am
-- *Contact:* contact@witneybesom.org    or 07549 842789
+- *Contact:* contact@witneybesom.org or 07549 842789
 - *Details:* The time is spent in sharing what God has done, planning Besom events and activities and in prayer. Everyone is welcome.
 
 ### CHRISTIANS AGAINST POVERTY (CAP) PRAYER MEETING
