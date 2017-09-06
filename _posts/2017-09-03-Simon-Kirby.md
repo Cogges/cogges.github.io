@@ -10,7 +10,7 @@ duration: "18'54"
 youtube_videos: [""]
 vimeo_videos: [""]
 slides: [""]
-files: [""]
+files: ["/documents/Sept 3rd - Knowing God.pdf"]
 bible_passages: ["Psalm 63"]
 bible_links: ["Psalm 63&amp;version=NIVUK"]
 bible_videos: [""]
