@@ -19,12 +19,12 @@ If you would like to join one of our groups, please contact Rich White:
 rich@coggesparish.com or Sue Kirby: sue.kirby@coggesparish.com or telephone
 the Church Office on: 01993 779 613.
 
-### DAVID SMITH - Monday AM
+### ALI LAITHWAITE - Monday am VARIOUS
 
 We meet each week and concentrate on intercessory prayer for people and events in
 our locality and the nation.
 
-### BARBARA EATON - Tuesday AM COGGES HILL ROAD
+### BARBARA EATON - Tuesday am COGGES HILL ROAD
 
 Our group uses bible studies to explore their faith and promote meaningful and
 lively discussions
@@ -40,7 +40,7 @@ focus is on inclusion and the ethos of our group is caring, listening and empowe
 We meet fortnightly for Bible Study, Prayer and fellowship, taking a special interest in
 the Madley Park community.
 
-### ALAN AND JILL ELSON - Tuesday eve WOODSTOCK ROAD
+### ALAN & JILL ELSON - Tuesday eve WOODSTOCK ROAD
 
 Our Connect Group is a place where we gather to meet with God and one another, 
 through worship, exploring the Bible and praying together. 
@@ -48,7 +48,7 @@ We are excited about developing our friendships, coming alongside one another
 in the highs and lows of everyday life and encouraging one another to explore
 what God has for each of us.
 
-### PAUL AND MARI GRAVES - Tuesday eve CENTRAL WITNEY
+### PAUL & MARI GRAVES - Tuesday eve CENTRAL WITNEY
 
 We enjoy worshipping God, exploring His word together and supporting one
 another in prayer as a springboard for our witness to the wider world. We usually
@@ -74,21 +74,13 @@ We are a lively, good-humoured group that meets fortnightly to encounter God
 through exploring the Bible and through prayer, to learn about our faith, and to
 support each other on the journey.
 
-### OLIVIA WATTERSON & ANNA CROSSLEY - Wednesday AM BAMPTON
-
-Mums of Little Ones is a friendly group of (mainly) mums meeting every Wednesday
-9.30-11.30am. Our aim is to be close friends who help each other throughout the joys
-and challenges of motherhood, using our Christian faith and welcoming those exploring
-Christianity. Although we are aimed at mums we really welcome anyone who can put
-up with a bit of chaos.
-
-### EMILY AND JASON HOYLAND- Wednesday eve VARIOUS VENUES
+### EMILY & JASON HOYLAND- Wednesday eve VARIOUS VENUES
 
 Our group aims to provide friendship and fellowship for people in their twenties and
 thirties and support them through the changes and challenges that this stage of life
 brings.
 
-### CLARE HUGGARD AND ALISON Hall - Wednesday eve VARIOUS VENUES
+### ALISON HALL - Wednesday eve VARIOUS VENUES
 
 We want to build a real sense of community where every member feels supported and
 comfortable sharing both their successes and struggles. We love to apply our faith in
@@ -96,17 +88,18 @@ practical ways in the community and enjoy a varied programme of prayer, Bible st
 meals and social events. We welcome new members who would like to join us in our
 journey of faith!
 
-### JAMES & ILONA TANNER & CATHERINE WHITE - Wednesday eve VARIOUS VENUES
+### JAMES & ILONA TANNER - Wednesday eve VARIOUS VENUES
 
-We meet weekly to eat dinner, share life, have fun, and deepen our relationship with
-God.
+We meet weekly to share life, have fun, and deepen our relationship with God.  Our 
+pattern is to alternate between meeting all together to explore the Bible and meeting 
+separately as men and women to pray and share honestly about life’s highs and lows.
 
-### JEN NUTT AND PENNY PRICE - Wednesday eve MADLEY PARK
+### JEN NUTT & PENNY PRICE - Wednesday eve MADLEY PARK
 
 We meet to encourage and support each other through prayer, reading the bible
 and generally sharing the ups and downs of life. New people welcome!
 
-### PAUL TIMMS AND MARGARET PHILLIPS - Thursday eve CENTRAL WITNEY
+### PAUL TIMMS & MARGARET PHILLIPS - Thursday eve CENTRAL WITNEY
 
 We are an informal group who have a catch- up over tea and biscuits, followed
 by a Bible study and prayer. We pray for anything from our family situations, for
@@ -120,3 +113,9 @@ A new group still getting to know each other. We are an informal friendly group
 that laugh a lot. We want to maintain a relaxed, safe and authentic place where
 you can be yourself and be encouraged and supported in your relationship with
 God.
+
+### JUDY MARSHALL - Thursday pm VARIOUS
+
+A group ideally suited to those who have been through the Alpha course wanting to 
+experience friendship and continue the journey of discovering who Jesus is and how 
+he shapes our lives. 
