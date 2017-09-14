@@ -16,8 +16,8 @@ Do these kinds of questions bug you? Then the [Alpha course](http://alpha.org/) 
 
 A great opportunity to explore the Christian faith and ask questions about life.
 
-Starts Thursday 21st September. Daytime Alpha: 1-2.30pm at Madley Park Hall during Cogglets, with 
-Sandwich de Witney lunch included. Evening Alpha: 7-9.30pm at The Blue Boar with dinner included.
+Starts Thursday 21st September. Daytime Alpha: Thursdays 1-2.30pm at Madley Park Hall during Cogglets, with 
+Sandwich de Witney lunch included. Evening Alpha: Thursdays 7-9.30pm at The Blue Boar with dinner included.
 
 To ensure we have food for you(!) email office@coggesparish.com or call 01993 779613
 
