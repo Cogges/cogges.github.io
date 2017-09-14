@@ -21,6 +21,4 @@ Sandwich de Witney lunch included. Evening Alpha: 7-9.30pm at The Blue Boar with
 
 To ensure we have food for you(!) email office@coggesparish.com or call 01993 779613
 
-
-
-<iframe width="771" height="434" src="https://www.youtube.com/watch?v=-WXr0vcT45w" frameborder="0" allowfullscreen></iframe>
+<iframe width="771" height="434" src="https://www.youtube.com/embed/-WXr0vcT45w" frameborder="0" allowfullscreen></iframe>
