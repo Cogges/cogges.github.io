@@ -77,13 +77,12 @@ There are four further exceptional circumstances to the above permitted by law:
 
 
 ## The Database
-Information contained on the database will not be used for any other purposes than set out in this section. The database is accessed through a remote server and therefore, can be accessed through any computer with internet access. The server for the database is located within the EU and managed by Croftsware Ltd.
+Information contained on the database will not be used for any other purposes than set out in this section. The database is accessed through a remote server and therefore, can be accessed through any computer with internet access. The server for the database is located within the UK and managed by ChurchApp Ltd.
 
 - Access to the database is strictly controlled through the use of name specific passwords.
-- Access is authorised by the Church office and overseen by the Operations Director and Data Protection Officer.
+- Access is authorised by the Church office and overseen by the Operations Director.
 - Those authorised to use the database only have access to their specific area of use within the database. 
-- People who will have secure and authorised access to the database include Cogges Staff, data in-putters, Ministry Team Leaders, Small Group Leaders and PCC.
-- All access and activity on the database is logged and can be viewed by the Church office.
+- People who may have secure and authorised access to the database include Cogges Staff, data in-putters, Ministry Team Leaders, Small Group Leaders and PCC.
 
 
 ## Rights to Access Information
@@ -108,6 +107,7 @@ Cogges aims to comply with requests for access to personal information as quickl
 [^3]: [http://www.legislation.gov.uk/ukpga/1998/29](http://www.legislation.gov.uk/ukpga/1998/29)
 
 #### Revisions
-- May 9th initial check-in - draft [James Webster]
-- May 10th format changes & clarifying the re-publishing of infomation already in the publich domain [James Webster]
-- June 13th feeback from PCC Lay Chair (Harvey Leach) clarifications and detail around access control to database
+- May 9th 2016 initial check-in - draft [James Webster]
+- May 10th 2016 format changes & clarifying the re-publishing of infomation already in the public domain [James Webster]
+- June 13th 2016 feedback from PCC Lay Chair (Harvey Leach) clarifications and detail around access control to database
+- Sept 19th 2017 typos and change of database provider
