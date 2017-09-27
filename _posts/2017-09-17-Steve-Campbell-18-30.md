@@ -10,7 +10,7 @@ duration: "47'59"
 youtube_videos: [""]
 vimeo_videos: [""]
 slides: [""]
-files: [""]
+files: ["/documents/17 September 2017.pdf"]
 bible_passages: [""]
 bible_links: ["&amp;version=NIVUK"]
 bible_videos: [""]
