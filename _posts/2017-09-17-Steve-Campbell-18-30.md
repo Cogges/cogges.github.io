@@ -1,4 +1,4 @@
---
+---
 layout: sermon
 series: "Generosity"
 title: "Generosity Practices"
