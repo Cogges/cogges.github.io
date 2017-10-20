@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: ""
+title: "Return of the Prodigal"
 date: "2017-10-15 18:30:00"
 audio: "/documents/2017-10-15 Andy Bailey.mp3"
 speaker: "Andy Bailey"
