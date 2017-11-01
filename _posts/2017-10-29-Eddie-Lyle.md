@@ -10,7 +10,7 @@ duration: "48'13"
 youtube_videos: [""]
 vimeo_videos: [""]
 slides: [""]
-files: [""]
+files: ["/documents/Healing - A Biblical Basis.pdf"]
 bible_passages: ["Matthew 28"]
 bible_links: ["Matthew 28&amp;version=NIVUK"]
 bible_videos: [""]
