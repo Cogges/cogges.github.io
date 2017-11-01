@@ -9,8 +9,8 @@ speaker_info: ""
 duration: "26'07"
 youtube_videos: [""]
 vimeo_videos: [""]
-slides: [""]
-files: ["/documents/Healing notes.pdf"]
+slides: ["/documents/Healing notes.pdf"]
+files: [""]
 bible_passages: ["Luke 8"]
 bible_links: ["Luke 8&amp;version=NIVUK"]
 bible_videos: [""]
