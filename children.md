@@ -2,7 +2,7 @@
 layout: page
 title:  "Children & Families"
 group: "engage"
-contacts: ["Kirsty Morgan", "Catherine White"]
+contacts: ["Kirsty Morgan"]
 ---
 
 *We believe children are a key part of our church and we aim to encourage them in their journey of faith, through worship, encounter, discipleship and teaching.*
@@ -10,7 +10,7 @@ contacts: ["Kirsty Morgan", "Catherine White"]
 
 ### Children's Church
 
-Children’s Church is available for all 0-11 year olds. We meet on Sunday mornings from 10.20am in the Church Centre for games and free play. The children then split into 4 age-specific groups: Sparks (formerly known as crèche) for 0-2 year olds, Discoverers for 3-5 year olds, Climbers for Yr 2-3s, Explorers for Yr 4-6s.  We encourage the children to explore and develop their faith though looking at the bible, worship, encounter, craft, fun and games.
+Children’s Church is available for all 0-11 year olds. We meet on Sunday mornings from 10.20am in the Church Centre for games and free play. The children then split into 4 age-specific groups: Sparks (formerly known as crèche) for 0-2 year olds, Discoverers for 2-5 year olds, Scramblers for Yr 1-2s, Climbers for Yr 3-4s, Explorers for Yr 5-6s.  We encourage the children to explore and develop their faith though looking at the bible, worship, encounter, craft, fun and games.
 
 We believe that the family is the key place for children to develop and grow in their faith, and we aim to support families in their development and journeys of faith through communication, gatherings and parenting courses.
 
@@ -20,7 +20,7 @@ On five Sundays a year, Children’s Church meet together with the adults in the
 ### Cogglets
 
 Cogglets is a baby, toddler and carer group run by St Mary’s Church in Cogges. We welcome all children aged 0-5 years and their parents or carers. You will be welcomed with a fresh cup of coffee or tea and friendly face. At Cogglets, our focus is on the carer. We believe that if you are well cared for, the children you are caring for will be too.
-[Cogglets](/cogglets.html) meets from 1.15pm to 2.45pm (term time only) on Tuesdays at Cogges Church Centre on Church Lane OX28 3LA and on Thursdays at Madley Park Hall, OX28 1UE.
+[Cogglets](/cogglets.html) meets from 1.15pm to 2.45pm (term time only) on Thursdays at Madley Park Hall, OX28 1UE.
 
 
 ### Seasonal Events
