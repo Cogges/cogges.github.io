@@ -36,6 +36,10 @@ vimeo_video_title:
     {% endif %}
 
 
+    <div class="list-group events" id="upcoming-christmas">
+      <!-- Do not edit - loaded by javascript from calendar -->
+    </div>
+
     <div class="list-group events" id="upcoming-services">
       <!-- Do not edit - loaded by javascript from calendar -->
     </div>
@@ -79,7 +83,8 @@ vimeo_video_title:
 <script type="text/javascript">
   function getCalendarEvents() {
     gapi.client.setApiKey('AIzaSyBlJ5ZHc1aK-62XBGx_7ZR5_azI_xF9C2E');
-    makeApiCall(listElementEvents, 'events@coggesparish.com', 'upcoming-events', 'Events', 500, 5, 'Christmas');
+    makeApiCall(listElementEvents, 'calendar@coggesparish.com', 'upcoming-christmas', 'Christmas', 500, 15, 'Christmas');
+    makeApiCall(listElementEvents, 'events@coggesparish.com', 'upcoming-events', 'Other Events', 500, 5, '*');
     makeApiCall(listElementEvents, 'calendar@coggesparish.com', 'upcoming-services', 'Services', 5, 5);
   }
 </script>
