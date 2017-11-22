@@ -2,16 +2,14 @@
 layout: page
 title: "Cogglets"
 group: "connect"
-contacts: ["Catherine White", "Kirsty Morgan"]
+contacts: ["Kirsty Morgan"]
 ---
 
 ### Who we are
 Cogglets is a baby, toddler and carer group run by St Mary’s Church in Cogges. We welcome all children aged 0-5 years and their parents or carers. You will be welcomed with a fresh cup of coffee or tea, a slice of home-made cake and friendly face.  At Cogglets, our focus is on the carer. We believe that if you are well cared for, the children you are caring for will be too. 
 
 ### What we do
-We currently run two Cogglets groups:
-
-* St Mary’s Cogglets is on a Tuesday afternoon from 1.15pm to 2.45pm (term time only) at Cogges Church Centre, Church Lane, OX28 3LA.
+We currently run one Cogglets group:
 
 * Madley Cogglets is on a Thursday afternoon from 1.15pm to 2.45pm (term time only) at Madley Park Hall, OX28 1UE.
 
@@ -37,6 +35,6 @@ The cost is £1.00 per session per child.
 
 ### Contact us
 
-You are welcome just to come along on a Tuesday or Thursday but if you’d like to find out more in advance please contact Kirsty or Catherine.
+You are welcome just to come along on a Thursday but if you’d like to find out more in advance please contact Kirsty.
 
 Find us on [Facebook](https://www.facebook.com/groups/317108641669476/)
