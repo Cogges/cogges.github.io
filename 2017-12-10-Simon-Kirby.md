@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: "What if..."
-title: "'What if it was worth the wait?"
+title: "What if it was worth the wait?"
 date: "2017-12-10 10:30:00"
 audio: "/documents/2017-12-10 Simon Kirby.mp3"
 speaker: "Simon Kirby"
