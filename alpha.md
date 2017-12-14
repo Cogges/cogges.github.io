@@ -16,7 +16,7 @@ Do these kinds of questions bug you? Then [Alpha](http://alpha.org/) is just for
 
 A great opportunity to explore the Christian faith and ask questions about life.
 
-Join us for pour Alpha Supper on Thursday 11th January at 7pm
+Join us for our Alpha Supper on Thursday 11th January at 7pm
 Evening Alpha: Starting 18th January on Thursdays 7-9.30pm at Cogges Church Centre, with dinner included.
 Daytime Alpha: Starting 19th January on Fridays 9.30-11.30pm at Cogges Church Centre, starting with tea & coffee.
 
