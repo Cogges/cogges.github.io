@@ -2,7 +2,7 @@
 layout: page
 title:  "Alpha"
 group: "connect"
-contacts: ["Rich White"]
+contacts: ["Andy McCulloch"]
 ---
 
 * Who is Jesus?
@@ -10,16 +10,23 @@ contacts: ["Rich White"]
 * Why is there suffering?
 * What about the church?
 
-Do these kinds of questions bug you? Then the [Alpha course](http://alpha.org/) is just for you.
+Do these kinds of questions bug you? Then [Alpha](http://alpha.org/) is just for you.
 
-### The Alpha course
+### Alpha
 
 A great opportunity to explore the Christian faith and ask questions about life.
 
-Starts Thursday 21st September. Daytime Alpha: Thursdays 1-2.30pm at Madley Park Hall during Cogglets, with 
-Sandwich de Witney lunch included. Evening Alpha: Thursdays 7-9.30pm at The Blue Boar with dinner included.
+Join us for pour Alpha Supper on Thursday 11th January at 7pm
+Evening Alpha: Starting 18th January on Thursdays 7-9.30pm at Cogges Church Centre, with dinner included.
+Daytime Alpha: Starting 19th January on Fridays 9.30-11.30pm at Cogges Church Centre, starting with tea & coffee.
 
-To ensure we have food for you(!) email office@coggesparish.com or call 01993 779613
+Alpha is free to attend.
+
+If you have any questions email office@coggesparish.com, or call 01993 779613.
+
+To let us know you're coming to the Alpha Supper: https://stmaryscogges.churchsuite.co.uk/events/2drn8utm
+To register for Evening Alpha: https://stmaryscogges.churchsuite.co.uk/events/qcrve4we
+To register for Daytime Alpha: https://stmaryscogges.churchsuite.co.uk/events/le0oxqmt
 
 <br><br><br><br><br><br><br><br>
 
