@@ -24,10 +24,13 @@ Daytime Alpha: Starting 19th January on Fridays 9.30-11.30pm at Cogges Church Ce
 
 Alpha is free to attend.
 
+
 If you have any questions email office@coggesparish.com, or call 01993 779613.
 
 To let us know you're coming to the Alpha Supper: https://stmaryscogges.churchsuite.co.uk/events/2drn8utm
+
 To register for Evening Alpha: https://stmaryscogges.churchsuite.co.uk/events/qcrve4we
+
 To register for Daytime Alpha: https://stmaryscogges.churchsuite.co.uk/events/le0oxqmt
 
 <br><br><br><br><br><br><br><br>
