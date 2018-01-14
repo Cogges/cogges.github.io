@@ -14,7 +14,7 @@ in St Mary's Church, Cogges.
 ### The meeting will begin with the meeting of parishioners:
 
 1. A meeting of parishioners to elect two Churchwardens
-([nomination form enclosed](/documents/apcm/2018/Nomination%20of%20Churchwarden.pdf "Opens link to the 'Nomination of Churchwarden' pdf document.") ![PDF](/images/pdficon_large.png)) 
+<!--([nomination form enclosed](/documents/apcm/2018/Nomination%20of%20Churchwarden.pdf "Opens link to the 'Nomination of Churchwarden' pdf document.") ![PDF](/images/pdficon_large.png))--> 
 
 
 ### There will then be the formal business of the APCM:
