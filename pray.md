@@ -12,14 +12,14 @@ published: true
 ---
 
 
-# Opportunities Autumn 2017
+# Opportunities Spring 2018
 
 A time to worship and pray for church, community, national and global issues together
 
 ### Pursuit
 
 - *Venue:* St Mary’s Cogges 
-- *Date:* Wed 20th September 7.30pm
+- *Date:* Wed 17th September 7.30pm
 - *Details:* all church gathering to worship and pray      
 
 ### WEEKLY ON THURSDAY MORNINGS
@@ -35,7 +35,7 @@ A time to worship and pray for church, community, national and global issues tog
 An opportunity to meet every month on the first Wednesday of each month in the home of a congregation member.
 
 - *Venue:* on request
-- *Dates*: 4th October, 1st November, 6th December
+- *Dates*: Wed 7th February, 7th March
 - *Time:* 8.00-9.30pm
 - *Contact:* Jane Holloway
 - *Details:* a time to worship and pray for church, community, national and global issues together
