@@ -34,18 +34,25 @@ in St Mary's Church, Cogges.
 5. A report on the proceedings of the Deanery Synod
 <!--([enclosed](/documents/apcm/2018/Deanery%20Synod%20APCM%202018.pdf "Opens link to the 'Deanery Synod APCM 2018' pdf document.") ![PDF](/images/pdficon_large.png))-->
 
-6. An election of six members of the laity to the PCC (for up to 3 years)
+6. Resolutions proposed by the PCC
+(a) Proposal to reduce the number of elected PCC members 
+As announced, the PCC has agreed to changes to the governance structure to reduce the size of the PCC and to introduce PCC subgroups and a new leadership team. To reduce the size of the PCC requires a resolution at the APCM. The PCC therefore proposes that with effect from the APCM in 2019, the number of representatives of the laity should be reduced from 15 to 12, with one third being elected each year.
+
+(b) Proposal to rescind resolution on co-option of Readers passed at the APCM in 1999 
+Membership of the PCC includes "such, if any, of the readers who are licensed to the parish ... as the annual meeting may determine". After many years of each APCM resolving to co-opt all the readers, the APCM in 1999 resolved "that Readers licensed to the parish of Cogges should be co-opted as members of the PCC, until this proposal is rescinded by a future Annual Parochial Church Meeting". With the new governance changes, the PCC proposes that this resolution should be rescinded with immediate effect.
+
+7. An election of six members of the laity to the PCC (for up to 3 years)
 <!--([nomination form enclosed](/documents/apcm/2018/Nomination%20for%20PCC.pdf "Opens link to the 'Nomination for PCC' pdf document.") ![PDF](/images/pdficon_large.png))--> 
 
-7. The appointment of sidesmen (delegated to the Churchwardens by resolution of the 1999 APCM)
+8. The appointment of sidesmen (delegated to the Churchwardens by resolution of the 1999 APCM)
 
-8. The appointment of an independent financial examiner for 2018 (the PCC has nominated A J Carter & Co)
+9. The appointment of an independent financial examiner for 2018 (the PCC has nominated A J Carter & Co)
 
-9. Questions or comments on matters of Parochial interest
+10. Questions or comments on matters of Parochial interest
 
-10. Any other business
+11. Any other business
 
-11. Commissioning of the new PCC
+12. Commissioning of the new PCC
 
 ### Worship, followed by presentations and discussion:
 
