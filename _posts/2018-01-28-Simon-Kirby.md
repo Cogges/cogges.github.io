@@ -6,7 +6,7 @@ date: "2018-01-28 10:30:00"
 audio: "/documents/2018-01-28 Simon Kirby.mp3"
 speaker: "Simon Kirby"
 speaker_info: ""
-duration: "25'25"
+duration: "25'05"
 youtube_videos: [""]
 vimeo_videos: [""]
 slides: [""]
