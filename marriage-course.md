@@ -23,7 +23,7 @@ A five session course set in a fantastic atmosphere. You will be served coffee, 
 ### Marriage by Design
 Marriage by Design is a one day course that gives you the opportunity to take some time out to think about your future married life together. The day is led by trained facilitators, who will introduce topics and ideas, but the day itself is really for you as a couple to spend time together talking about your relationship.
  
-    Dates: Saturday 27th Jan 2018
+    Dates: Saturday 28th April 2018
     Time: 9.30am – 4pm
     Venue: Witney
     Cost: £25 per couple to include lunch
@@ -33,8 +33,8 @@ Marriage by Design is a one day course that gives you the opportunity to take so
 ## Already married?
 The Marriage Course is a very practical course giving any married couple the tools to build a strong and healthy relationship. Over a series of 7 evenings many topics are covered including 'building strong foundations,' 'resolving conflict' and 'love in action'. Each evening includes a talk and time for the couple to discuss the topic together. Coffee, tea and home-made cakes are served during the evening. The setting is relaxed and informal, there is no group discussion and privacy as a couple is always respected.
 
-    Dates: TBC
-    Time: 7.45 – 9:45pm
+    Dates: Mondays - 14th, 21st May, 4th, 11th, 18th, 25th June and 2nd July
+    Time: 7.30 – 9:45pm
     Venue: Witney
     Cost: £25 per couple
 
