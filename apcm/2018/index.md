@@ -36,12 +36,12 @@ in St Mary's Church, Cogges.
 
 6. Resolutions proposed by the PCC
 <br><br>
-(a) Proposal to reduce the number of elected PCC members 
+(a) *Proposal to reduce the number of elected PCC members*
 <br><br>
 As ([announced](/documents/INFORMATION%20LEAFLET%20ABOUT%20PCC%20CHANGES.pdf "Opens pdf document") ![PDF](/images/pdficon_large.png))
 the PCC has agreed to changes to the governance structure to reduce the size of the PCC and to introduce PCC subgroups and a new leadership team. To reduce the size of the PCC requires a resolution at the APCM. The PCC therefore proposes that with effect from the APCM in 2019, the number of representatives of the laity should be reduced from 15 to 12, with one third being elected each year.
 <br><br>
-(b) Proposal to rescind resolution on co-option of Readers passed at the APCM in 1999 
+(b) *Proposal to rescind resolution on co-option of Readers passed at the APCM in 1999* 
 <br><br>
 Membership of the PCC includes "such, if any, of the readers who are licensed to the parish ... as the annual meeting may determine". After many years of each APCM resolving to co-opt all the readers, the APCM in 1999 resolved "that Readers licensed to the parish of Cogges should be co-opted as members of the PCC, until this proposal is rescinded by a future Annual Parochial Church Meeting". With the new governance changes, the PCC proposes that this resolution should be rescinded with immediate effect.
 
