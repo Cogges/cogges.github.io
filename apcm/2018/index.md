@@ -38,7 +38,7 @@ in St Mary's Church, Cogges.
 <br><br>
 *Proposal to reduce the number of elected PCC members*
 <br><br>
-As ([announced](/documents/INFORMATION%20LEAFLET%20ABOUT%20PCC%20CHANGES.pdf "Opens pdf document") ![PDF](/images/pdficon_large.png))
+As ([announced](/documents/INFORMATION%20LEAFLET%20ABOUT%20PCC%20CHANGES.pdf "Changing Governance at St Mary's, Cogges") ![PDF](/images/pdficon_large.png))
 the PCC has agreed to changes to the governance structure to reduce the size of the PCC and to introduce PCC subgroups and a new leadership team. To reduce the size of the PCC requires a resolution at the APCM. The PCC therefore proposes that with effect from the APCM in 2019, the number of representatives of the laity should be reduced from 15 to 12, with one third being elected each year.
 <br><br>
 *Proposal to rescind resolution on co-option of Readers passed at the APCM in 1999* 
@@ -61,14 +61,19 @@ Membership of the PCC includes "such, if any, of the readers who are licensed to
 ### Worship, followed by presentations and discussion:
 
 1. Presentations:<br>
-   a. <br>
-   b. <br>
-   c. 
+   a. Youth
+   b. Children
+   c. School Link Worker and TLG mentoring
+   d. Mission Thinking
 
 2. The Vicar, Rev Simon Kirby<br>
 
 *This year at our vision night we will look back in gratitude for some of the things that God has achieved in and through us this last year and look forward in anticipation and expectation as we consider some of the plans for 2018.*
 
 ### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
+
+Additional reports, for information:
+
+The Blake School
 
 <br><br>
