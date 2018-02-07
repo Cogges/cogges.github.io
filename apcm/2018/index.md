@@ -61,9 +61,9 @@ Membership of the PCC includes "such, if any, of the readers who are licensed to
 ### Worship, followed by presentations and discussion:
 
 1. Presentations:<br>
-   a. Youth
-   b. Children
-   c. School Link Worker and TLG coaches
+   a. Youth<br>
+   b. Children<br>
+   c. School Link Worker and TLG coaches<br>
    d. Mission Thinking
 
 2. The Vicar, Rev Simon Kirby<br>
