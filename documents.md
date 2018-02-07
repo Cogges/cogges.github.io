@@ -4,6 +4,7 @@ title:  "Documents"
 contacts: ["Malcolm Harper"]
 ---
 * [Changing Governance at St Mary's, Cogges](/documents/INFORMATION%20LEAFLET%20ABOUT%20PCC%20CHANGES.pdf) ![PDF](/images/pdficon_large.png)
+* [Information for Prospective PCC Members](/documents/Information%20for%20Prospective%20PCC%20Members.pdf) ![PDF](/images/pdficon_large.png)
 
 Documents from previous Annual Parochial Church Meetings can be found on [the APCM page](./apcm/)
 
