@@ -14,7 +14,7 @@ in St Mary's Church, Cogges.
 ### The meeting will begin with the meeting of parishioners:
 
 1. A meeting of parishioners to elect two Churchwardens
-<!--([nomination form enclosed](/documents/apcm/2018/Nomination%20of%20Churchwarden.pdf "Opens link to the 'Nomination of Churchwarden' pdf document.") ![PDF](/images/pdficon_large.png))--> 
+([nomination form enclosed](/documents/apcm/2018/Nomination%20of%20Churchwarden.pdf "Opens link to the 'Nomination of Churchwarden' pdf document.") ![PDF](/images/pdficon_large.png))
 
 
 ### There will then be the formal business of the APCM:
@@ -23,16 +23,16 @@ in St Mary's Church, Cogges.
 ([enclosed](/documents/apcm/2017/Apcm17_minutes.pdf "Opens link to the 'Apcm17_minutes' pdf document.") ![PDF](/images/pdficon_large.png))
 
 2. A report on the revision of the electoral roll
-<!--([enclosed](/documents/apcm/2018/Electoral%20Roll%20Report%202018.pdf "Opens link to the 'Electoral Roll Report 2018' pdf document.") ![PDF](/images/pdficon_large.png))-->
+([enclosed](/documents/apcm/2018/Electoral%20Roll%20Report%202018.pdf "Opens link to the 'Electoral Roll Report 2018' pdf document.") ![PDF](/images/pdficon_large.png))
 
 3. The annual report and financial statements of the PCC for 2017
-<!--([enclosed](/documents/apcm/2018/AR+FS_2017.pdf "Opens link to the 'AR+FS_2017' pdf document.") ![PDF](/images/pdficon_large.png))-->
+([enclosed](/documents/apcm/2018/AR+FS_2017.pdf "Opens link to the 'AR+FS_2017' pdf document.") ![PDF](/images/pdficon_large.png))
 
 4. The Churchwardens' report on the fabric, goods and ornaments of St Mary's Church, Cogges
-<!--([enclosed](/documents/apcm/2018/2018%20CW%20Report%20Fabric%20Goods%20and%20Ornaments.pdf "Opens link to the '2018 CW Report Fabric Goods and Ornaments' pdf document.") ![PDF](/images/pdficon_large.png))-->
+([enclosed](/documents/apcm/2018/2018%20APCM%20CW%20Report%20Fabric%20Goods%20and%20Ornaments.pdf "Opens link to the '2018 APCM CW Report Fabric Goods and Ornaments' pdf document.") ![PDF](/images/pdficon_large.png))
 
 5. A report on the proceedings of the Deanery Synod
-<!--([enclosed](/documents/apcm/2018/Deanery%20Synod%20APCM%202018.pdf "Opens link to the 'Deanery Synod APCM 2018' pdf document.") ![PDF](/images/pdficon_large.png))-->
+([enclosed](/documents/apcm/2018/Deanery%20Synod%20Annual%20Report_APCM_2018.pdf "Opens link to the 'Deanery Synod Annual Report_APCM_2018' pdf document.") ![PDF](/images/pdficon_large.png))
 
 6. Resolutions proposed by the PCC
 <br><br>
@@ -46,7 +46,7 @@ the PCC has agreed to changes to the governance structure to reduce the size of 
 Membership of the PCC includes "such, if any, of the readers who are licensed to the parish ... as the annual meeting may determine". After many years of each APCM resolving to co-opt all the readers, the APCM in 1999 resolved "that Readers licensed to the parish of Cogges should be co-opted as members of the PCC, until this proposal is rescinded by a future Annual Parochial Church Meeting". With the new governance changes, the PCC proposes that this resolution should be rescinded with immediate effect.
 
 7. An election of six members of the laity to the PCC (for up to 3 years)
-<!--([nomination form enclosed](/documents/apcm/2018/Nomination%20for%20PCC.pdf "Opens link to the 'Nomination for PCC' pdf document.") ![PDF](/images/pdficon_large.png))--> 
+([nomination form enclosed](/documents/apcm/2018/Nomination%20for%20PCC.pdf "Opens link to the 'Nomination for PCC' pdf document.") ![PDF](/images/pdficon_large.png))
 
 8. The appointment of sidesmen (delegated to the Churchwardens by resolution of the 1999 APCM)
 
@@ -61,10 +61,10 @@ Membership of the PCC includes "such, if any, of the readers who are licensed to
 ### Worship, followed by presentations and discussion:
 
 1. Presentations:<br>
-   a. Youth<br>
-   b. Children<br>
-   c. School Link Worker and TLG coaches<br>
-   d. Mission Thinking
+   a. Youth -- Ben Osman<br>
+   b. Children -- Children's team<br>
+   c. Home School Link and TLG coaches -- Judith Ledden<br>
+   d. Mission Thinking -- Rev Rich White
 
 2. The Vicar, Rev Simon Kirby<br>
 
@@ -74,6 +74,7 @@ Membership of the PCC includes "such, if any, of the readers who are licensed to
 
 Additional reports, for information:
 
-The Blake School
+1. The Blake Church of England Primary School
+([enclosed](/documents/apcm/2018/Blake%20APCM%20report%202018.pdf "Opens link to the 'Blake APCM report 2018' pdf document.") ![PDF](/images/pdficon_large.png))
 
 <br><br>
