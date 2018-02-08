@@ -6,7 +6,7 @@ contacts: ["Malcolm Harper"]
 
 ### 2018
 
-* [Agenda and papers for APCM 2017](./2018/index.html "Opens link to the 'Agenda and papers for APCM 2018' page")
+* [Agenda and papers for APCM 2018](./2018/index.html "Opens link to the 'Agenda and papers for APCM 2018' page")
 
 ### 2017
 
