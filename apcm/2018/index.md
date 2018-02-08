@@ -72,6 +72,8 @@ Membership of the PCC includes "such, if any, of the readers who are licensed to
 
 ### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
 
+<br><br>
+
 Additional reports, for information:
 
 1. The Blake Church of England Primary School
