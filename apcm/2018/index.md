@@ -45,7 +45,7 @@ the PCC has agreed to changes to the governance structure to reduce the size of 
 <br><br>
 Membership of the PCC includes "such, if any, of the readers who are licensed to the parish ... as the annual meeting may determine". After many years of each APCM resolving to co-opt all the readers, the APCM in 1999 resolved "that Readers licensed to the parish of Cogges should be co-opted as members of the PCC, until this proposal is rescinded by a future Annual Parochial Church Meeting". With the new governance changes, the PCC proposes that this resolution should be rescinded with immediate effect.
 
-7. An election of six members of the laity to the PCC (for up to 3 years)
+7. An election of seven members of the laity to the PCC (for up to 3 years)
 ([further information and nomination form enclosed](/documents/apcm/2018/Info%20for%20Prospective%20PCC%20Members.pdf "Opens link to the 'Info for Prospective PCC Members' pdf document.") ![PDF](/images/pdficon_large.png))
 
 8. The appointment of sidesmen (delegated to the Churchwardens by resolution of the 1999 APCM)
