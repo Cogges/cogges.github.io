@@ -4,11 +4,13 @@ title:  "Documents"
 contacts: ["Malcolm Harper"]
 ---
 <br><br>
+* [Vicar's Letter to Cogges](/documents/Letter%20to%20Cogges%20-%20Jan%2018.pdf) ![PDF](/images/pdficon_large.png)  (January 2018)
+<br><br>
 * [Changing Governance at St Mary's, Cogges](/documents/INFORMATION%20LEAFLET%20ABOUT%20PCC%20CHANGES.pdf) ![PDF](/images/pdficon_large.png)  (February 2018)
 * [Information for prospective PCC members](/documents/Information%20for%20Prospective%20PCC%20Members.pdf) ![PDF](/images/pdficon_large.png)  (February 2018)
 
 <br><br>
-Documents from previous Annual Parochial Church Meetings can be found on [the APCM page](./apcm/)
+Documents for Annual Parochial Church Meetings can be found on [the APCM page](./apcm/)
 
 <!--
 * [Annual Report for 2012](./documents/annual-report-2012.pdf)
