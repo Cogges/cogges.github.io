@@ -3,7 +3,7 @@ layout: sermon
 series: ""
 title: "The Joy of Giving"
 date: "2016-04-17 10:30:00"
-audio: "http://media.coggesparish.com/sermons/2016-04-17 Simon Kirby 10-30.mp3"
+audio: "http://media.coggesparish.com/2016-04-17 Simon Kirby 10-30.mp3"
 speaker: "Simon Kirby"
 speaker_info: ""
 duration: "34"

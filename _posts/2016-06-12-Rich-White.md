@@ -3,7 +3,7 @@ layout: sermon
 series: "Back to Basics"
 title: "When the going gets tough, the tough get talking"
 date: "2016-06-12"
-audio: "http://media.coggesparish.com/sermons/2016-06-12 Rich White.mp3"
+audio: "http://media.coggesparish.com/2016-06-12 Rich White.mp3"
 speaker: "Rich White"
 speaker_info: ""
 duration: "22"

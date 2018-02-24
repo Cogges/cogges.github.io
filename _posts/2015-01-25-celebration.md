@@ -4,7 +4,7 @@ layout: sermon
 series: "Celebration Services"
 title: "Pursue, Push on Through."
 date: "2015-01-25 18:30:00"
-audio: "http://media.coggesparish.com/sermons/2015-01-25 Hellie Brunt.mp3"
+audio: "http://media.coggesparish.com/2015-01-25 Hellie Brunt.mp3"
 speaker: "Hellie Brunt"
 speaker_info: "Hellie Brunt previously worked as an Associate Pastor at Trinity Church in Cheltenham and now works as a speaker, trainer and leadership consultant to help support and equip a variety of churches."
 duration: "58"

@@ -3,7 +3,7 @@ layout: sermon
 series: "James"
 title: "The Prayer of Faith"
 date: "2015-11-22 10:30:00"
-audio: "http://media.coggesparish.com/sermons/2015-11-22 Simon Kirby.mp3"
+audio: "http://media.coggesparish.com/2015-11-22 Simon Kirby.mp3"
 speaker: "Simon Kirby"
 speaker_info: ""
 duration: "26"

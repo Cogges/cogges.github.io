@@ -3,7 +3,7 @@ layout: sermon
 series: ""
 title: "The Word Became Flesh"
 date: "2016-01-03 10:30:00"
-audio: "http://media.coggesparish.com/sermons/2016-01-03 Rich White.mp3"
+audio: "http://media.coggesparish.com/2016-01-03 Rich White.mp3"
 speaker: "Rich White"
 speaker_info: ""
 duration: "16.45"

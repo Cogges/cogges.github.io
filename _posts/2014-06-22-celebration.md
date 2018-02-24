@@ -4,7 +4,7 @@ layout: sermon
 series: "Celebration Services"
 title: "What are you passionate about? What's your world view?"
 date: "2014-06-22 19:00:00"
-audio: "http://media.coggesparish.com/sermons/2014-06-22 Andrew Wallis.mp3"
+audio: "http://media.coggesparish.com/2014-06-22 Andrew Wallis.mp3"
 speaker: "Andrew Wallis"
 speaker_info: "CEO of Unseen UK."
 duration: "17"

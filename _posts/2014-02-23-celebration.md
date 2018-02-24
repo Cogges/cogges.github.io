@@ -3,7 +3,7 @@ layout: sermon
 series: "Celebration Services"
 title: "Holy Habits."
 date: "2014-02-23 19:00:00"
-audio: "http://media.coggesparish.com/sermons/2014-02-23 Eddie Lyle.mp3"
+audio: "http://media.coggesparish.com/2014-02-23 Eddie Lyle.mp3"
 speaker: "Eddie Lyle"
 speaker_info: ""
 duration: "36"

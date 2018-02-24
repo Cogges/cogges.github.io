@@ -3,7 +3,7 @@ layout: sermon
 series: "Back to Basics"
 title: "Catching the fire and creating a blaze"
 date: "2016-05-15 09:15:00"
-audio: "http://media.coggesparish.com/sermons/2016-05-15 Andy McCulloch 9-15.mp3"
+audio: "http://media.coggesparish.com/2016-05-15 Andy McCulloch 9-15.mp3"
 speaker: "Andy McCulloch"
 speaker_info: ""
 duration: "13:50"

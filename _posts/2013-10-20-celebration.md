@@ -3,7 +3,7 @@ layout: sermon
 series: "Celebration Services"
 title: "Faith."
 date: "2013-10-20 19:00:00"
-audio: "http://media.coggesparish.com/sermons/2013-10-20 Mark Bailey.mp3"
+audio: "http://media.coggesparish.com/2013-10-20 Mark Bailey.mp3"
 speaker: "Rev. Mark Bailey"
 speaker_info: "Trinity Church, Cheltenham."
 duration: "45"

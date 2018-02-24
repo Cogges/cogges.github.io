@@ -3,7 +3,7 @@ layout: sermon
 series: "Celebration Services"
 title: "Speaking about his trip to Bethel Church in America."
 date: "2013-09-22 19:00:00"
-audio: "http://media.coggesparish.com/sermons/2013-09-22 John Valentine.mp3"
+audio: "http://media.coggesparish.com/2013-09-22 John Valentine.mp3"
 speaker: "Rev. John Valentine"
 speaker_info: "St George's Church, Holborn"
 duration: "68"

@@ -3,7 +3,7 @@ layout: sermon
 series: "Celebration Services"
 title: "The Harvest Is Plentiful, the Labourers Few."
 date: "2014-01-26 19:00:00"
-audio: "http://media.coggesparish.com/sermons/2014-01-26 Frog Orr-Ewing.mp3"
+audio: "http://media.coggesparish.com/2014-01-26 Frog Orr-Ewing.mp3"
 speaker: "Frog Orr-Ewing"
 speaker_info: "Rector of Latimer Minster, Chalfont St. Peter, Buckinghamshire."
 duration: "69"

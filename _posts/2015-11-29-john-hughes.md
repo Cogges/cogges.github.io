@@ -3,7 +3,7 @@ layout: sermon
 series: ""
 title: "The Day of the Lord"
 date: "2015-11-29 10:30:00"
-audio: "http://media.coggesparish.com/sermons/2015-11-29 John Hughes.mp3"
+audio: "http://media.coggesparish.com/2015-11-29 John Hughes.mp3"
 speaker: "John Hughes"
 speaker_info: ""
 duration: "25"

@@ -4,7 +4,7 @@ layout: sermon
 series: ""
 title: "Proposed Service Changes"
 date: "2014-09-28 11:00:00"
-audio: "http://media.coggesparish.com/sermons/2014-09-28 Proposed Service Changes.mp3"
+audio: "http://media.coggesparish.com/2014-09-28 Proposed Service Changes.mp3"
 speaker: "Simon Kirby"
 speaker_info: ""
 duration: "5"

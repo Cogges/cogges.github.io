@@ -3,13 +3,13 @@ layout: sermon
 series: "Celebration Services"
 title: "God has a Good and Perfect Plan for your Life - Hope and a Future."
 date: "2014-03-23 19:00:00"
-audio: "http://media.coggesparish.com/sermons/2014-03-23 Paul Cowley.mp3"
+audio: "http://media.coggesparish.com/2014-03-23 Paul Cowley.mp3"
 speaker: "Paul Cowley"
 speaker_info: "Member of the Clergy at Holy Trinity Brompton. Paul is the founder of 'Caring For Ex-offenders', the Director of the 'William Wilberforce Trust' and was recently awarded a lifetime achievement award by the 'Longford Trust' for his work transforming the lives of those in prison."
 duration: "52"
 youtube_videos: [""]
 vimeo_videos: [""]
-slides: ["http://media.coggesparish.com/sermons/2014-03-23 Paul Cowley.pdf"]
+slides: ["http://media.coggesparish.com/2014-03-23 Paul Cowley.pdf"]
 files: [""]
 bible_passages: ["Jeremiah 29:11-14","Romans 5:1-5"]
 bible_links: ["Jeremiah 29:11-14&amp;version=NIVUK","Romans 5:1-5&amp;version=NIVUK"]

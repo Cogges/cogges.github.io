@@ -3,7 +3,7 @@ layout: sermon
 series: "James"
 title: "Seize the Season"
 date: "2015-11-15 10:30:00"
-audio: "http://media.coggesparish.com/sermons/2015-11-15 Simon Kirby.mp3"
+audio: "http://media.coggesparish.com/2015-11-15 Simon Kirby.mp3"
 speaker: "Simon Kirby"
 speaker_info: ""
 duration: "21"

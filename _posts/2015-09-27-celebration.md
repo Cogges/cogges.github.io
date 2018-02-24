@@ -4,7 +4,7 @@ layout: sermon
 series: "Celebration Services"
 title: "Our Identity, Who We Are."
 date: "2015-09-27 18:30:00"
-audio: "http://media.coggesparish.com/sermons/2015-09-27 Matti and Jodie Koopman.mp3"
+audio: "http://media.coggesparish.com/2015-09-27 Matti and Jodie Koopman.mp3"
 speaker: "Matti and Jodie Koopman"
 speaker_info: "Matti and Jodie Koopman spent two years at Bethel Church in Redding, California, learning about their ministry models before leading a church in New Zealand. They will be sharing some of their experience of seeing God bring healing in a variety of contexts."
 duration: "45"
