@@ -92,7 +92,7 @@ layout: default
 					<ul>
 					{% for f in page.slides %}
 						<li><a href="{{f|replace:" ","%20"}}" title="slides for '{{page.title}}'" target="_blank">
-						{{f|remove_first:'http://media.coggesparish.com/sermons/'}}
+						{{f|remove_first:'http://media.coggesparish.com/'}}
 						</a></li>
 					{% endfor %}
 					</ul>
@@ -106,7 +106,7 @@ layout: default
 						{% if f != "" %}
 						<li>
 							<a href="{{f|replace:" ","%20"}}" title="download for '{{page.title}}'">
-							{{f|remove_first:'http://media.coggesparish.com/sermons/'}}
+							{{f|remove_first:'http://media.coggesparish.com/'}}
 							</a>
 						</li>
 						{% endif %}
@@ -115,7 +115,7 @@ layout: default
 					{% if page.audio and page.audio != "" %}
 					<li>
 						<a href="{{page.audio|replace:" ","%20"}}" title="audio for '{{page.title}}'">
-							{{page.audio|remove_first:'http://media.coggesparish.com/sermons/'}}
+							{{page.audio|remove_first:'http://media.coggesparish.com/'}}
 						</a>
 						{% if page.duration and page.duration != "" %}
 							{{page.duration}} minutes
