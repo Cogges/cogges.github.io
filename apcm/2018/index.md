@@ -21,12 +21,12 @@ from the original [Agenda](agenda.html "Opens link to the 'Agenda and papers for
 ### The formal meeting:
 
 The meeting was recorded and the following audio clips and presentation slides are available:<br><br>
-*Full recording of the formal meeting* (26 minutes):
+**Full recording of the formal meeting** (26 minutes):
 - listen now: <audio src="/documents/APCM-2018-02-20-audio-Meeting.mp3" type="audio/mpeg"></audio>
 - [download audio file ](/documents/APCM-2018-02-20-audio-Meeting.mp3 "'APCM-2018-02-20-audio-Meeting.mp3' audio file")
 
 The above includes:<br>
-&nbsp;&nbsp;*Financial Report* by Keith Harwood (5 minutes):
+&nbsp;&nbsp;**Financial Report** by Keith Harwood (5 minutes):
 - listen now: <audio src="/documents/APCM-2018-02-20-audio-Treasurer.mp3" type="audio/mpeg"></audio>
 - [download audio file ](/documents/APCM-2018-02-20-audio-Treasurer.mp3 "'APCM-2018-02-20-audio-Treasurer.mp3' audio file")
 - [Presentation Slide](/documents/APCM-2018-02-20-slides-Treasurer.pdf "'APCM-2018-02-20-slides-Treasurer.pdf' document") ![PDF](/images/pdficon_large.png)
@@ -34,29 +34,29 @@ The above includes:<br>
 
 ### Presentations:
 
-&nbsp;&nbsp;*Youth work* by Ben Osman (18 minutes):
+&nbsp;&nbsp;**Youth work** by Ben Osman (18 minutes):
 - listen now: <audio src="/documents/APCM-2018-02-20-audio-Youth.mp3" type="audio/mpeg"></audio>
 - [download audio file ](/documents/APCM-2018-02-20-audio-Youth.mp3 "'APCM-2018-02-20-audio-Youth.mp3' audio file")
 - [Presentation Slides](/documents/APCM-2018-02-20-slides-Youth.pdf "'APCM-2018-02-20-slides-Youth.pdf' document") ![PDF](/images/pdficon_large.png)
 - [Speaker's notes](/documents/APCM-2018-02-20-notes-Youth.pdf "'APCM-2018-02-20-notes-Youth.pdf' document") ![PDF](/images/pdficon_large.png)
 
-&nbsp;&nbsp;*Children's work* by Alison Hall and Lisa Bryan (9 minutes):
+&nbsp;&nbsp;**Children's work** by Alison Hall and Lisa Bryan (9 minutes):
 - listen now: <audio src="/documents/APCM-2018-02-20-audio-Children.mp3" type="audio/mpeg"></audio>
 - [download audio file ](/documents/APCM-2018-02-20-audio-Children.mp3 "'APCM-2018-02-20-audio-Children.mp3' audio file")
 - [Presentation Slides](/documents/APCM-2018-02-20-slides-Children.pdf "'APCM-2018-02-20-slides-Children.pdf' document") ![PDF](/images/pdficon_large.png)
 - [Speaker's notes](/documents/APCM-2018-02-20-notes-Children.pdf "'APCM-2018-02-20-notes-Children.pdf' document") ![PDF](/images/pdficon_large.png)
 
-&nbsp;&nbsp;*Home School Link and TLG coaches* by Judith Ledden (10 minutes):
+&nbsp;&nbsp;**Home School Link and TLG coaches** by Judith Ledden (10 minutes):
 - listen now: <audio src="/documents/APCM-2018-02-20-audio-SchoolLink.mp3" type="audio/mpeg"></audio>
 - [download audio file ](/documents/APCM-2018-02-20-audio-SchoolLink.mp3 "'APCM-2018-02-20-audio-SchoolLink.mp3' audio file")
 - [Speaker's notes](/documents/APCM-2018-02-20-notes-SchoolLink.pdf "'APCM-2018-02-20-notes-SchoolLink.pdf' document") ![PDF](/images/pdficon_large.png)
 
-&nbsp;&nbsp;*Mission Thinking* by Rev Rich White (5 minutes):
+&nbsp;&nbsp;**Mission Thinking** by Rev Rich White (5 minutes):
 - listen now: <audio src="/documents/APCM-2018-02-20-audio-Growth.mp3" type="audio/mpeg"></audio>
 - [download audio file ](/documents/APCM-2018-02-20-audio-Growth.mp3 "'APCM-2018-02-20-audio-Growth.mp3' audio file")
 - [Presentation Slides](/documents/APCM-2018-02-20-slides-Growth.pdf "'APCM-2018-02-20-slides-Growth.pdf' document") ![PDF](/images/pdficon_large.png)
 
-&nbsp;&nbsp;*The Vicar's Report* by Rev Simon Kirby (21 minutes):
+&nbsp;&nbsp;**The Vicar's Report** by Rev Simon Kirby (21 minutes):
 - listen now: <audio src="/documents/APCM-2018-02-20-audio-Vicar.mp3" type="audio/mpeg"></audio>
 - [download audio file ](/documents/APCM-2018-02-20-audio-Vicar.mp3 "'APCM-2018-02-20-audio-Vicar.mp3' audio file")
 - [Presentation Slides](/documents/APCM-2018-02-20-slides-Vicar.pdf "'APCM-2018-02-20-slides-Vicar.pdf' document") ![PDF](/images/pdficon_large.png)
