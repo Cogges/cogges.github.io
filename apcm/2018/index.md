@@ -61,9 +61,9 @@ The full recording above includes:<br>
 - listen now: <audio src="/documents/APCM-2018-02-20-audio-Vicar.mp3" type="audio/mpeg"></audio>
 - [download audio file ](/documents/APCM-2018-02-20-audio-Vicar.mp3 "'APCM-2018-02-20-audio-Vicar.mp3' audio file")
 - [Presentation Slides](/documents/APCM-2018-02-20-slides-Vicar.pdf "'APCM-2018-02-20-slides-Vicar.pdf' document") ![PDF](/images/pdficon_large.png)
-
+- [Speaker's notes](/documents/APCM-2018-02-20-notes-Vicar.pdf "'APCM-2018-02-20-notes-Vicar.pdf' document") ![PDF](/images/pdficon_large.png)
 
 <br>
-<span>Updated 2nd March 2018</span>
+<span>Updated 6th March 2018</span>
 
 <br><br>
