@@ -9,7 +9,7 @@ speaker_info: ""
 duration: "34'22"
 youtube_videos: [""]
 vimeo_videos: [""]
-slides: [""]
+slides: ["/documents/Contagious Generosity.pdf"]
 files: [""]
 bible_passages: [""]
 bible_links: [""]
