@@ -20,7 +20,6 @@ This Service includes Sung worship, Bible-based teaching and prayer, with childr
 This Service includes Sung worship, Bible-based teaching and prayer, with children’s and youth activities. Communion is celebrated on the second Sunday of the month. Tea and coffee, served in the back of the church after the service, provide an opportunity to get to know people.
 
 ### 6.30pm Evening Service
-The Evening Service includes an extended time of informal sung worship, teaching and an opportunity to receive prayer.   
-On the 4th Sunday of the month (usually) it is a Celebration Service with a Guest Speaker.
+The Evening Service includes an extended time of informal sung worship, teaching and an opportunity to receive prayer. The 4th Sunday of the month is (usually) a Celebration Service with a Guest Speaker.
 
 
