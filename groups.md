@@ -60,15 +60,9 @@ through exploring the Bible and through prayer, to learn about our faith, and to
 
 Our group aims to provide friendship and fellowship for people in their twenties and thirties and support them through the changes and challenges that this stage of life brings.
 
-### ALISON HALL - Wednesday eve VARIOUS VENUES
+### ALISON HALL & PIPPA NASH - Wednesday eve VARIOUS VENUES
 
 We want to build a real sense of community where every member feels supported and comfortable sharing both their successes and struggles. We love to apply our faith in practical ways in the community and enjoy a varied programme of prayer, Bible study, meals and social events. We welcome new members who would like to join us in our journey of faith!
-
-### JAMES & ILONA TANNER - Wednesday eve VARIOUS VENUES
-
-We meet weekly to share life, have fun, and deepen our relationship with God.  Our 
-pattern is to alternate between meeting all together to explore the Bible and meeting 
-separately as men and women to pray and share honestly about life’s highs and lows.
 
 ### JEN NUTT & PENNY PRICE - Wednesday eve MADLEY PARK
 
@@ -94,4 +88,4 @@ A group ideally suited to those who have been through the Alpha course wanting t
 
 ### Women of Witney Connect Group
 
-Women of all ages meeting alternating Wednesdays and Fridays during term time, at homes across Witney. Arrive from 9.30 for a 10am start. We have time of prayer together, followed by a short Bible study. There's a creché in a nearby room provided by mums in the group. It's a really friendly, supportive Church family and we always welcome new members, particularly new Christians. For more information please contact Liz Johnson or Olivia Watterson either directly or via office@coggesparish.org.uk
+Women of all ages meeting Wednesdays in homes across Witney, and Fridays at the Church Centre, during term time. Arrive from 9.30 for a 10am start. We have time of prayer together, followed by a short Bible study. There's a creché in a nearby room provided by mums in the group. It's a really friendly, supportive Church family and we always welcome new members, particularly new Christians. For more information please contact Liz Johnson or Olivia Watterson either directly or via office@coggesparish.org.uk
