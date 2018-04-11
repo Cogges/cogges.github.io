@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: ""
-title: "Fears that can hold us back from following God's Will for our life"
+title: "Fears that hold us back from following God's Will for our life"
 date: "2018-04-08 18:30:00"
 audio: "/documents/2018-04-08 Carina Bonten.mp3"
 speaker: "Carina Bonten"
