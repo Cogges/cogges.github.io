@@ -9,9 +9,9 @@ contacts: ["Jane Holloway"]
 Join the global wave of prayer, right here in Witney
 
 ### Quiet Day
-To book your place contact Rev. Joy Hance (joysmail@talk21.com). Please bring a packed lunch, notebook and Bible.
+To book your place contact Rev. Joy Hance (joysmail@talk21.com). Please bring a packed lunch, notebook and Bible. The garden will be open for prayer and it will have a labyrinth.
  
-    Dates: Thursday 10th May
+    Dates: Thursday 10th May - Ascension Day
     Time: 10am – 4pm
     Venue: Congregational Church, Welch Way, Witney
     Cost: Donations are welcome
@@ -36,21 +36,22 @@ Interactive, imaginative and creative prayer opportunities.
     Friday 18th May, 8am at Welcome Evangelical (24 hours)
     Saturday 19th May, 8am at Oasis Family Church (12 hours)
 
-## The Turning in Witney
+### The Turning in Witney
 We're believing that God will pour out His blessing over Witney & we'll see His Kingdom advancing.
 
     Dates: Saturday 12th, Sunday 13th, Monday 14th, Tuesday 15th May
     Time: 10am
     Venue: Meet at Como Lounge, Witney
     
-Praise & Prayer Encounter Evenings
-    
+### The Turning Praise & Prayer Encounter Evenings
+Sharing stories of faith
+
     Dates: Friday 11th, Saturday 12th and Monday 14th May
     Time: 7.30 - 9pm
     Venue: Congregational Church, Welch Way, Witney
 
-## Tuesday @ 2pm 
+### Tuesday @ 2pm 
 A reflective service here at St Mary’s, Cogges followed by refreshments (Tuesday 15th May).
 
-## Prayer Walks in Witney
+### Prayer Walks in Witney
 On Wednesday 16th May; organised by Akinola Smith of Oasis Family Church.
