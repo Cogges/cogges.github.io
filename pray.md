@@ -19,7 +19,7 @@ A time to worship and pray for church, community, national and global issues tog
 ### Pursuit
 
 - *Venue:* St Mary’s Cogges 
-- *Date:* Wed 17th September 7.30pm
+- *Date:* Sun 29th April 6.30pm
 - *Details:* all church gathering to worship and pray      
 
 ### WEEKLY ON THURSDAY MORNINGS
