@@ -40,7 +40,7 @@ We're believing that God will pour out His blessing over Witney & we'll see His 
     Time: 10am
     Venue: Meet at Como Lounge, Witney
     
-Praise & Prayer Encounter Evenings
+    Praise & Prayer Encounter Evenings
     Dates: Saturday 12th and Monday 14th May
     Time: 7.30pm
     Venue: TBC
