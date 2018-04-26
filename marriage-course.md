@@ -38,4 +38,5 @@ The Marriage Course is a very practical course giving any married couple the too
     Venue: Witney
     Cost: £25 per couple
 
+[https://stmaryscogges.churchsuite.co.uk/events/w6fbbwko](Book here)
 [http://www.themarriagecourses.org](http://www.themarriagecourses.org)
