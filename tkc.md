@@ -44,6 +44,12 @@ We're believing that God will pour out His blessing over Witney & we'll see His 
     Venue: Meet at Como Lounge, Witney
     
     Praise & Prayer Encounter Evenings
-    Dates: Saturday 12th and Monday 14th May
-    Time: 7.30pm
-    Venue: TBC
+    Dates: Friday 11th, Saturday 12th and Monday 14th May
+    Time: 7.30 - 9pm
+    Venue: Congregational Church, Welch Way, Witney
+
+## Tuesday @ 2pm 
+A reflective service here at St Mary’s, Cogges followed by refreshments (Tuesday 15th May).
+
+## Prayer Walks in Witney
+On Wednesday 16th May; organised by Akinola Smith of Oasis Family Church.
