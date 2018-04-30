@@ -28,13 +28,7 @@ Rev Loraine Mellor, President of Methodist Conference UK, will be launching Thy 
 ### 24/7 Prayer Space
 Interactive, imaginative and creative prayer opportunities.
  
-    Sunday 13th May, 8pm at Congregational Church, Welch Way, Witney (12 hours)
-    Monday 14th May, 8am at High St and Davenport Rd. Methodist Churches (24 hours)
-    Tuesday 15th May, 8am at St Mary’s on the Green (24 hours)
-    Wednesday 16th May, 8am at St Mary’s, Cogges (24 hours)
-    Thursday 17th May, 8am at Witney Community Church (24 hours)
-    Friday 18th May, 8am at Welcome Evangelical (24 hours)
-    Saturday 19th May, 8am at Oasis Family Church (12 hours)
+    Sunday 13th May, 8pm until Saturday 19th May, 8am at Congregational Church, Welch Way, Witney
 
 ### The Turning in Witney
 We're believing that God will pour out His blessing over Witney & we'll see His Kingdom advancing.
