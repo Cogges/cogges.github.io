@@ -28,7 +28,7 @@ Rev Loraine Mellor, President of Methodist Conference UK, will be launching Thy 
 ### 24/7 Prayer Space
 Interactive, imaginative and creative prayer opportunities.
  
-    Sunday 13th May, 8pm until Saturday 19th May, 8am at Congregational Church, Welch Way, Witney
+    Sunday 13th May, 8pm until Saturday 19th May, 8am at Congregational Church, Welch Way
 
 ### The Turning in Witney
 We're believing that God will pour out His blessing over Witney & we'll see His Kingdom advancing.
