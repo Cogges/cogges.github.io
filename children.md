@@ -7,7 +7,7 @@ contacts: ["Kirsty Morgan"]
 
 *We believe children are a key part of our church and we aim to encourage them in their journey of faith, through worship, encounter, discipleship and teaching.*
 
-#### We are currently recruiting for someone to join the Children's team for 10 hours a week to support the Sunday ministry and team. If you are interested please contact the office for more information (closing date for applications will be Monday 14th May).
+We are currently recruiting for someone to join the Children's team for 10 hours a week to support the Sunday ministry and team. If you are interested please contact the office for more information (closing date for applications will be Monday 14th May).
 
 ### Children's Church
 
