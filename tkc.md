@@ -48,4 +48,4 @@ Sharing stories of faith
 A reflective service here at St Mary’s, Cogges followed by refreshments (Tuesday 15th May).
 
 ### Prayer Walks in Witney
-On Wednesday 16th May; organised by Akinola Smith of Oasis Family Church.
+On Wednesday 16th May at 7.30pm; starting at The Congregational Church.
