@@ -10,7 +10,7 @@ duration: "20'21"
 youtube_videos: [""]
 vimeo_videos: [""]
 slides: [""]
-files: [""]
+files: ["/documents/Father relationship.pdf"]
 bible_passages: ["Matthew 6:9"]
 bible_links: ["Matthew 6:9&amp;version=NIVUK"]
 bible_videos: [""]
