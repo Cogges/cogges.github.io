@@ -15,7 +15,7 @@ contacts: ["Keith Harwood"]
 * Cheerful given as an offering to God
 
 ### How to give:
-Via ChruchSuite Giving: [https://stmaryscogges.churchsuite.co.uk/donate] (https://stmaryscogges.churchsuite.co.uk/donate)
+Via ChurchSuite Giving: [https://stmaryscogges.churchsuite.co.uk/donate](https://stmaryscogges.churchsuite.co.uk/donate)
 or Standing Order:
 * Address: CAF Bank Ltd, 25 Kings Hill Avenue, Kings Hill, West Malling, Kent, ME19 4JQ
 * Account Name: Cogges Parochial Church Council
