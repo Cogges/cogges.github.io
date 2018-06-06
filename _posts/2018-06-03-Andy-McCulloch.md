@@ -9,7 +9,7 @@ speaker_info: ""
 duration: "26'28"
 youtube_videos: [""]
 vimeo_videos: [""]
-slides: ["The Design and Dignity of Work.pdf"]
+slides: ["/documents/The Design and Dignity of Work.pdf"]
 files: [""]
 bible_passages: ["Genesis 1:26-27,2:1-3:15"]
 bible_links: ["Genesis 1:26-27,2:1-3:15&amp;version=NIVUK"]
