@@ -6,7 +6,7 @@ date: "2018-05-27 11:15:00"
 audio: "/documents/2018-05-27 Jane Holloway.mp3"
 speaker: "Jane Holloway"
 speaker_info: ""
-duration: "23'11"
+duration: "25'12"
 youtube_videos: ["AhRorUNyMCI"]
 vimeo_videos: [""]
 slides: [""]
