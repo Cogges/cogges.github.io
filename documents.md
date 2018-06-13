@@ -4,6 +4,8 @@ title:  "Documents"
 contacts: ["Malcolm Harper"]
 ---
 <br><br>
+* [Baptism and Confirmation Service 2018](/documents/Baptism%20and%20Confirmation%20Service%202018.pdf) ![PDF](/images/pdficon_large.png)  (June 2018)
+<br><br>
 * [Vicar's Letter to Cogges](/documents/Letter%20to%20Cogges%20-%20Jan%2018.pdf) ![PDF](/images/pdficon_large.png)  (January 2018)
 <br><br>
 * [Changing Governance at St Mary's, Cogges](/documents/INFORMATION%20LEAFLET%20ABOUT%20PCC%20CHANGES.pdf) ![PDF](/images/pdficon_large.png)  (February 2018)
