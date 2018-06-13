@@ -1,7 +1,7 @@
 ---
 layout: sermon
 series: "Mission Possible"
-title: "Missional Communities"
+title: "Missional Communities - Talk"
 date: "2018-06-12 19:30:00"
 audio: "/documents/2018-06-12 Mike Moynaugh (Talk).mp3"
 speaker: "Mike Moynaugh"
