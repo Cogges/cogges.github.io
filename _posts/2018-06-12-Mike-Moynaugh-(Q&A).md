@@ -1,8 +1,8 @@
 ---
 layout: sermon
 series: "Mission Possible"
-title: "Missional Communities"
-date: "2018-06-12 19:30:00"
+title: "Missional Communities - Q&A"
+date: "2018-06-12 20:15:00"
 audio: "/documents/2018-06-12 Mike Moynaugh (Q&A).mp3"
 speaker: "Mike Moynaugh"
 speaker_info: ""
