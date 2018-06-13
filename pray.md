@@ -12,7 +12,7 @@ published: true
 ---
 
 
-# Opportunities Spring 2018
+# Opportunities 2018
 
 A time to worship and pray for church, community, national and global issues together
 
