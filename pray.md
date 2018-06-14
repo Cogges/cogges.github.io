@@ -16,11 +16,11 @@ published: true
 
 A time to worship and pray for church, community, national and global issues together
 
-<!--<p ### Pursuit
+### Pursuit
 
-<!--<p - *Venue:* St Mary’s Cogges 
-<!--<p - *Date:* Sun 29th April 6.30pm
-<!--<p - *Details:* all church gathering to worship and pray      
+*Venue:* St Mary’s Cogges 
+*Date:* TBC
+*Details:* all church gathering to worship and pray      
 
 ### WEEKLY ON THURSDAY MORNINGS
 
