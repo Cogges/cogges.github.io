@@ -18,9 +18,9 @@ A time to worship and pray for church, community, national and global issues tog
 
 ### Pursuit
 
-*Venue:* St Mary’s Cogges 
-*Date:* TBC
-*Details:* all church gathering to worship and pray      
+- *Venue:* St Mary’s Cogges 
+- *Date:* TBC
+- *Details:* all church gathering to worship and pray      
 
 ### WEEKLY ON THURSDAY MORNINGS
 
