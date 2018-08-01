@@ -12,33 +12,38 @@ published: true
 ---
 
 
-# Prayer Opportunities 2018
+## Prayer Opportunities 2018
 
-A time to worship and pray for church, community, national and global issues together
+Times to worship and pray for church, community, national and global issues together
 
-### Pursuit
+### EVERY MONDAY FROM 3RD SEPTEMBER
 
-- *Venue:* St Mary’s Cogges 
-- *Date:* TBC
-- *Details:* all church gathering to worship and pray      
+- *Venue:* St Mary’s Cogges
+- *Time:* 7am-8am
+- *Contact:* Church Office
+- *Details:* a time for personal prayer to start the week.
 
-### WEEKLY ON THURSDAY MORNINGS
+### EVERY TUESDAY FROM 4TH SEPTEMBER
+
+- *Venue:* St Mary’s Cogges
+- *Time:* 9.15-10.00 am
+- *Contact:* Church Office
+- *Details:* join the staff in their weekly time of prayer and worship
+
+### EVERY THURSDAY FROM 6TH SEPTEMBER
 
 - *Venue:* St Mary’s Cogges 
 - *Time:* 10.00-11.00 
 - *Contact:* Jane Harper 
 - *Details:* Join the Thursday group as they pray for individuals, church and wider community followed by coffee, biscuits and chat for half an hour or so.
 
+### FIRST WEDNESDAY EVENINGS: PRAYER ENCOUNTER 
 
-### First Wednesday Evenings ‘The Prayer Well’ 
-
-An opportunity to meet every month on the first Wednesday of each month in the home of a congregation member.
-
-- *Venue:* on request
-- *Dates*: Wed 7th February, 7th March
-- *Time:* 8.00-9.30pm
-- *Contact:* Jane Holloway
-- *Details:* a time to worship and pray for church, community, national and global issues together
+- *Venue:* St Mary’s Cogges
+- *Dates:* 5th September, 3rd October, 7th November, 5th December
+- *Time:* 7.30-9.00pm
+- *Contact:* Church Office
+- *Details:* an opportunity for the whole Church to gather to worship and to pray for God to move in our lives, our church, our town, our nation, our world.
 
 ### PRAYER FOR WOOD GREEN SCHOOL
 
@@ -71,13 +76,11 @@ An opportunity to meet every month on the first Wednesday of each month in the h
 - *Time:* 9.00-9.30am
 - *Contact:* Judith Ledden
 
-
 ### ADVENTURE PLUS
 
 - *Venue:* (and times) on request
 - *Contact:* Mari Graves
 - *Details:* We pray for the day to day work and the plans for the Adventure Base. It is open to all comers and we would be thrilled if anyone else would like to join in regularly or on a one off basis.
-
 
 ### THE CHURCHES TOGETHER IN WITNEY PRAYER BREAKFAST
 
@@ -85,4 +88,3 @@ An opportunity to meet every month on the first Wednesday of each month in the h
 - *Dates*: 4th Saturday in the month
 - *Time:* 8:00 Breakfast 8:45 – 9:30 Prayer
 - *Details:* [https://witneychurches.wordpress.com/](https://witneychurches.wordpress.com/)
-
