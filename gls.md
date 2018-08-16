@@ -22,7 +22,9 @@ OX29 0YB
 ### DESCRIPTION
 
 Gain fresh, actionable and inspiring leadership content from a world-class faculty at a convenient location near you. Come for two days of world-class leadership training.
+
 [View Speakers](http://willowcreek.org.uk/events/gls/)
+
 To book your place: https://www.eventbrite.co.uk/e/the-global-leadership-summit-2018-witney-tickets-38773369191
 
 
