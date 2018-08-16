@@ -23,9 +23,9 @@ OX29 0YB
 
 Gain fresh, actionable and inspiring leadership content from a world-class faculty at a convenient location near you. Come for two days of world-class leadership training.
 
-[View Speakers](http://willowcreek.org.uk/events/gls/)
+[View Speakers](http://willowcreek.org.uk/gls/#faculty)
 
-To book your place: https://www.eventbrite.co.uk/e/the-global-leadership-summit-2018-witney-tickets-38773369191
+[Click here to book your place](https://www.eventbrite.co.uk/e/the-global-leadership-summit-2018-witney-tickets-38773369191)
 
 
 ### TRAVEL INFORMATION
@@ -34,7 +34,7 @@ Use OX29 0YB postcode for SatNav instructions.
 [View Map](https://www.eventbrite.co.uk/e/the-global-leadership-summit-2018-witney-tickets-38773369191?aff=ehomecard#map-target)
 
 #### Public Transport
-The nearest train station is Hanborough.  From there you need to have pre-booked a taxi or get the 233 bus from outside the station to Witney Town Cen tre.  Alternatively get a train from Oxford then catch the S1 bus to Witney from Fridewide Square opposite the station.
+The nearest train station is Hanborough.  From there you need to have pre-booked a taxi or get the 233 bus from outside the station to Witney Town Centre.  Alternatively get a train to Oxford then catch the S1 bus to Witney from Frideswide Square opposite the station.
 
 Please note that public transport from Witney Town Centre to the venue is difficult and we recommend travelling by car if at all possible. 
 
