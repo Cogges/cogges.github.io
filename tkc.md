@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Thy Kingdom Come"
-group: "grow"
+group: "hidden"
 contacts: ["Jane Holloway"]
 ---
 
