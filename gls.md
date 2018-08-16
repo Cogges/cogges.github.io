@@ -38,8 +38,7 @@ Please note that public transport from Witney Town Centre to the venue is diffic
 
 If you need any information, please email (gls@coggesparish.com) and the church office will help you plan a route.
 
-
-### PARKING
+#### PARKING
 There is ample parking available at the venue and stewards will be there to direct you. 
 
 
