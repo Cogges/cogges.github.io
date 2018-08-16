@@ -36,7 +36,7 @@ The nearest train station is Hanborough.  From there you need to have pre-booked
 
 Please note that public transport from Witney Town Centre to the venue is difficult and we recommend travelling by car if at all possible. 
 
-If you need any information, please email (gls@coggesparish.com) and the church office will help you plan a route.
+If you need any information, please email gls@coggesparish.com and the church office will help you plan a route.
 
 #### PARKING
 There is ample parking available at the venue and stewards will be there to direct you. 
