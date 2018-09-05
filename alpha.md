@@ -16,11 +16,15 @@ Do these kinds of questions bug you? Then [Alpha](http://alpha.org/) is just for
 
 A great opportunity to explore the Christian faith and ask questions about life.
 
-Join us for our Alpha Supper on Thursday 3rd May at 7pm. To let us know you're coming, click [here](https://stmaryscogges.churchsuite.co.uk/events/sffixdic/)
+Join us for Alpha:
 
-Alpha: Starting 3rd May on Thursdays 7-9.30pm at Cogges Church Centre, with dinner included.
-Register/sign up here: [Alpha](https://stmaryscogges.churchsuite.co.uk/events/4myvyaet)
+Starting 18th September on Tuesdays 7.30-9.30pm at Cogges Kitchen, Cogges Farm, with dinner included.
+Register/sign up here: [Alpha](https://stmaryscogges.churchsuite.co.uk/events/kuyt2sig)
 
+or
+
+From 21st September on Friday mornings, 9.30-11.30am, at Cogges Church Centre.
+Register/sign up here: [Alpha](https://stmaryscogges.churchsuite.co.uk/events/m2m5yvoz)
 
 Alpha is free to attend.
 
