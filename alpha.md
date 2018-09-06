@@ -30,6 +30,6 @@ Alpha is free to attend.
 
 If you have any questions email office@coggesparish.com or call 01993 779613.
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <iframe width="771" height="434" src="https://www.youtube.com/embed/-WXr0vcT45w" frameborder="0" allowfullscreen></iframe>
