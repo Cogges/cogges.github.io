@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Witney Prayer Watch"
-group: "ENGAGE"
+group: engage
 contacts: ["Ali Laithwaite"]
 ---
 
