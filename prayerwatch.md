@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Witney Prayer Watch"
-group: "Engage"
+group: "ENGAGE"
 contacts: ["Ali Laithwaite"]
 ---
 
@@ -12,7 +12,7 @@ Psalm 127:1
 
 Come & watch with the Lord, to hear Him & to pray together for His purposes & actions for Witney & surrounding villages.  Everyone welcome.    
 
-SATURDAY 29 SEPTEMBER 7 A.M. - SUNDAY 30 SEPTEMBER 7 A.M.   ST MARY’S COGGES CHURCH & CENTRE
+## SATURDAY 29 SEPTEMBER 7 A.M. - SUNDAY 30 SEPTEMBER 7 A.M.   ST MARY’S COGGES CHURCH & CENTRE
 
 Led by Jenny Campbell (Wiltshire); with Jane Holloway, Simon Kirby & Martin Down (Witney), and Suzanne Ferrett (Windsor) teaching and leading in different watches.     
 Come and go as it suits: one part or all parts of the day/night. No charge, teas and coffees provided, Bring own food, or go home, or to the town centre (close by) for meals.   
