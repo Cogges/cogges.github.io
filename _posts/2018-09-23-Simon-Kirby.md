@@ -9,7 +9,7 @@ speaker_info: ""
 duration: "26'51"
 youtube_videos: [""]
 vimeo_videos: [""]
-slides: [""]
+slides: ["documents/Tears that Bring Freedom.pdf"]
 files: [""]
 bible_passages: ["John 11:17-37"]
 bible_links: ["John 11:17-37&amp;version=NIVUK"]
