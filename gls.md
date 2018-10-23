@@ -27,6 +27,9 @@ Gain fresh, actionable and inspiring leadership content from a world-class facul
 
 [Click here to book your place](https://www.eventbrite.co.uk/e/the-global-leadership-summit-2018-witney-tickets-38773369191)
 
+[GLS faculty member, Craig Groeschel, shares a special message ahead of GLS18](https://vimeo.com/293107641)
+
+[Preview the Global Leadership Summit experience](http://willowcreek.org.uk/gls/#2018_Summit_Preview)
 
 ### TRAVEL INFORMATION
 #### Driving 
