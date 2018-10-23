@@ -16,10 +16,10 @@ Do these kinds of questions bug you? Then [Alpha](http://alpha.org/) is just for
 
 A great opportunity to explore the Christian faith and ask questions about life.
 
+
 Join us for Alpha:
 
-Starting 18th September on Tuesdays 7.30-9.30pm at Cogges Kitchen, Cogges Farm, with dinner included.
-Register/sign up here: [Alpha](https://stmaryscogges.churchsuite.co.uk/events/kuyt2sig)
+Starting again in January: watch this space!
 
 Alpha is free to attend.
 
