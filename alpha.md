@@ -20,9 +20,11 @@ A great opportunity to explore the Christian faith and ask questions about life.
 
 Join us for Alpha:
 
-Starting again in January: watch this space!
+Starting again in January 2019: Thursday 24th, 7:30pm - 9:30pm at Cogges Kitchen, Cogges Farm
 
 Alpha is free to attend.
+
+[Sign up](https://stmaryscogges.churchsuite.co.uk/events/vrtthpdf)
 
 If you have any questions email office@coggesparish.com or call 01993 779613.
 
