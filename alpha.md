@@ -16,7 +16,7 @@ Do these kinds of questions bug you? Then [Alpha](http://alpha.org/) is just for
 
 A great opportunity to explore the Christian faith and ask questions about life.
 
-[Alpha Testimonies]("/documents/Compressed Alpha Video FINAL.m4v")
+[Alpha Testimonies](https://vimeo.com/303466415)
 
 Join us for Alpha:
 
