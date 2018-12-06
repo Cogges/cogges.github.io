@@ -1,9 +1,8 @@
 ---
 layout: page
-title: What's on
-contacts: 
-  - Sara Wild
-published: true
+title:  "What's On"
+group: "Discover"
+contacts: ["Sara Wild"]
 ---
 
 Join us this Christmas: 
