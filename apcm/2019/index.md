@@ -14,7 +14,7 @@ in St Mary's Church, Cogges.
 ### The meeting will begin with the meeting of parishioners:
 
 1. A meeting of parishioners to elect two Churchwardens
-([nomination form enclosed](/documents/apcm/2018/Nomination%20for%20Churchwarden.pdf "Opens link to the 'Nomination for Churchwarden' pdf document.") ![PDF](/images/pdficon_large.png))
+([nomination form enclosed](/documents/apcm/2019/Nomination%20for%20Churchwarden.pdf "Opens link to the 'Nomination for Churchwarden' pdf document.") ![PDF](/images/pdficon_large.png))
 
 
 ### There will then be the formal business of the APCM:
@@ -35,7 +35,7 @@ in St Mary's Church, Cogges.
 ([enclosed](/documents/apcm/2019/Deanery%20Synod%20Annual%20Report_APCM_2019.pdf "Opens link to the 'Deanery Synod Annual Report_APCM_2019' pdf document.") ![PDF](/images/pdficon_large.png))
 
 6. An election of four members of the laity to the PCC (for 3 years)
-([further information and nomination form enclosed](/documents/apcm/2019/Info%20for%20Prospective%20PCC%20Members.pdf "Opens link to the 'Info for Prospective PCC Members' pdf document.") ![PDF](/images/pdficon_large.png))
+([further information and nomination form enclosed](/documents/apcm/2019/Information%20for%20Prospective%20PCC%20Members%20(2019).pdf "Opens link to the 'Information for Prospective PCC Members (2019)' pdf document.") ![PDF](/images/pdficon_large.png))
 
 8. The appointment of sidesmen (delegated to the Churchwardens by resolution of the 1999 APCM)
 
@@ -49,7 +49,7 @@ in St Mary's Church, Cogges.
 
 ### Worship, followed by presentations and discussion:
 
-1. Presentations:<br>
+1. Presentations<br>
 <!--   a. Youth - - Ben Osman<br>
    b. Children - - Children's team<br>
    c. Home School Link and TLG coaches - - Judith Ledden<br>
@@ -57,7 +57,7 @@ in St Mary's Church, Cogges.
 
 2. The Vicar, Rev Simon Kirby<br>
 
-*This year at our vision night we will look back in gratitude for some of the things that God has achieved in and through us this last year and look forward in anticipation and expectation as we consider some of the plans for 2018.*
+<!-- *This year at our vision night we will look back in gratitude for some of the things that God has achieved in and through us this last year and look forward in anticipation and expectation as we consider some of the plans for 2019.*  -->
 
 ### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
 
