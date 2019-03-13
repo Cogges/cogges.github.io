@@ -50,14 +50,14 @@ in St Mary's Church, Cogges.
 ### Worship, followed by presentations and discussion:
 
 1. Presentations<br>
-<!--   a. Youth - - Ben Osman<br>
-   b. Children - - Children's team<br>
-   c. Home School Link and TLG coaches - - Judith Ledden<br>
-   d. Mission Thinking - - Rev Rich White -->
+   a. Missional Communities<br>
+   b. Cogges Table (Community Lunch)<br>
+   c. Cogglets<br>
+   d. Men's Ministry
 
 2. The Vicar, Rev Simon Kirby<br>
 
-<!-- *This year at our vision night we will look back in gratitude for some of the things that God has achieved in and through us this last year and look forward in anticipation and expectation as we consider some of the plans for 2019.*  -->
+Vision night gives us an opportunity to thank God for what he has done in our community in the previous year and look with excitement and faith towards where we believe He is leading us in the months ahead. 
 
 ### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
 
