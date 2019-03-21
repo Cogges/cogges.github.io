@@ -23,7 +23,7 @@ in St Mary's Church, Cogges.
 ([enclosed](/documents/apcm/2018/Apcm18_minutes.pdf "Opens link to the 'Apcm18_minutes' pdf document.") ![PDF](/images/pdficon_large.png))
 
 2. A report on the numbers on the new electoral roll
-([enclosed](/documents/apcm/2019/Electoral%20Roll%20Report%202019.pdf "Opens link to the 'Electoral Roll Report 2019' pdf document.") ![PDF](/images/pdficon_large.png))
+([enclosed](/documents/apcm/2019/Electoral%20Roll%20Report%202019%20v2.pdf "Opens link to the 'Electoral Roll Report 2019 v2' pdf document.") ![PDF](/images/pdficon_large.png)) <em><strong>(updated)</strong></em>
 
 3. The annual report and financial statements of the PCC for 2018
 ([enclosed](/documents/apcm/2019/AR+FS_2018.pdf "Opens link to the 'AR+FS_2018' pdf document.") ![PDF](/images/pdficon_large.png))
