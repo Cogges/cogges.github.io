@@ -60,8 +60,8 @@ The full recording above includes:<br>
 - [Speaker's notes](/documents/APCM-2019-03-21-notes-Men’s%20Ministry.pdf "'APCM-2019-03-21-notes-Men’s Ministry.pdf' document") ![PDF](/images/pdficon_large.png)
 
 &nbsp;&nbsp;**The Vicar's Report** by Rev Simon Kirby (34 minutes):
-- listen now: <audio src="/documents/APCM-2019-03-21-audio-Thanks and Simon's Talk.mp3" type="audio/mpeg"></audio>
-- [download audio file ](/documents/APCM-2019-03-21-audio-Thanks and Simon's Talk.mp3 "'APCM-2019-03-21-audio-Thanks and Simon's Talk.mp3' audio file")
+- listen now: <audio src="/documents/APCM-2019-03-21-audio-Thanks%20and%20Simon's%20Talk.mp3" type="audio/mpeg"></audio>
+- [download audio file ](/documents/APCM-2019-03-21-audio-Thanks%20and%20Simon's%20Talk.mp3 "'APCM-2019-03-21-audio-Thanks and Simon's Talk.mp3' audio file")
 
 <br>
 <span>Updated 6th April 2019</span>
