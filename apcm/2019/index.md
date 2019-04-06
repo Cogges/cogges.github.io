@@ -5,67 +5,65 @@ contacts: ["Malcolm Harper"]
 ---
 ## Notice of Meeting
 
-The Annual Parochial Church Meeting will be held<br>
-at 7:30pm on Thursday, 21st March 2019<br>
+The Annual Parochial Church Meeting was held<br>
+on Thursday, 21st March 2019<br>
 in St Mary's Church, Cogges.
 
-## Agenda
+### Agenda and papers for APCM 2019
 
-### The meeting will begin with the meeting of parishioners:
+Full details of the meeting of parishioners and the Annual Parochial Church Meeting, together with various written reports, can be found
+from the original [Agenda](agenda.html "Opens link to the 'Agenda and papers for APCM 2019' page") for the meeting.
 
-1. A meeting of parishioners to elect two Churchwardens
-([nomination form enclosed](/documents/apcm/2019/Nomination%20for%20Churchwarden.pdf "Opens link to the 'Nomination for Churchwarden' pdf document.") ![PDF](/images/pdficon_large.png))
+[Draft Minutes](/documents/apcm/2019/Apcm19_minutes.pdf "Opens link to the Apcm19_minutes.pdf document") ![PDF](/images/pdficon_large.png) will soon be available.
 
 
-### There will then be the formal business of the APCM:
+## Meeting Report
 
-1. Minutes of the 2018 APCM
-([enclosed](/documents/apcm/2018/Apcm18_minutes.pdf "Opens link to the 'Apcm18_minutes' pdf document.") ![PDF](/images/pdficon_large.png))
+The meeting was recorded and the following audio clips, presentation slides and speakers' notes are available:<br><br>
 
-2. A report on the numbers on the new electoral roll
-([enclosed](/documents/apcm/2019/Electoral%20Roll%20Report%202019%20v2.pdf "Opens link to the 'Electoral Roll Report 2019 v2' pdf document.") ![PDF](/images/pdficon_large.png)) <em><strong>(updated)</strong></em>
+### Introduction:
 
-3. The annual report and financial statements of the PCC for 2018
-([enclosed](/documents/apcm/2019/AR+FS_2018.pdf "Opens link to the 'AR+FS_2018' pdf document.") ![PDF](/images/pdficon_large.png))
+**Recording of the introduction** (5 minutes):
+- listen now: <audio src="/documents/APCM-2019-03-21-audio-Introduction.mp3" type="audio/mpeg"></audio>
+- [download audio file ](/documents/APCM-2019-03-21-audio-Introduction.mp3 "'APCM-2019-03-21-audio-Introduction.mp3' audio file")<br><br>
 
-4. The Churchwardens' report on the fabric, goods and ornaments of St Mary's Church, Cogges
-([enclosed](/documents/apcm/2019/2019%20APCM%20CW%20Report%20Fabric%20Goods%20and%20Ornaments.pdf "Opens link to the '2019 APCM CW Report Fabric Goods and Ornaments' pdf document.") ![PDF](/images/pdficon_large.png))
+### The formal meeting:
 
-5. A report on the proceedings of the Deanery Synod
-([enclosed](/documents/apcm/2019/Deanery%20Synod%20Annual%20Report_APCM_2019.pdf "Opens link to the 'Deanery Synod Annual Report_APCM_2019' pdf document.") ![PDF](/images/pdficon_large.png))
+**Full recording of the formal meeting** (31 minutes):
+- listen now: <audio src="/documents/APCM-2019-03-21-audio-Business.mp3" type="audio/mpeg"></audio>
+- [download audio file ](/documents/APCM-2019-03-21-audio-Business.mp3 "'APCM-2019-03-21-audio-Business.mp3' audio file")<br><br>
 
-6. An election of four members of the laity to the PCC (for 3 years)
-([further information and nomination form enclosed](/documents/apcm/2019/Information%20for%20Prospective%20PCC%20Members%20(2019).pdf "Opens link to the 'Information for Prospective PCC Members (2019)' pdf document.") ![PDF](/images/pdficon_large.png))
+The full recording above includes:<br>
+&nbsp;&nbsp;**A report on the Financial Statements** by Keith Harwood and Alasdair Wild (10 minutes):
+- listen now: <audio src="/documents/APCM-2019-03-21-audio-Finance.mp3" type="audio/mpeg"></audio>
+- [download audio file ](/documents/APCM-2019-03-21-audio-Finance.mp3 "'APCM-2019-03-21-audio-Finance.mp3' audio file")
+- [Presentation Slides](/documents/APCM-2019-03-21-slides-Finance%20Presentation.pdf "'APCM-2019-03-21-slides-Finance Presentation.pdf' document") ![PDF](/images/pdficon_large.png)
 
-8. The appointment of sidesmen (delegated to the Churchwardens by resolution of the 1999 APCM)
+### Presentations:
 
-9. The appointment of an independent financial examiner for 2019 (the PCC has nominated A J Carter & Co)
+&nbsp;&nbsp;**Missional Communities** by Ian Smith (3 minutes):
+- listen now: <audio src="/documents/APCM-2019-03-21-audio-Missional%20Communities%20Presentation.mp3" type="audio/mpeg"></audio>
+- [download audio file ](/documents/APCM-2019-03-21-audio-Missional%20Communities%20Presentation.mp3 "'APCM-2019-03-21-audio-Missional Communities Presentation.mp3' audio file")
 
-10. Questions or comments on matters of Parochial interest
+&nbsp;&nbsp;**Cogges Table** by Martin Down (1 minute):
+- listen now: <audio src="/documents/APCM-2019-03-21-audio-Cogges%20Table%20Presentation.mp3" type="audio/mpeg"></audio>
+- [download audio file ](/documents/APCM-2019-03-21-audio-Cogges%20Table%20Presentation.mp3 "'APCM-2019-03-21-audio-Cogges Table Presentation.mp3' audio file")
 
-11. Any other business
+&nbsp;&nbsp;**Cogglets** by Alan Elson, Lisa Bryan and the Cogglets team (6 minutes):
+- listen now: <audio src="/documents/APCM-2019-03-21-audio-Cogglets%20Presentation.mp3" type="audio/mpeg"></audio>
+- [download audio file ](/documents/APCM-2019-03-21-audio-Cogglets%20Presentation.mp3 "'APCM-2019-03-21-audio-Cogglets Presentation.mp3' audio file")
 
-12. Commissioning of the new PCC
+&nbsp;&nbsp;**Men's Ministry** by Chris Jones (6 minutes):
+- listen now: <audio src="/documents/APCM-2019-03-21-audio-Men's%20Ministry%20Presentation.mp3" type="audio/mpeg"></audio>
+- [download audio file ](/documents/APCM-2019-03-21-audio-Men's%20Ministry%20Presentation.mp3 "'APCM-2019-03-21-audio-Men's Ministry Presentation.mp3' audio file")
+- [Presentation Slides](/documents/APCM-2019-03-21-slides-Men’s%20Ministry.pdf "'APCM-2019-03-21-slides-Men’s Ministry.pdf' document") ![PDF](/images/pdficon_large.png)<br><br>
+- [Speaker's notes](/documents/APCM-2019-03-21-notes-Men’s%20Ministry.pdf "'APCM-2019-03-21-notes-Men’s Ministry.pdf' document") ![PDF](/images/pdficon_large.png)
 
-### Worship, followed by presentations and discussion:
+&nbsp;&nbsp;**The Vicar's Report** by Rev Simon Kirby (34 minutes):
+- listen now: <audio src="/documents/APCM-2019-03-21-audio-Thanks and Simon's Talk.mp3" type="audio/mpeg"></audio>
+- [download audio file ](/documents/APCM-2019-03-21-audio-Thanks and Simon's Talk.mp3 "'APCM-2019-03-21-audio-Thanks and Simon's Talk.mp3' audio file")
 
-1. Presentations<br>
-   a. Missional Communities<br>
-   b. Cogges Table (Community Lunch)<br>
-   c. Cogglets<br>
-   d. Men's Ministry
-
-2. The Vicar, Rev Simon Kirby<br>
-
-Vision night gives us an opportunity to thank God for what he has done in our community in the previous year and look with excitement and faith towards where we believe He is leading us in the months ahead. 
-
-### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
-
-<br><br>
-
-Additional reports, for information:
-
-1. The Blake Church of England Primary School
-([enclosed](/documents/apcm/2019/Blake%20APCM%20report%202019.pdf "Opens link to the 'Blake APCM report 2019' pdf document.") ![PDF](/images/pdficon_large.png))
+<br>
+<span>Updated 6th April 2019</span>
 
 <br><br>
