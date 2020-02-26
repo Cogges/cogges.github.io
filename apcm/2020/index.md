@@ -59,10 +59,3 @@ Vision night gives us an opportunity to thank God for what he has done in our co
 ### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
 
 <br><br>
-
-# Additional reports, for information:
-# 
-# 1. The Blake Church of England Primary School
-# ([enclosed](/documents/apcm/2019/Blake%20APCM%20report%202020.pdf "Opens link to the 'Blake APCM report 2020' pdf document.") ![PDF](/images/pdficon_large.png))
-
-<br><br>
