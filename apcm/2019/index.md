@@ -14,7 +14,7 @@ in St Mary's Church, Cogges.
 Full details of the meeting of parishioners and the Annual Parochial Church Meeting, together with various written reports, can be found
 from the original [Agenda](agenda.html "Opens link to the 'Agenda and papers for APCM 2019' page") for the meeting.
 
-[Draft Minutes](/documents/apcm/2019/Apcm19_minutes.pdf "Opens link to the Apcm19_minutes.pdf document") ![PDF](/images/pdficon_large.png) will soon be available.
+[Draft Minutes](/documents/apcm/2019/Apcm19_minutes.pdf "Opens link to the Apcm19_minutes.pdf document") ![PDF](/images/pdficon_large.png) are now available.
 
 
 ## Meeting Report
@@ -64,6 +64,6 @@ The full recording above includes:<br>
 - [download audio file ](/documents/APCM-2019-03-21-audio-Thanks%20and%20Simon's%20Talk.mp3 "'APCM-2019-03-21-audio-Thanks and Simon's Talk.mp3' audio file")
 
 <br>
-<span>Updated 6th April 2019</span>
+<span>Updated 4th March 2020</span>
 
 <br><br>
