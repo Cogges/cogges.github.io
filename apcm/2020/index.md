@@ -34,7 +34,7 @@ in St Mary's Church, Cogges.
 5. A report on the proceedings of the Deanery Synod
 ([enclosed](/documents/apcm/2020/Deanery%20Synod%20Annual%20Report_APCM_2020.pdf "Opens link to the 'Deanery Synod Annual Report_APCM_2020' pdf document.") ![PDF](/images/pdficon_large.png))
 
-6. Elections ([further information and nomination form enclosed](/documents/apcm/2020/Information%20for%20Prospective%20PCC%20Members%20(2020).pdf "Opens link to the 'Information for Prospective PCC Members (2020)' pdf document.") ![PDF](/images/pdficon_large.png))
+6. Elections ([further information enclosed](/documents/apcm/2020/PCC%20Contract%202020.pdf "Opens link to the 'PCC Contract 2020' pdf document.") ![PDF](/images/pdficon_large.png))
 
    a.  An election of five members of the laity to the Deanery Synod (for 3 years) ([nomination form enclosed](/documents/apcm/2020/Nomination%20for%20Synod.pdf "Opens link to the 'Nomination for Synod' pdf document.") ![PDF](/images/pdficon_large.png)) 
 
@@ -54,7 +54,7 @@ in St Mary's Church, Cogges.
 
 2. The Vicar, Rev Simon Kirby<br>
 
-Vision night gives us an opportunity to thank God for what he has done in our community in the previous year and look with excitement and faith towards where we believe He is leading us in the months ahead. 
+This year at our vision evening we will look back in gratitude for some of the things that God has achieved in and through us this last year, and look forward in anticipation and expectation as we consider some of the plans for 2020. 
 
 ### The meeting will be followed by an opportunity to chat informally over drinks and nibbles.
 
