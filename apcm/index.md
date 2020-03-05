@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Annual Parochial Church Meetings"
-contacts: ["Malcolm Harper"]
 ---
 
 ### 2020
