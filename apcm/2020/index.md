@@ -9,7 +9,7 @@ The Annual Parochial Church Meeting will be held<br>
 at 7:30pm on Thursday, 19th March 2020<br>
 in St Mary's Church, Cogges.
 
-## Draft Agenda
+## Agenda
 
 ### The meeting will begin with the meeting of parishioners:
 
@@ -51,6 +51,9 @@ in St Mary's Church, Cogges.
 ### Worship, followed by presentations and discussion:
 
 1. Presentations<br>
+   a. TLG (Transforming Lives for Good) - Tim Edwards Grundy<br>
+   b. Eco-Church - Andy McCulloch<br>
+   c. Youth - Ben Osman
 
 2. The Vicar, Rev Simon Kirby<br>
 
