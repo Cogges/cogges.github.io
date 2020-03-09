@@ -3,15 +3,9 @@ layout: page
 title: "Annual Parochial Church Meetings"
 ---
 
-### 2020
+### 2019 and later
 
-* [Agenda and papers for APCM 2020](./2020/index.html "Opens link to the 'Agenda and papers for APCM 2020' page")
-<!--* [Reports and Presentations from APCM 2020](./2020/index.html "Opens link to the 'Reports and Presentations from APCM 2020' page")-->
-
-### 2019
-
-* [Agenda and papers for APCM 2019](./2019/agenda.html "Opens link to the 'Agenda and papers for APCM 2019' page")
-* [Reports and Presentations from APCM 2019](./2019/index.html "Opens link to the 'Reports and Presentations from APCM 2019' page")
+* [Agenda and papers, reports and presentations for 2019 and later](https://coggesparish.com/apcm/)
 
 ### 2018
 
